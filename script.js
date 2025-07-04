@@ -1,5 +1,5 @@
 // JSearch API Configuration
-const JSEARCH_API_KEY = 'YOUR_RAPIDAPI_KEY_HERE'; // Replace with your actual API key
+const JSEARCH_API_KEY = '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
 
 // Dream companies list
