@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { getAllJobs } = require('./career-page-scraper');
+const { fetchAllRealJobs } = require('./real-career-scraper');
 
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync('./companies.json', 'utf8'));
@@ -382,9 +382,9 @@ async function generateReadme(jobs) {
     
     return `# 💼 Zapply Job Board
 
-**🚀 Curated opportunities from ${totalCompanies}+ top companies • Updated daily**
+**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily**
 
-> The most comprehensive collection of software engineering jobs from FAANG, unicorns, and elite startups. Real positions from actual career pages, updated every 24 hours.
+> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours.
 
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: ${jobs.length} 
@@ -474,7 +474,7 @@ ${Object.entries(stats.byLocation)
 
 ## 🔮 **What Makes This Special**
 
-✅ **Real Jobs Only**: Direct from company career pages, no spam<br>
+✅ **100% Real Jobs**: Scraped directly from company career APIs, no fake data<br>
 ✅ **Elite Companies**: Only top-tier tech companies and unicorns<br>
 ✅ **Fresh Daily**: Updated every 24 hours automatically<br>
 ✅ **Smart Filtering**: AI-powered categorization and deduplication<br>
@@ -539,8 +539,8 @@ async function updateReadme() {
     try {
         console.log('🚀 Starting Zapply job board update...');
         
-        // Use hybrid approach: career pages + API
-        const allJobs = await getAllJobs();
+        // Fetch REAL jobs from actual career pages
+        const allJobs = await fetchAllRealJobs();
         
         if (allJobs.length === 0) {
             console.log('⚠️ No jobs found, keeping existing README');
