@@ -3,99 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zapply - Automate Your Job Applications</title>
+    <title>Dream Jobs - Top Tech Companies</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>">
 </head>
 <body>
     <div class="dev-banner">
         <div class="dev-banner-content">
-            <span class="dev-banner-icon">🚧</span>
-            <span class="dev-banner-text">Zapply is currently in development. Join our waitlist to be notified when we launch!</span>
+            <span class="dev-banner-icon">🚀</span>
+            <span class="dev-banner-text">Fresh opportunities from dream companies • Updated daily</span>
         </div>
     </div>
+
     <header class="header">
-        <nav class="nav">
-            <div class="nav-container">
-                <a href="#" class="logo">
-                    <span class="logo-text">Zapply</span>
-                </a>
-                <ul class="nav-menu">
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="dream-jobs.html">Dream Jobs</a></li>
-                    <li><a href="#pricing">Pricing</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
+        <div class="header-container">
+            <div class="logo">
+                <span class="logo-icon">💼</span>
+                <span class="logo-text">Dream Jobs</span>
             </div>
-        </nav>
+            <div class="header-stats">
+                <span class="stat-item">
+                    <span class="stat-number" id="jobCount">Loading...</span>
+                    <span class="stat-label">Jobs</span>
+                </span>
+                <span class="stat-item">
+                    <span class="stat-number">20+</span>
+                    <span class="stat-label">Companies</span>
+                </span>
+            </div>
+        </div>
     </header>
 
-    <main>
+    <main class="main">
         <section class="hero">
-            <div class="hero-container">
-                <h1 class="hero-title">Land Your Dream Job<br><span class="highlight">Automatically</span></h1>
-                <p class="hero-subtitle">We're building the next generation of job application automation. Join thousands of job seekers who are already on the waitlist.</p>
-                <div class="hero-buttons">
-                    <button class="btn btn-primary">Join Waitlist</button>
-                    <button class="btn btn-secondary">Learn More</button>
+            <div class="container">
+                <h1 class="hero-title">Latest Jobs from Dream Companies</h1>
+                <p class="hero-subtitle">Discover fresh opportunities from FAANG and other top tech companies</p>
+            </div>
+        </section>
+
+        <section class="filters">
+            <div class="container">
+                <div class="filters-row">
+                    <div class="filter-group">
+                        <label for="companyFilter">Company</label>
+                        <select id="companyFilter" class="filter-select">
+                            <option value="">All Companies</option>
+                            <option value="Google">Google</option>
+                            <option value="Apple">Apple</option>
+                            <option value="Microsoft">Microsoft</option>
+                            <option value="Amazon">Amazon</option>
+                            <option value="Meta">Meta</option>
+                            <option value="Netflix">Netflix</option>
+                            <option value="Tesla">Tesla</option>
+                            <option value="Nvidia">Nvidia</option>
+                            <option value="Salesforce">Salesforce</option>
+                            <option value="Adobe">Adobe</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="locationFilter">Location</label>
+                        <select id="locationFilter" class="filter-select">
+                            <option value="">All Locations</option>
+                            <option value="San Francisco">San Francisco</option>
+                            <option value="New York">New York</option>
+                            <option value="Seattle">Seattle</option>
+                            <option value="Austin">Austin</option>
+                            <option value="Remote">Remote</option>
+                            <option value="Mountain View">Mountain View</option>
+                            <option value="Cupertino">Cupertino</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="roleFilter">Role Type</label>
+                        <select id="roleFilter" class="filter-select">
+                            <option value="">All Roles</option>
+                            <option value="Software Engineer">Software Engineer</option>
+                            <option value="Frontend">Frontend Developer</option>
+                            <option value="Backend">Backend Developer</option>
+                            <option value="Full Stack">Full Stack Developer</option>
+                            <option value="Data">Data Scientist</option>
+                            <option value="Machine Learning">ML Engineer</option>
+                            <option value="DevOps">DevOps Engineer</option>
+                            <option value="Product">Product Manager</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <button id="clearFilters" class="clear-btn">Clear All</button>
+                    </div>
                 </div>
             </div>
         </section>
 
-        <section id="features" class="features">
+        <section class="jobs-section">
             <div class="container">
-                <h2 class="section-title">Why Choose Zapply?</h2>
-                <div class="features-grid">
-                    <div class="feature-card">
-                        <div class="feature-icon">🚀</div>
-                        <h3>Smart Application Assistant</h3>
-                        <p>Our AI-powered platform will help streamline your job application process across multiple platforms.</p>
-                    </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">🎯</div>
-                        <h3>Smart Matching</h3>
-                        <p>AI-powered job matching that finds opportunities perfectly suited to your skills and experience.</p>
-                    </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">📊</div>
-                        <h3>Application Dashboard</h3>
-                        <p>Organize and track your job applications with intelligent insights and follow-up recommendations.</p>
-                    </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">💼</div>
-                        <h3>Dream Company Jobs</h3>
-                        <p>Access curated job listings from top companies like Google, Apple, Microsoft, and more.</p>
+                <div class="jobs-header">
+                    <h2 class="jobs-title">Available Positions</h2>
+                    <div class="sort-options">
+                        <select id="sortSelect" class="sort-select">
+                            <option value="newest">Newest First</option>
+                            <option value="oldest">Oldest First</option>
+                            <option value="company">Company A-Z</option>
+                            <option value="title">Job Title A-Z</option>
+                        </select>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <section id="pricing" class="pricing">
-            <div class="container">
-                <h2 class="section-title">Early Bird Pricing</h2>
-                <div class="pricing-grid">
-                    <div class="pricing-card">
-                        <h3>Starter</h3>
-                        <div class="price">$9<span>/month</span></div>
-                        <ul>
-                            <li>Smart application assistance</li>
-                            <li>Application tracking</li>
-                            <li>Email support</li>
-                            <li>Early access features</li>
-                        </ul>
-                        <button class="btn btn-primary">Reserve Spot</button>
-                    </div>
-                    <div class="pricing-card featured">
-                        <h3>Pro</h3>
-                        <div class="price">$19<span>/month</span></div>
-                        <ul>
-                            <li>Everything in Starter</li>
-                            <li>Advanced AI features</li>
-                            <li>Priority support</li>
-                            <li>Dream company alerts</li>
-                        </ul>
-                        <button class="btn btn-primary">Reserve Spot</button>
-                    </div>
+                <div class="loading" id="loadingIndicator">
+                    <div class="spinner"></div>
+                    <p>Loading latest opportunities...</p>
+                </div>
+
+                <div id="jobsContainer" class="jobs-grid"></div>
+                
+                <div class="no-jobs" id="noJobs" style="display: none;">
+                    <div class="no-jobs-icon">🔍</div>
+                    <h3>No jobs found</h3>
+                    <p>Try adjusting your filters or check back later for new opportunities.</p>
                 </div>
             </div>
         </section>
@@ -103,7 +128,7 @@
 
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2024 Zapply. All rights reserved.</p>
+            <p>Data updated daily from top tech companies • Not affiliated with any company</p>
         </div>
     </footer>
 
