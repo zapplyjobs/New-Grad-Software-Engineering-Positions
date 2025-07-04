@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { getAllJobs } = require('./career-page-scraper');
 
 // Load comprehensive company database
 const companies = JSON.parse(fs.readFileSync('./companies.json', 'utf8'));
@@ -379,7 +380,7 @@ async function generateReadme(jobs) {
         companies.faang_plus.some(c => c.name === job.employer_name)
     ).length;
     
-    return `# 💼 Elite Tech Jobs
+    return `# 💼 Zapply Job Board
 
 **🚀 Curated opportunities from ${totalCompanies}+ top companies • Updated daily**
 
@@ -522,7 +523,7 @@ Spotted an issue or want to suggest improvements?
 
 **🎯 ${jobs.length} current opportunities from ${totalCompanies} elite companies**
 
-**Found this helpful? Give it a ⭐ to support the project!**
+**Found this helpful? Give it a ⭐ to support Zapply!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
@@ -536,28 +537,27 @@ Spotted an issue or want to suggest improvements?
 // Main execution function
 async function updateReadme() {
     try {
-        console.log('🚀 Starting advanced job board update...');
+        console.log('🚀 Starting Zapply job board update...');
         
-        // Fetch comprehensive job data
-        const allJobs = await fetchAllJobs();
-        const targetJobs = filterTargetCompanyJobs(allJobs);
+        // Use hybrid approach: career pages + API
+        const allJobs = await getAllJobs();
         
-        if (targetJobs.length === 0) {
-            console.log('⚠️ No target company jobs found, keeping existing README');
+        if (allJobs.length === 0) {
+            console.log('⚠️ No jobs found, keeping existing README');
             return;
         }
         
         // Generate enhanced README
-        const readmeContent = await generateReadme(targetJobs);
+        const readmeContent = await generateReadme(allJobs);
         
         // Write to file
         fs.writeFileSync('README.md', readmeContent);
-        console.log(`✅ README updated successfully with ${targetJobs.length} elite opportunities!`);
+        console.log(`✅ Zapply job board updated with ${allJobs.length} opportunities!`);
         
         // Log summary
-        const companyStats = generateCompanyStats(targetJobs);
+        const companyStats = generateCompanyStats(allJobs);
         console.log('\n📊 Summary:');
-        console.log(`- Total Jobs: ${targetJobs.length}`);
+        console.log(`- Total Jobs: ${allJobs.length}`);
         console.log(`- Companies: ${Object.keys(companyStats.totalByCompany).length}`);
         console.log(`- Categories: ${Object.keys(companyStats.byCategory).length}`);
         console.log(`- Locations: ${Object.keys(companyStats.byLocation).length}`);

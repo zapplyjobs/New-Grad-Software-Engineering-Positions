@@ -1,4 +1,4 @@
-name: Update Elite Tech Jobs
+name: Update Zapply Jobs
 
 on:
   schedule:
@@ -12,7 +12,7 @@ on:
       - 'companies.json'
 
 jobs:
-  update-elite-jobs:
+  update-jobs:
     runs-on: ubuntu-latest
     
     steps:
@@ -24,7 +24,7 @@ jobs:
       with:
         node-version: '18'
         
-    - name: Fetch elite tech opportunities
+    - name: Update job listings
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
       run: node advanced-job-fetcher.js
@@ -51,38 +51,11 @@ jobs:
         JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
         COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
         
-        git commit -m "🚀 Elite Tech Jobs Update - $(date +'%Y-%m-%d')
-
-        📊 Latest Opportunities Summary:
-        • $JOB_COUNT active positions from top tech companies
-        • $COMPANY_COUNT elite companies (FAANG, unicorns, startups)  
-        • Fresh data from career pages and job boards
-        • Comprehensive filtering and deduplication applied
+        git commit -m "Update jobs - $(date +'%Y-%m-%d')
         
-        🎯 Categories Updated:
-        • Software Engineering (all levels)
-        • Machine Learning & AI
-        • Data Science & Analytics  
-        • Mobile Development (iOS/Android)
-        • Frontend/Backend/Full Stack
-        • DevOps & Infrastructure
-        • Product Management & Design
-        
-        🏢 Company Types:
-        • FAANG+ (Google, Apple, Microsoft, Amazon, Meta, etc.)
-        • Unicorn Startups (OpenAI, Stripe, Databricks, etc.)
-        • Elite Gaming (Epic, Riot, Unity, Roblox)
-        • Top Fintech (Coinbase, Robinhood, Square)
-        • Enterprise Leaders (Salesforce, Adobe, Oracle)
-        
-        🔧 Technical Details:
-        • Multi-location job search (SF, NYC, Seattle, Austin, Remote)
-        • Experience level categorization (Entry/Mid/Senior)
-        • Smart company name normalization
-        • Duplicate removal and ranking by company tier
-        • Rate limit compliance (1.2s delays between API calls)
-        
-        Next update: Tomorrow at 9 AM UTC"
+        Found $JOB_COUNT positions from $COMPANY_COUNT companies
+        Updated categories, locations, and experience levels
+        Next update tomorrow"
         
     - name: Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
@@ -93,7 +66,7 @@ jobs:
         
     - name: Create job summary
       run: |
-        echo "## 🚀 Elite Tech Jobs Update Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "## 🚀 Zapply Jobs Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
