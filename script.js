@@ -356,11 +356,13 @@ function delay(ms) {
 
 // Real API fetching (for when API key is configured)
 async function fetchJobsFromAPI() {
+    // JSearch works better with simpler, broader queries
     const searchQueries = [
-        'software engineer Google Apple Microsoft',
-        'developer Amazon Meta Netflix',
-        'engineer Tesla Nvidia Salesforce',
-        'software Uber Airbnb Spotify'
+        'software engineer',
+        'frontend developer', 
+        'backend developer',
+        'data scientist',
+        'product manager'
     ];
     
     const allJobs = [];
@@ -383,7 +385,8 @@ async function searchJobs(query) {
     url.searchParams.append('query', query);
     url.searchParams.append('page', '1');
     url.searchParams.append('num_pages', '1');
-    url.searchParams.append('date_posted', 'week');
+    url.searchParams.append('date_posted', 'month');
+    url.searchParams.append('employment_types', 'FULLTIME');
     
     const response = await fetch(url, {
         method: 'GET',
