@@ -384,11 +384,11 @@ async function fetchAllRealJobs() {
         });
     });
     
-    // Sort by posting date (ascending - oldest first)
+    // Sort by posting date (descending - latest first)
     uniqueJobs.sort((a, b) => {
         const dateA = new Date(a.job_posted_at_datetime_utc);
         const dateB = new Date(b.job_posted_at_datetime_utc);
-        return dateA - dateB;
+        return dateB - dateA;
     });
     
     console.log(`📊 Total jobs collected: ${allJobs.length}`);
