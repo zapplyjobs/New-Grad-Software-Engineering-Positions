@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fetch = require('node-fetch');
+// Using built-in fetch (Node 18+) instead of node-fetch
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
@@ -40,6 +40,14 @@ function delay(ms) {
 }
 
 function getCompanyEmoji(company) {
+    const companyLower = company.toLowerCase();
+    
+    // Handle variations
+    if (companyLower.includes('amazon')) return COMPANY_EMOJIS['Amazon'] || '📦';
+    if (companyLower.includes('google')) return COMPANY_EMOJIS['Google'] || '🟢';
+    if (companyLower.includes('meta') || companyLower.includes('facebook')) return COMPANY_EMOJIS['Meta'] || '🔵';
+    if (companyLower.includes('microsoft')) return COMPANY_EMOJIS['Microsoft'] || '🟦';
+    
     return COMPANY_EMOJIS[company] || '🏢';
 }
 
@@ -142,21 +150,58 @@ async function fetchAllJobs() {
 }
 
 function filterDreamCompanyJobs(jobs) {
+    // More flexible company matching
     const dreamJobs = jobs.filter(job => {
-        const companyName = job.employer_name || '';
-        return DREAM_COMPANIES.some(dreamCompany => 
-            companyName.toLowerCase().includes(dreamCompany.toLowerCase())
-        );
+        const companyName = (job.employer_name || '').toLowerCase();
+        
+        // Direct matches
+        if (DREAM_COMPANIES.some(dreamCompany => 
+            companyName.includes(dreamCompany.toLowerCase())
+        )) {
+            return true;
+        }
+        
+        // Special cases for common variations
+        const companyMappings = {
+            'amazon': ['amazon', 'aws', 'prime video', 'amazon mgm'],
+            'google': ['google', 'alphabet', 'youtube', 'waymo'],
+            'meta': ['meta', 'facebook', 'instagram', 'whatsapp'],
+            'microsoft': ['microsoft', 'xbox', 'linkedin'],
+            'apple': ['apple'],
+            'tesla': ['tesla'],
+            'netflix': ['netflix'],
+            'nvidia': ['nvidia'],
+            'salesforce': ['salesforce'],
+            'adobe': ['adobe'],
+            'uber': ['uber'],
+            'airbnb': ['airbnb'],
+            'spotify': ['spotify'],
+            'stripe': ['stripe']
+        };
+        
+        for (const [mainCompany, variations] of Object.entries(companyMappings)) {
+            if (variations.some(variation => companyName.includes(variation))) {
+                // Normalize the company name
+                job.employer_name = mainCompany.charAt(0).toUpperCase() + mainCompany.slice(1);
+                if (mainCompany === 'amazon' && companyName.includes('aws')) {
+                    job.employer_name = 'Amazon (AWS)';
+                }
+                return true;
+            }
+        }
+        
+        return false;
     });
     
     console.log(`Filtered to ${dreamJobs.length} dream company jobs`);
+    console.log('Companies found:', [...new Set(dreamJobs.map(j => j.employer_name))]);
     
     // Remove duplicates
     const uniqueJobs = dreamJobs.filter((job, index, self) => 
         index === self.findIndex(j => 
             j.job_title === job.job_title && 
             j.employer_name === job.employer_name &&
-            j.job_city === job.job_city
+            j.job_city === j.job_city
         )
     );
     

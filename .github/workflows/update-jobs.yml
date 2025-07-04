@@ -22,8 +22,7 @@ jobs:
       with:
         node-version: '18'
         
-    - name: Install dependencies
-      run: npm install node-fetch
+    # Node 18+ has built-in fetch, no dependencies needed
         
     - name: Update README with latest jobs
       env:
