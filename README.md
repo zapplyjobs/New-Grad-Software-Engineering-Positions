@@ -1,12 +1,12 @@
 # 💼 Zapply Job Board
 
-**🚀 Real opportunities from 80+ top companies • Updated daily**
+**🚀 Real opportunities from 81+ top companies • Updated daily**
 
 > Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours.
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 814 
-- **🏢 Companies**: 80 elite tech companies
+- **🔥 Active Positions**: 815 
+- **🏢 Companies**: 81 elite tech companies
 - **⭐ FAANG+ Jobs**: 5 premium opportunities  
 - **📅 Last Updated**: July 4, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
@@ -17,6 +17,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
+| ₿ **Coinbase** | Senior Software Engineer, Backend - Taxation | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5815510?gh_jid=5815510) |
 | ₿ **Coinbase** | Staff Software Engineer, Backend - Customer Experience Team | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969310?gh_jid=4969310) |
 | ₿ **Coinbase** | Staff Software Engineer, Backend - FinHub | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969307?gh_jid=4969307) |
 | ₿ **Coinbase** | Staff Software Engineer, Backend - Identity | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969309?gh_jid=4969309) |
@@ -24,12 +25,13 @@
 | ₿ **Coinbase** | Staff Software Engineer, Backend - Platform (Relocate to India) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969312?gh_jid=4969312) |
 | ₿ **Coinbase** | Staff Software Engineer - Developer Productivity | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969311?gh_jid=4969311) |
 | ₿ **Coinbase** | Staff Software Engineer - Security Platform | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6830507?gh_jid=6830507) |
+| 🏢 **LexisNexis Risk Solutions** | Software Engineer I | Surrey, BC | 0h ago | Mid-Level | Software Engineering | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Surrey/Software-Engineer-I_R96548) |
+| ₿ **Coinbase** | Software Engineer, Backend - Institutional Products | Remote - UK, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6648719?gh_jid=6648719) |
 | ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Infra Core Reliability Team | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6931421?gh_jid=6931421) |
 | ₿ **Coinbase** | Senior Machine Learning Engineer, Platform | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5303688?gh_jid=5303688) |
 | ₿ **Coinbase** | Engineering Manager, Platform - CEX | Remote - India, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5415327?gh_jid=5415327) |
 | ₿ **Coinbase** | Engineering Manager, Platform - Onboarding  | Remote - India, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5454150?gh_jid=5454150) |
 | ₿ **Coinbase** | Senior Engineering Manager - Platform | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6245666?gh_jid=6245666) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - Taxation | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5815510?gh_jid=5815510) |
 | ₿ **Coinbase** | Software Engineer, Emerging Talent | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7015173?gh_jid=7015173) |
 | ₿ **Coinbase** | Software Engineer, Emerging Talent | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7011414?gh_jid=7011414) |
 | ₿ **Coinbase** | Software Engineer, Frontend (Coinbase One) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6222470?gh_jid=6222470) |
@@ -38,18 +40,17 @@
 | ₿ **Coinbase** | Software Engineer, Frontend (Trust and Loyalty) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6204422?gh_jid=6204422) |
 | ₿ **Coinbase** | Principal Software Engineer, Backend - Platform  | Remote - Canada, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6710137?gh_jid=6710137) |
 | ₿ **Coinbase** | Principal Software Engineer, Backend - Platform  | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6710135?gh_jid=6710135) |
-| ₿ **Coinbase** | Software Engineer, Backend - AI Tools DevX | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7013667?gh_jid=7013667) |
-| ₿ **Coinbase** | Software Engineer, Backend - (Blockchain Platform - Nodes) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6631844?gh_jid=6631844) |
-| ₿ **Coinbase** | Software Engineer, Backend - (Blockchain Platform - Wallet) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6493886?gh_jid=6493886) |
-| ₿ **Coinbase** | Software Engineer, Backend ( Developer Experience - Server Foundations) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6721408?gh_jid=6721408) |
-| ₿ **Coinbase** | Software Engineer, Backend - Financial Hub | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7009446?gh_jid=7009446) |
-| ₿ **Coinbase** | Software Engineer, Backend - Platform  | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429) |
-| ₿ **Coinbase** | Software Engineer, Backend - Platform  | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5950647?gh_jid=5950647) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend (Institutional - Prime) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend (Institutional - Prime) | Remote - Canada, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6659077?gh_jid=6659077) |
-| ₿ **Coinbase** | Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5949461?gh_jid=5949461) |
-| ₿ **Coinbase** | Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - Canada, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6616516?gh_jid=6616516) |
-| ₿ **Coinbase** | Software Engineer, Backend - Institutional Products | Remote - UK, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6648719?gh_jid=6648719) |
+| ₿ **Coinbase** | Software Engineer, Backend - AI Tools DevX | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7013667?gh_jid=7013667) |
+| ₿ **Coinbase** | Software Engineer, Backend - (Blockchain Platform - Nodes) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6631844?gh_jid=6631844) |
+| ₿ **Coinbase** | Software Engineer, Backend - (Blockchain Platform - Wallet) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6493886?gh_jid=6493886) |
+| ₿ **Coinbase** | Software Engineer, Backend ( Developer Experience - Server Foundations) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6721408?gh_jid=6721408) |
+| ₿ **Coinbase** | Software Engineer, Backend - Financial Hub | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7009446?gh_jid=7009446) |
+| ₿ **Coinbase** | Software Engineer, Backend - Platform  | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429) |
+| ₿ **Coinbase** | Software Engineer, Backend - Platform  | Remote - Canada, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5950647?gh_jid=5950647) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend (Institutional - Prime) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend (Institutional - Prime) | Remote - Canada, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6659077?gh_jid=6659077) |
+| ₿ **Coinbase** | Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5949461?gh_jid=5949461) |
+| ₿ **Coinbase** | Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - Canada, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6616516?gh_jid=6616516) |
 | ₿ **Coinbase** | Senior Software Engineer, Data Platform (Platform Product Group) | Remote - Canada, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6322904?gh_jid=6322904) |
 | ₿ **Coinbase** | Senior Software Engineer, Data Platform (Platform Product Group) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6322902?gh_jid=6322902) |
 | ₿ **Coinbase** | Senior Engineering Manager (Consumer - Financial Services) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6600272?gh_jid=6600272) |
@@ -57,10 +58,10 @@
 | ₿ **Coinbase** | Software Engineer, Frontend (Consumer - New Product Verticals) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6685976?gh_jid=6685976) |
 | ₿ **Coinbase** | Software Engineer, Frontend (Consumer Products) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948951?gh_jid=5948951) |
 | ₿ **Coinbase** | Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664) |
-| 🏠 **Airbnb** | Senior iOS Engineer, Global Markets  | China, CA | 1h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/7043031?gh_jid=7043031) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer - New Product Vertical) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6686473?gh_jid=6686473) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer Products) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5949437?gh_jid=5949437) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) |
+| 🏠 **Airbnb** | Senior iOS Engineer, Global Markets  | China, CA | 2h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/7043031?gh_jid=7043031) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer - New Product Vertical) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6686473?gh_jid=6686473) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer Products) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5949437?gh_jid=5949437) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) |
 | 🏠 **Airbnb** | Mulesoft Developer, BizTech | Bangalore, CA | 2h ago | Mid-Level | Software Engineering | [Apply](https://careers.airbnb.com/positions/6531521?gh_jid=6531521) |
 | 📊 **Databricks** | Sr Solutions Engineer - Retail & Consumer Goods Vertical | Munich, Germany | 2h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8005455002) |
 | 📊 **Databricks** | Sr. Solutions Engineer | Melbourne, Australia | 2h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002) |
@@ -71,22 +72,22 @@
 | ₿ **Coinbase** | Senior Software Engineer, Infrastructure (Platform - Datastores) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6196407?gh_jid=6196407) |
 | ₿ **Coinbase** | Senior Software Engineer, Infrastructure (Platform - Datastores) | Remote - Canada, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6196410?gh_jid=6196410) |
 | ₿ **Coinbase** | Senior Software Engineer, Infrastructure (Platform - Observability) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6721454?gh_jid=6721454) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Financing) | Remote - Canada, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6886024?gh_jid=6886024) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6886015?gh_jid=6886015) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6615718?gh_jid=6615718) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Foundations) | Remote - Canada, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6615723?gh_jid=6615723) |
-| ₿ **Coinbase** | 	Software Engineer, Backend (Institutional - Prime) | Remote - Canada, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6292237?gh_jid=6292237) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Prime) | Remote - USA, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963361?gh_jid=5963361) |
-| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 2h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform) | Remote - Canada, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963430?gh_jid=5963430) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Payments Platform) | Remote - Canada, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6894608?gh_jid=6894608) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Payments Platform) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457) |
-| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - Canada, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6872461?gh_jid=6872461) |
-| ₿ **Coinbase** | Staff Software Engineer, Onchain DevX | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6987367?gh_jid=6987367) |
-| ₿ **Coinbase** | Senior Software Engineer, Frontend - Consumer Products | Remote - Canada, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961292?gh_jid=5961292) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Financing) | Remote - Canada, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6886024?gh_jid=6886024) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6886015?gh_jid=6886015) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6615718?gh_jid=6615718) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Foundations) | Remote - Canada, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6615723?gh_jid=6615723) |
+| ₿ **Coinbase** | 	Software Engineer, Backend (Institutional - Prime) | Remote - Canada, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6292237?gh_jid=6292237) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Prime) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963361?gh_jid=5963361) |
+| ₿ **Coinbase** | Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963430?gh_jid=5963430) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Payments Platform) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6894608?gh_jid=6894608) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Payments Platform) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457) |
+| ₿ **Coinbase** | Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6872461?gh_jid=6872461) |
+| ₿ **Coinbase** | Staff Software Engineer, Onchain DevX | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6987367?gh_jid=6987367) |
+| ₿ **Coinbase** | Senior Software Engineer, Frontend - Consumer Products | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961292?gh_jid=5961292) |
 | 💳 **Stripe** | Full Stack Engineer, User Billing | Bangalore, CA | 3h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6802144) |
 | ₿ **Coinbase** | Software Engineer, Backend  (Consumer - Coinbase Card) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287) |
 | ₿ **Coinbase** | Software Engineer, Backend  (Consumer - Growth) | Remote - USA, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914) |
@@ -99,29 +100,29 @@
 | ₿ **Coinbase** | Software Engineer, Backend - (Consumer - Products) | Remote - Canada, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961451?gh_jid=5961451) |
 | ₿ **Coinbase** | Software Engineer, Backend (Consumer - Stablecoin) | Remote - Canada, CA | 3h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6570379?gh_jid=6570379) |
 | ₿ **Coinbase** | Senior Site Reliability Engineer, Core AI Infrastructure | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6922412?gh_jid=6922412) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Derivatives) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6546439?gh_jid=6546439) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Derivatives) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6539959?gh_jid=6539959) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Exchange) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6546404?gh_jid=6546404) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Financing) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627698?gh_jid=6627698) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627695?gh_jid=6627695) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - Institutional Products | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6545791?gh_jid=6545791) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - Institutional Products | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - AI DevX | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7013679?gh_jid=7013679) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - DevX CI | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7031970?gh_jid=7031970) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend - Financial Hub | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7009448?gh_jid=7009448) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948179?gh_jid=5948179) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform) | Remote - Canada, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963372?gh_jid=5963372) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Crypto Data Foundations) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6747861?gh_jid=6747861) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Data Platform) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6159789?gh_jid=6159789) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Infra Core Reliability Team) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6263624?gh_jid=6263624) |
-| ₿ **Coinbase** | Senior Software Engineer (Platform - Blockchain Platform Nodes) | Remote - USA, CA | 3h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6631840?gh_jid=6631840) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Derivatives) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6546439?gh_jid=6546439) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Derivatives) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6539959?gh_jid=6539959) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Exchange) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6546404?gh_jid=6546404) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Financing) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627698?gh_jid=6627698) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627695?gh_jid=6627695) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend - Institutional Products | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6545791?gh_jid=6545791) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend - Institutional Products | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend - AI DevX | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7013679?gh_jid=7013679) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend - DevX CI | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7031970?gh_jid=7031970) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend - Financial Hub | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7009448?gh_jid=7009448) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948179?gh_jid=5948179) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963372?gh_jid=5963372) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Crypto Data Foundations) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6747861?gh_jid=6747861) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Data Platform) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6159789?gh_jid=6159789) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - Infra Core Reliability Team) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6263624?gh_jid=6263624) |
+| ₿ **Coinbase** | Senior Software Engineer (Platform - Blockchain Platform Nodes) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6631840?gh_jid=6631840) |
 | ₿ **Coinbase** | Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) |
 | ₿ **Coinbase** | Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942) |
-| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) |
-| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485619?gh_jid=6485619) |
-| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - Canada, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698657?gh_jid=6698657) |
-| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | 4h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) |
+| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) |
+| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - Canada, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6485619?gh_jid=6485619) |
+| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - Canada, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698657?gh_jid=6698657) |
+| ₿ **Coinbase** | Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) |
 | ₿ **Coinbase** | Engineering Manager (Institutional - Exchange) | Remote - Canada, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7017524?gh_jid=7017524) |
 | ₿ **Coinbase** | Engineering Manager (Institutional - Exchange) | Remote - USA, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7017481?gh_jid=7017481) |
 | ₿ **Coinbase** | Engineering Manager (Institutional - Foundations) | Remote - USA, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6001833?gh_jid=6001833) |
@@ -135,12 +136,12 @@
 | ₿ **Coinbase** | Engineering Manager (Platform - Staking Platform) | Remote - USA, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6749633?gh_jid=6749633) |
 | ₿ **Coinbase** | Engineering Manager (Platform - Wallets Liquidity and Bridging) | Remote - USA, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6850257?gh_jid=6850257) |
 | ₿ **Coinbase** | Engineering Manager (Platform - Wallets Liquidity and Bridging) | Remote - Canada, CA | 5h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6850267?gh_jid=6850267) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - New Product Vertical) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6686514?gh_jid=6686514) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer Products) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948807?gh_jid=5948807) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7011582?gh_jid=7011582) |
-| ₿ **Coinbase** | Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | 5h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - New Product Vertical) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6686514?gh_jid=6686514) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer Products) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948807?gh_jid=5948807) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7011582?gh_jid=7011582) |
+| ₿ **Coinbase** | Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | 6h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) |
 | ₿ **Coinbase** | Senior Software Engineer, Fullstack (Developer - CDP API) | Remote - USA, CA | 7h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961013?gh_jid=5961013) |
 | ₿ **Coinbase** | Senior Machine Learning Engineer - (Platform) | Remote - USA, CA | 7h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5951315?gh_jid=5951315) |
 | ₿ **Coinbase** | Senior Software Engineer, Backend - Institutional Products | Remote - UK, CA | 7h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6648724?gh_jid=6648724) |
@@ -150,10 +151,10 @@
 | ₿ **Coinbase** | Software Engineer, Infrastructure (Platform Developer Experience - Release) | Remote - USA, CA | 8h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6423028?gh_jid=6423028) |
 | ₿ **Coinbase** | Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning) | Remote - USA, CA | 8h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636) |
 | ₿ **Coinbase** | Software Engineer, Infrastructure (Platform - Observability) | Remote - USA, CA | 8h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6367223?gh_jid=6367223) |
-| ₿ **Coinbase** | Senior Engineering Manager  (Institutional - Exchange) | Remote - USA, CA | 8h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566229?gh_jid=6566229) |
-| ₿ **Coinbase** | Senior Engineering Manager  (Institutional - Exchange) | Remote - Canada, CA | 8h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566234?gh_jid=6566234) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - CETI) | Remote - USA, CA | 9h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6202747?gh_jid=6202747) |
-| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - CETI) | Remote - Canada, CA | 9h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6263941?gh_jid=6263941) |
+| ₿ **Coinbase** | Senior Engineering Manager  (Institutional - Exchange) | Remote - USA, CA | 9h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566229?gh_jid=6566229) |
+| ₿ **Coinbase** | Senior Engineering Manager  (Institutional - Exchange) | Remote - Canada, CA | 9h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566234?gh_jid=6566234) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - CETI) | Remote - USA, CA | 10h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6202747?gh_jid=6202747) |
+| ₿ **Coinbase** | Senior Software Engineer, Backend (Platform - CETI) | Remote - Canada, CA | 10h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6263941?gh_jid=6263941) |
 | 💳 **Stripe** | Staff Engineer, Usage Based Billing  | US Locations, CA | 10h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7031755) |
 | ₿ **Coinbase** | Engineering Manager (Consumer) | Remote - USA, CA | 10h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5951325?gh_jid=5951325) |
 | ₿ **Coinbase** | Engineering Manager (Consumer - Coinbase Card) | Remote - USA, CA | 10h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6375111?gh_jid=6375111) |
@@ -163,21 +164,21 @@
 | 🏠 **Airbnb** | Senior Android Engineer, Quality Engineering | United States, CA | 11h ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6602436?gh_jid=6602436) |
 | ₿ **Coinbase** | Engineering Manager (Consumer) | Remote - Canada, CA | 11h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963731?gh_jid=5963731) |
 | ₿ **Coinbase** | Senior Site Reliability Engineer - (Platform) | Remote - USA, CA | 11h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5954116?gh_jid=5954116) |
-| 🏠 **Airbnb** | Staff Software Engineer, Guest & Host | San Francisco, CA | 11h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6863714?gh_jid=6863714) |
-| ₿ **Coinbase** | Staff Software Engineer, Infrastructure (Compute) | Remote - USA, CA | 12h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6931583?gh_jid=6931583) |
+| 🏠 **Airbnb** | Staff Software Engineer, Guest & Host | San Francisco, CA | 12h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6863714?gh_jid=6863714) |
+| ₿ **Coinbase** | Staff Software Engineer, Infrastructure (Compute) | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6931583?gh_jid=6931583) |
 | ₿ **Coinbase** | Senior Machine Learning Platform Engineer (Platform - AI) | Remote - Canada, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6927162?gh_jid=6927162) |
 | ₿ **Coinbase** | Senior Machine Learning Platform Engineer (Platform - AI) | Remote - USA, CA | 13h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6927160?gh_jid=6927160) |
 | 📊 **Databricks** | Specialist Solutions Architect - Data Engineering | United States, CA | 15h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7710477002) |
 | 💳 **Stripe** | Staff Software Engineer, Data Movement | Seattle, US Remote | 15h ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6345510) |
-| 🎨 **Figma** | Software Engineer, Rendering & Animation | San Francisco, CA • New York | 15h ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
-| 🏢 **State Street** | Software Engineer I | Burlington, MA | 15h ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1) |
+| 🎨 **Figma** | Software Engineer, Rendering & Animation | San Francisco, CA • New York | 16h ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004) |
+| 🏢 **State Street** | Software Engineer I | Burlington, MA | 16h ago | Mid-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1) |
 | 🎨 **Figma** | Software Engineer, iOS | San Francisco, CA • New York | 16h ago | Mid-Level | Mobile Development | [Apply](https://boards.greenhouse.io/figma/jobs/5566267004?gh_jid=5566267004) |
-| ₿ **Coinbase** | Systems Engineer | Remote - USA, CA | 16h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6863997?gh_jid=6863997) |
-| 🏠 **Airbnb** | Software Engineer, User Product | United States, CA | 17h ago | Mid-Level | Software Engineering | [Apply](https://careers.airbnb.com/positions/7025014?gh_jid=7025014) |
+| ₿ **Coinbase** | Systems Engineer | Remote - USA, CA | 17h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6863997?gh_jid=6863997) |
+| 🏠 **Airbnb** | Software Engineer, User Product | United States, CA | 18h ago | Mid-Level | Software Engineering | [Apply](https://careers.airbnb.com/positions/7025014?gh_jid=7025014) |
 | 💳 **Stripe** | Software Engineer | North America, CA | 18h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5644613) |
 | ₿ **Coinbase** | Senior IT Service Desk Engineer | Remote - USA, CA | 20h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6852655?gh_jid=6852655) |
-| 📊 **Databricks** | Senior Solutions Engineer | Amsterdam, Netherlands | 21h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7969101002) |
-| 🏠 **Airbnb** | Senior Software Engineer, Guest & Host | China, CA | 22h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6963051?gh_jid=6963051) |
+| 📊 **Databricks** | Senior Solutions Engineer | Amsterdam, Netherlands | 22h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7969101002) |
+| 🏠 **Airbnb** | Senior Software Engineer, Guest & Host | China, CA | 23h ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6963051?gh_jid=6963051) |
 | 💳 **Stripe** | Integration Engineer, Spanish Speaking | Madrid, CA | 23h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6638408) |
 | ₿ **Coinbase** | IT Service Desk Engineer | London, UK | 23h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6883337?gh_jid=6883337) |
 | ₿ **Coinbase** | IT Service Desk Engineer | Dublin, Ireland | 23h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6883333?gh_jid=6883333) |
@@ -859,7 +860,7 @@
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 **Entry-Level** | 154 | 19% | Perfect for new grads |
-| 🟡 **Mid-Level** | 223 | 27% | 2-5 years experience |
+| 🟡 **Mid-Level** | 224 | 27% | 2-5 years experience |
 | 🔴 **Senior** | 437 | 54% | 5+ years experience |
 
 ---
@@ -872,8 +873,8 @@
 ### 📊 **Data Science & Analytics** (217 positions)
 📊 Databricks
 
-### 💻 **Software Engineering** (126 positions)
-🏠 Airbnb • 🏢 State Street
+### 💻 **Software Engineering** (127 positions)
+🏢 LexisNexis Risk Solutions • 🏠 Airbnb
 
 ### ⚙️ **Backend Development** (44 positions)
 🏠 Airbnb
@@ -963,7 +964,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 814 current opportunities from 80 elite companies**
+**🎯 815 current opportunities from 81 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

@@ -91,48 +91,6 @@ const CAREER_APIS = {
         }
     },
 
-    'Spotify': {
-        api: 'https://api.greenhouse.io/v1/boards/spotify/jobs',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data.jobs)) return [];
-            return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
-                .map(job => ({
-                    job_title: job.title,
-                    employer_name: 'Spotify',
-                    job_city: job.location?.name?.split(', ')?.[0] || 'Stockholm',
-                    job_state: job.location?.name?.split(', ')?.[1] || 'Sweden',
-                    job_description: job.content || 'Join Spotify to unlock the potential of human creativity.',
-                    job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
-
-    'Square': {
-        api: 'https://api.greenhouse.io/v1/boards/square/jobs',
-        method: 'GET',
-        parser: (data) => {
-            if (!Array.isArray(data.jobs)) return [];
-            return data.jobs
-                .filter(job => job.title.toLowerCase().includes('engineer') || 
-                              job.title.toLowerCase().includes('developer'))
-                .map(job => ({
-                    job_title: job.title,
-                    employer_name: 'Square',
-                    job_city: job.location?.name?.split(', ')?.[0] || 'San Francisco',
-                    job_state: job.location?.name?.split(', ')?.[1] || 'CA',
-                    job_description: job.content || 'Join Square to build economic empowerment tools.',
-                    job_apply_link: job.absolute_url,
-                    job_posted_at_datetime_utc: new Date(job.updated_at).toISOString(),
-                    job_employment_type: 'FULLTIME'
-                }));
-        }
-    },
-
     'Figma': {
         api: 'https://api.greenhouse.io/v1/boards/figma/jobs',
         method: 'GET',
@@ -154,29 +112,154 @@ const CAREER_APIS = {
         }
     },
 
-    // Lever API Companies
-    'Netflix': {
-        api: 'https://api.lever.co/v0/postings/netflix?mode=json',
+    // Custom API Companies
+    'Apple': {
+        api: 'https://jobs.apple.com/api/v1/search',
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            "query": "",
+            "filters": {
+                "keywords": ["software engineer"],
+                "locations": ["postLocation-USA"]
+            },
+            "page": 1,
+            "locale": "en-us",
+            "sort": "",
+            "format": {
+                "longDate": "MMMM D, YYYY",
+                "mediumDate": "MMM D, YYYY"
+            }
+        }),
+        parser: (data) => {
+            if (!data.searchResults) return [];
+            return data.searchResults
+                .filter(job => job.postingTitle.toLowerCase().includes('engineer') || 
+                              job.postingTitle.toLowerCase().includes('developer'))
+                .slice(0, 20)
+                .map(job => ({
+                    job_title: job.postingTitle,
+                    employer_name: 'Apple',
+                    job_city: job.locations?.[0]?.name?.split(', ')?.[0] || 'Cupertino',
+                    job_state: job.locations?.[0]?.name?.split(', ')?.[1] || 'CA',
+                    job_description: job.jobSummary || 'Join Apple to create products that change lives.',
+                    job_apply_link: `https://jobs.apple.com/en-us/details/${job.positionId}`,
+                    job_posted_at_datetime_utc: new Date(job.postDateInGMT).toISOString(),
+                    job_employment_type: 'FULLTIME'
+                }));
+        }
+    },
+
+    'Microsoft': {
+        api: 'https://gcsservices.careers.microsoft.com/search/api/v1/search?l=en_us&pg=1&pgSz=20&o=Recent&flt=true',
         method: 'GET',
         parser: (data) => {
-            if (!Array.isArray(data)) return [];
-            return data
-                .filter(job => job.categories?.commitment === 'Full-time' &&
-                              (job.text.toLowerCase().includes('engineer') || 
-                               job.text.toLowerCase().includes('developer')))
+            if (!data.operationResult?.result?.jobs) return [];
+            return data.operationResult.result.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') || 
+                              job.title.toLowerCase().includes('developer'))
+                .map(job => ({
+                    job_title: job.title,
+                    employer_name: 'Microsoft',
+                    job_city: job.primaryLocation?.city || 'Redmond',
+                    job_state: job.primaryLocation?.state || 'WA',
+                    job_description: job.description || 'Join Microsoft to empower every person and organization on the planet.',
+                    job_apply_link: `https://jobs.careers.microsoft.com/global/en/job/${job.jobId}`,
+                    job_posted_at_datetime_utc: new Date(job.postedDate).toISOString(),
+                    job_employment_type: 'FULLTIME'
+                }));
+        }
+    },
+
+    'Amazon': {
+        api: 'https://www.amazon.jobs/api/jobs/search?is_als=true',
+        method: 'GET',
+        parser: (data) => {
+            if (!data.jobs) return [];
+            return data.jobs
+                .filter(job => job.title.toLowerCase().includes('engineer') || 
+                              job.title.toLowerCase().includes('developer'))
+                .slice(0, 20)
+                .map(job => ({
+                    job_title: job.title,
+                    employer_name: 'Amazon',
+                    job_city: job.city || 'Seattle',
+                    job_state: job.state || 'WA',
+                    job_description: job.description || 'Join Amazon to deliver results that matter.',
+                    job_apply_link: `https://amazon.jobs${job.job_path}`,
+                    job_posted_at_datetime_utc: new Date(job.posted_date).toISOString(),
+                    job_employment_type: 'FULLTIME'
+                }));
+        }
+    },
+
+    'Netflix': {
+        api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&start=0',
+        method: 'GET',
+        parser: (data) => {
+            if (!data.records) return [];
+            return data.records
+                .filter(job => job.text.toLowerCase().includes('engineer') || 
+                              job.text.toLowerCase().includes('developer'))
+                .slice(0, 20)
                 .map(job => ({
                     job_title: job.text,
                     employer_name: 'Netflix',
                     job_city: job.categories?.location?.split(', ')?.[0] || 'Los Gatos',
                     job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Netflix to entertain the world.',
-                    job_apply_link: job.hostedUrl,
+                    job_apply_link: job.applyUrl || job.hostedUrl,
                     job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
                     job_employment_type: 'FULLTIME'
                 }));
         }
     },
 
+    'Qualcomm': {
+        api: 'https://careers.qualcomm.com/api/apply/v2/jobs?domain=qualcomm.com&num=20&query=USA&sort_by=relevance',
+        method: 'GET',
+        parser: (data) => {
+            if (!data.positions) return [];
+            return data.positions
+                .filter(job => job.name.toLowerCase().includes('engineer') || 
+                              job.name.toLowerCase().includes('developer'))
+                .map(job => ({
+                    job_title: job.name,
+                    employer_name: 'Qualcomm',
+                    job_city: job.location?.split(', ')?.[0] || 'San Diego',
+                    job_state: job.location?.split(', ')?.[1] || 'CA',
+                    job_description: job.description || 'Join Qualcomm to invent breakthrough technologies.',
+                    job_apply_link: job.canonicalPositionUrl,
+                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_employment_type: 'FULLTIME'
+                }));
+        }
+    },
+
+    'PayPal': {
+        api: 'https://paypal.eightfold.ai/api/apply/v2/jobs?domain=paypal.com&num=20&location=USA&sort_by=relevance',
+        method: 'GET',
+        parser: (data) => {
+            if (!data.positions) return [];
+            return data.positions
+                .filter(job => job.name.toLowerCase().includes('engineer') || 
+                              job.name.toLowerCase().includes('developer'))
+                .map(job => ({
+                    job_title: job.name,
+                    employer_name: 'PayPal',
+                    job_city: job.location?.split(', ')?.[0] || 'San Jose',
+                    job_state: job.location?.split(', ')?.[1] || 'CA',
+                    job_description: job.description || 'Join PayPal to democratize financial services.',
+                    job_apply_link: job.canonicalPositionUrl,
+                    job_posted_at_datetime_utc: new Date(job.publishedDate).toISOString(),
+                    job_employment_type: 'FULLTIME'
+                }));
+        }
+    },
+
+    // Lever API Companies
     'Uber': {
         api: 'https://api.lever.co/v0/postings/uber?mode=json',
         method: 'GET',
