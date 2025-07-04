@@ -1,129 +1,77 @@
-name: Update Dream Jobs Daily
+name: Update Dream Jobs README
 
 on:
   schedule:
-    # Run daily at 9 AM UTC (to respect API rate limits)
+    # Run daily at 9 AM UTC
     - cron: '0 9 * * *'
   workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths: [ 'update-readme.js' ] # Also run when script is updated
 
 jobs:
-  update-jobs:
+  update-readme:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
         node-version: '18'
         
     - name: Install dependencies
-      run: |
-        npm init -y
-        npm install node-fetch
+      run: npm install node-fetch
         
-    - name: Create job fetcher script
-      run: |
-        cat > fetch-jobs.js << 'EOF'
-        const fs = require('fs');
-        const fetch = require('node-fetch');
-        
-        const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
-        const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-        
-        const DREAM_COMPANIES = [
-            'Google', 'Apple', 'Microsoft', 'Amazon', 'Meta', 'Netflix', 'Tesla', 
-            'Nvidia', 'Salesforce', 'Adobe', 'Uber', 'Airbnb', 'Spotify', 'Stripe',
-            'OpenAI', 'Anthropic', 'DeepMind', 'SpaceX', 'Palantir', 'Databricks'
-        ];
-        
-        async function fetchJobs() {
-            if (!JSEARCH_API_KEY) {
-                console.log('No API key provided, skipping job fetch');
-                return;
-            }
-            
-            const searchQueries = [
-                'software engineer Google Apple Microsoft',
-                'developer Amazon Meta Netflix',
-                'engineer Tesla Nvidia Salesforce',
-                'software Uber Airbnb Spotify'
-            ];
-            
-            const allJobs = [];
-            
-            for (const query of searchQueries) {
-                try {
-                    const url = new URL(JSEARCH_BASE_URL);
-                    url.searchParams.append('query', query);
-                    url.searchParams.append('page', '1');
-                    url.searchParams.append('num_pages', '1');
-                    url.searchParams.append('date_posted', 'week');
-                    
-                    const response = await fetch(url, {
-                        method: 'GET',
-                        headers: {
-                            'X-RapidAPI-Key': JSEARCH_API_KEY,
-                            'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
-                        }
-                    });
-                    
-                    if (response.ok) {
-                        const data = await response.json();
-                        if (data.data) {
-                            allJobs.push(...data.data);
-                        }
-                    }
-                    
-                    // Respect rate limits
-                    await new Promise(resolve => setTimeout(resolve, 1000));
-                } catch (error) {
-                    console.error(`Error fetching jobs for "${query}":`, error);
-                }
-            }
-            
-            // Filter for dream companies
-            const dreamJobs = allJobs.filter(job => {
-                const companyName = job.employer_name || '';
-                return DREAM_COMPANIES.some(dreamCompany => 
-                    companyName.toLowerCase().includes(dreamCompany.toLowerCase())
-                );
-            });
-            
-            // Remove duplicates
-            const uniqueJobs = dreamJobs.filter((job, index, self) => 
-                index === self.findIndex(j => 
-                    j.job_title === job.job_title && j.employer_name === job.employer_name
-                )
-            );
-            
-            // Save to file
-            const jobsData = {
-                data: uniqueJobs.slice(0, 50),
-                timestamp: Date.now(),
-                expiry: 24 * 60 * 60 * 1000
-            };
-            
-            fs.writeFileSync('jobs-data.json', JSON.stringify(jobsData, null, 2));
-            console.log(`Fetched ${uniqueJobs.length} dream jobs`);
-        }
-        
-        fetchJobs().catch(console.error);
-        EOF
-        
-    - name: Fetch latest jobs
+    - name: Update README with latest jobs
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-      run: node fetch-jobs.js
+      run: node update-readme.js
       
-    - name: Commit updated jobs
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+      
+    - name: Commit updated README
+      if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add jobs-data.json
-        git diff --staged --quiet || git commit -m "Update dream jobs - $(date)"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git config --local user.name "Dream Jobs Bot"
+        git add README.md
+        git commit -m "🤖 Update dream jobs - $(date +'%Y-%m-%d %H:%M UTC')
+
+        - Fetched latest positions from top tech companies
+        - Updated job counts and statistics  
+        - Refreshed company and location filters
+        - Auto-generated by GitHub Actions"
+        
+    - name: Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+        
+    - name: Create summary
+      run: |
+        echo "## 🚀 Dream Jobs Update Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "✅ **README updated with fresh job listings**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 🔍 Searched 5 job categories across major platforms" >> $GITHUB_STEP_SUMMARY
+          echo "- 🏢 Filtered for dream companies only" >> $GITHUB_STEP_SUMMARY  
+          echo "- 🧹 Removed duplicates and spam" >> $GITHUB_STEP_SUMMARY
+          echo "- 📊 Updated statistics and filters" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next update**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No changes needed - README is already up to date**" >> $GITHUB_STEP_SUMMARY
+        fi
