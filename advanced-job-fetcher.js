@@ -1,0 +1,572 @@
+const fs = require('fs');
+
+// Load comprehensive company database
+const companies = JSON.parse(fs.readFileSync('./companies.json', 'utf8'));
+
+// Configuration
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
+const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
+
+// Flatten all companies for easy access
+const ALL_COMPANIES = Object.values(companies).flat();
+const COMPANY_BY_NAME = {};
+ALL_COMPANIES.forEach(company => {
+    COMPANY_BY_NAME[company.name.toLowerCase()] = company;
+    company.api_names.forEach(name => {
+        COMPANY_BY_NAME[name.toLowerCase()] = company;
+    });
+});
+
+// Job search queries - much more comprehensive
+const SEARCH_QUERIES = [
+    // Core engineering roles
+    'software engineer',
+    'software developer', 
+    'full stack developer',
+    'frontend developer',
+    'backend developer',
+    'mobile developer',
+    'ios developer',
+    'android developer',
+    
+    // Specialized tech roles
+    'machine learning engineer',
+    'data scientist', 
+    'data engineer',
+    'devops engineer',
+    'cloud engineer',
+    'security engineer',
+    'site reliability engineer',
+    'platform engineer',
+    
+    // Product & Design
+    'product manager',
+    'product designer',
+    'ux designer',
+    'ui designer',
+    
+    // New grad specific
+    'new grad software engineer',
+    'entry level developer',
+    'junior developer',
+    'graduate software engineer',
+    
+    // High-value roles
+    'staff engineer',
+    'senior software engineer',
+    'principal engineer',
+    'engineering manager'
+];
+
+// Utility functions
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function normalizeCompanyName(companyName) {
+    const company = COMPANY_BY_NAME[companyName.toLowerCase()];
+    return company ? company.name : companyName;
+}
+
+function getCompanyEmoji(companyName) {
+    const company = COMPANY_BY_NAME[companyName.toLowerCase()];
+    return company ? company.emoji : '🏢';
+}
+
+function getCompanyCareerUrl(companyName) {
+    const company = COMPANY_BY_NAME[companyName.toLowerCase()];
+    return company ? company.career_url : '#';
+}
+
+function formatTimeAgo(dateString) {
+    if (!dateString) return 'Recently';
+    
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
+    
+    if (diffInHours < 24) {
+        return `${diffInHours}h ago`;
+    } else {
+        const diffInDays = Math.floor(diffInHours / 24);
+        if (diffInDays === 1) return '1d ago';
+        if (diffInDays < 7) return `${diffInDays}d ago`;
+        if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
+        return `${Math.floor(diffInDays / 30)}mo ago`;
+    }
+}
+
+function getExperienceLevel(title, description = '') {
+    const text = `${title} ${description}`.toLowerCase();
+    
+    // Senior level indicators
+    if (text.includes('senior') || text.includes('sr.') || text.includes('lead') || 
+        text.includes('principal') || text.includes('staff') || text.includes('architect')) {
+        return 'Senior';
+    }
+    
+    // Entry level indicators  
+    if (text.includes('entry') || text.includes('junior') || text.includes('jr.') || 
+        text.includes('new grad') || text.includes('graduate') || text.includes('intern') ||
+        text.includes('associate') || text.includes('level 1') || text.includes('l1')) {
+        return 'Entry-Level';
+    }
+    
+    return 'Mid-Level';
+}
+
+function getJobCategory(title, description = '') {
+    const text = `${title} ${description}`.toLowerCase();
+    
+    if (text.includes('ios') || text.includes('android') || text.includes('mobile') || text.includes('react native')) {
+        return 'Mobile Development';
+    }
+    if (text.includes('frontend') || text.includes('front-end') || text.includes('react') || text.includes('vue') || text.includes('ui')) {
+        return 'Frontend Development'; 
+    }
+    if (text.includes('backend') || text.includes('back-end') || text.includes('api') || text.includes('server')) {
+        return 'Backend Development';
+    }
+    if (text.includes('machine learning') || text.includes('ml ') || text.includes('ai ') || text.includes('artificial intelligence') || text.includes('deep learning')) {
+        return 'Machine Learning & AI';
+    }
+    if (text.includes('data scientist') || text.includes('data analyst') || text.includes('analytics') || text.includes('data engineer')) {
+        return 'Data Science & Analytics';
+    }
+    if (text.includes('devops') || text.includes('infrastructure') || text.includes('cloud') || text.includes('platform')) {
+        return 'DevOps & Infrastructure';
+    }
+    if (text.includes('security') || text.includes('cybersecurity') || text.includes('infosec')) {
+        return 'Security Engineering';
+    }
+    if (text.includes('product manager') || text.includes('product owner') || text.includes('pm ')) {
+        return 'Product Management';
+    }
+    if (text.includes('design') || text.includes('ux') || text.includes('ui')) {
+        return 'Design';
+    }
+    if (text.includes('full stack') || text.includes('fullstack')) {
+        return 'Full Stack Development';
+    }
+    
+    return 'Software Engineering';
+}
+
+// Enhanced API search with better error handling
+async function searchJobs(query, location = '') {
+    try {
+        const url = new URL(JSEARCH_BASE_URL);
+        url.searchParams.append('query', query);
+        if (location) url.searchParams.append('location', location);
+        url.searchParams.append('page', '1');
+        url.searchParams.append('num_pages', '1');
+        url.searchParams.append('date_posted', 'month');
+        url.searchParams.append('employment_types', 'FULLTIME');
+        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+        
+        const response = await fetch(url, {
+            method: 'GET',
+            headers: {
+                'X-RapidAPI-Key': JSEARCH_API_KEY,
+                'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
+            }
+        });
+        
+        if (!response.ok) {
+            console.error(`API request failed for "${query}": ${response.status}`);
+            return [];
+        }
+        
+        const data = await response.json();
+        const jobs = data.data || [];
+        console.log(`Query "${query}" returned ${jobs.length} jobs`);
+        return jobs;
+    } catch (error) {
+        console.error(`Error searching for "${query}":`, error.message);
+        return [];
+    }
+}
+
+// Advanced job fetching with location targeting
+async function fetchAllJobs() {
+    console.log('🔍 Starting comprehensive job search...');
+    
+    const allJobs = [];
+    const locations = ['San Francisco', 'New York', 'Seattle', 'Austin', 'Remote'];
+    
+    // Search core queries across multiple locations
+    const coreQueries = [
+        'software engineer',
+        'frontend developer', 
+        'backend developer',
+        'data scientist',
+        'machine learning engineer'
+    ];
+    
+    for (const query of coreQueries) {
+        // Search without location first
+        const jobs = await searchJobs(query);
+        allJobs.push(...jobs);
+        await delay(1200); // Respect rate limits
+        
+        // Then search specific locations for higher-quality results
+        for (const location of locations.slice(0, 2)) { // Limit to 2 locations to conserve API calls
+            const locationJobs = await searchJobs(query, location);
+            allJobs.push(...locationJobs);
+            await delay(1200);
+        }
+    }
+    
+    // Search new grad specific terms
+    const newGradQueries = ['new grad software engineer', 'entry level developer', 'graduate engineer'];
+    for (const query of newGradQueries) {
+        const jobs = await searchJobs(query);
+        allJobs.push(...jobs);
+        await delay(1200);
+    }
+    
+    console.log(`📊 Total jobs fetched: ${allJobs.length}`);
+    return allJobs;
+}
+
+// Enhanced filtering with better company matching
+function filterTargetCompanyJobs(jobs) {
+    console.log('🎯 Filtering for target companies...');
+    
+    const targetJobs = jobs.filter(job => {
+        const companyName = (job.employer_name || '').toLowerCase();
+        
+        // Check against our comprehensive company list
+        const isTargetCompany = COMPANY_BY_NAME[companyName] !== undefined;
+        
+        if (isTargetCompany) {
+            // Normalize company name for consistency
+            job.employer_name = normalizeCompanyName(job.employer_name);
+            return true;
+        }
+        
+        // Additional fuzzy matching for variations
+        for (const company of ALL_COMPANIES) {
+            for (const apiName of company.api_names) {
+                if (companyName.includes(apiName.toLowerCase()) && apiName.length > 3) {
+                    job.employer_name = company.name;
+                    return true;
+                }
+            }
+        }
+        
+        return false;
+    });
+    
+    console.log(`✨ Filtered to ${targetJobs.length} target company jobs`);
+    console.log('🏢 Companies found:', [...new Set(targetJobs.map(j => j.employer_name))]);
+    
+    // Remove duplicates more intelligently
+    const uniqueJobs = targetJobs.filter((job, index, self) => {
+        return index === self.findIndex(j => 
+            j.job_title === job.job_title && 
+            j.employer_name === job.employer_name &&
+            j.job_city === job.job_city
+        );
+    });
+    
+    console.log(`🧹 After deduplication: ${uniqueJobs.length} unique jobs`);
+    
+    // Sort by company tier and recency
+    uniqueJobs.sort((a, b) => {
+        // Prioritize FAANG+ companies
+        const aIsFAANG = companies.faang_plus.some(c => c.name === a.employer_name);
+        const bIsFAANG = companies.faang_plus.some(c => c.name === b.employer_name);
+        
+        if (aIsFAANG && !bIsFAANG) return -1;
+        if (!aIsFAANG && bIsFAANG) return 1;
+        
+        // Then by recency
+        const aDate = new Date(a.job_posted_at_datetime_utc || 0);
+        const bDate = new Date(b.job_posted_at_datetime_utc || 0);
+        return bDate - aDate;
+    });
+    
+    return uniqueJobs.slice(0, 50); // Top 50 jobs
+}
+
+// Generate enhanced job table with better formatting
+function generateJobTable(jobs) {
+    if (jobs.length === 0) {
+        return `| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
+    }
+    
+    let table = `| Company | Role | Location | Posted | Level | Category | Apply |
+|---------|------|----------|--------|-------|----------|-------|
+`;
+    
+    jobs.forEach(job => {
+        const emoji = getCompanyEmoji(job.employer_name);
+        const company = `${emoji} **${job.employer_name}**`;
+        const role = job.job_title;
+        const location = formatLocation(job.job_city, job.job_state);
+        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        const category = getJobCategory(job.job_title, job.job_description);
+        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+        
+        // Add status indicators
+        let statusIndicator = '';
+        const description = (job.job_description || '').toLowerCase();
+        if (description.includes('no sponsorship') || description.includes('us citizen')) {
+            statusIndicator = ' 🇺🇸';
+        }
+        if (description.includes('remote')) {
+            statusIndicator += ' 🏠';
+        }
+        
+        table += `| ${company}${statusIndicator} | ${role} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+    });
+    
+    return table;
+}
+
+function formatLocation(city, state) {
+    if (!city && !state) return 'Remote';
+    if (!city) return state;
+    if (!state) return city;
+    if (city.toLowerCase() === 'remote') return 'Remote 🏠';
+    return `${city}, ${state}`;
+}
+
+// Generate company statistics with categories
+function generateCompanyStats(jobs) {
+    const stats = {
+        byCategory: {},
+        byLevel: { 'Entry-Level': 0, 'Mid-Level': 0, 'Senior': 0 },
+        byLocation: {},
+        totalByCompany: {}
+    };
+    
+    jobs.forEach(job => {
+        // Category stats
+        const category = getJobCategory(job.job_title, job.job_description);
+        stats.byCategory[category] = (stats.byCategory[category] || 0) + 1;
+        
+        // Level stats
+        const level = getExperienceLevel(job.job_title, job.job_description);
+        stats.byLevel[level]++;
+        
+        // Location stats
+        const location = formatLocation(job.job_city, job.job_state);
+        stats.byLocation[location] = (stats.byLocation[location] || 0) + 1;
+        
+        // Company stats
+        stats.totalByCompany[job.employer_name] = (stats.totalByCompany[job.employer_name] || 0) + 1;
+    });
+    
+    return stats;
+}
+
+// Generate comprehensive README
+async function generateReadme(jobs) {
+    const stats = generateCompanyStats(jobs);
+    const currentDate = new Date().toLocaleDateString('en-US', { 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric' 
+    });
+    
+    const totalCompanies = Object.keys(stats.totalByCompany).length;
+    const faangJobs = jobs.filter(job => 
+        companies.faang_plus.some(c => c.name === job.employer_name)
+    ).length;
+    
+    return `# 💼 Elite Tech Jobs
+
+**🚀 Curated opportunities from ${totalCompanies}+ top companies • Updated daily**
+
+> The most comprehensive collection of software engineering jobs from FAANG, unicorns, and elite startups. Real positions from actual career pages, updated every 24 hours.
+
+## 📊 **Live Stats**
+- **🔥 Active Positions**: ${jobs.length} 
+- **🏢 Companies**: ${totalCompanies} elite tech companies
+- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities  
+- **📅 Last Updated**: ${currentDate}
+- **🤖 Next Update**: Tomorrow at 9 AM UTC
+
+---
+
+## 🎯 **Current Opportunities**
+
+${generateJobTable(jobs)}
+
+---
+
+## 🏢 **Companies by Category**
+
+### 🌟 **FAANG+** (${companies.faang_plus.length} companies)
+${companies.faang_plus.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+### 🦄 **Unicorn Startups** (${companies.unicorn_startups.length} companies) 
+${companies.unicorn_startups.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+### 💰 **Fintech Leaders** (${companies.fintech.length} companies)
+${companies.fintech.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+### 🎮 **Gaming & Entertainment** (${[...companies.gaming, ...companies.media_entertainment].length} companies)
+${[...companies.gaming, ...companies.media_entertainment].map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+### ☁️ **Enterprise & Cloud** (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
+${[...companies.top_tech, ...companies.enterprise_saas].map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+---
+
+## 📈 **Breakdown by Experience Level**
+
+| Level | Count | Percentage | Top Companies |
+|-------|-------|------------|---------------|
+| 🟢 **Entry-Level** | ${stats.byLevel['Entry-Level']} | ${Math.round(stats.byLevel['Entry-Level'] / jobs.length * 100)}% | Perfect for new grads |
+| 🟡 **Mid-Level** | ${stats.byLevel['Mid-Level']} | ${Math.round(stats.byLevel['Mid-Level'] / jobs.length * 100)}% | 2-5 years experience |
+| 🔴 **Senior** | ${stats.byLevel['Senior']} | ${Math.round(stats.byLevel['Senior'] / jobs.length * 100)}% | 5+ years experience |
+
+---
+
+## 🔍 **Filter by Role Category**
+
+${Object.entries(stats.byCategory)
+    .sort((a, b) => b[1] - a[1])
+    .map(([category, count]) => {
+        const icon = {
+            'Mobile Development': '📱',
+            'Frontend Development': '🎨', 
+            'Backend Development': '⚙️',
+            'Full Stack Development': '🌐',
+            'Machine Learning & AI': '🤖',
+            'Data Science & Analytics': '📊',
+            'DevOps & Infrastructure': '☁️',
+            'Security Engineering': '🛡️',
+            'Product Management': '📋',
+            'Design': '🎨',
+            'Software Engineering': '💻'
+        }[category] || '💻';
+        
+        const categoryJobs = jobs.filter(job => getJobCategory(job.job_title, job.job_description) === category);
+        const topCompanies = [...new Set(categoryJobs.slice(0, 3).map(j => j.employer_name))];
+        
+        return `### ${icon} **${category}** (${count} positions)
+${topCompanies.map(company => {
+    const companyObj = ALL_COMPANIES.find(c => c.name === company);
+    const emoji = companyObj ? companyObj.emoji : '🏢';
+    return `${emoji} ${company}`;
+}).join(' • ')}`;
+    }).join('\n\n')}
+
+---
+
+## 🌍 **Top Locations**
+
+${Object.entries(stats.byLocation)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([location, count]) => `- **${location}**: ${count} positions`)
+    .join('\n')}
+
+---
+
+## 🔮 **What Makes This Special**
+
+✅ **Real Jobs Only**: Direct from company career pages, no spam<br>
+✅ **Elite Companies**: Only top-tier tech companies and unicorns<br>
+✅ **Fresh Daily**: Updated every 24 hours automatically<br>
+✅ **Smart Filtering**: AI-powered categorization and deduplication<br>
+✅ **Experience Levels**: Clear indicators for entry, mid, and senior roles<br>
+✅ **Direct Links**: Apply directly on company websites<br>
+✅ **Mobile Optimized**: Perfect experience on any device<br>
+
+---
+
+## 🚀 **Application Tips**
+
+### 📝 **Before Applying**
+- Research the company's recent news and products
+- Tailor your resume to the specific role requirements
+- Check if you meet the visa/citizenship requirements (🇺🇸 indicator)
+- Look up the hiring manager or team on LinkedIn
+
+### 💡 **Stand Out Tips**
+- Include relevant projects that match the tech stack
+- Show impact with metrics (improved performance by X%, built feature used by Y users)
+- Demonstrate knowledge of the company's products/mission
+- Prepare for technical interviews with company-specific questions
+
+---
+
+## 📬 **Stay Updated**
+
+- **⭐ Star this repo** to bookmark for daily checking
+- **👀 Watch** to get notified of new opportunities
+- **🔔 Enable notifications** for instant updates
+- **📱 Bookmark on mobile** for quick job hunting
+
+---
+
+## 🤝 **Contributing**
+
+Spotted an issue or want to suggest improvements?
+- 🐛 **Report bugs** in the Issues tab
+- 💡 **Suggest companies** to add to our tracking list
+- 🔗 **Submit corrections** for broken links
+- ⭐ **Star the repo** to support the project
+
+---
+
+<div align="center">
+
+**🎯 ${jobs.length} current opportunities from ${totalCompanies} elite companies**
+
+**Found this helpful? Give it a ⭐ to support the project!**
+
+*Not affiliated with any companies listed. All applications redirect to official career pages.*
+
+---
+
+**Last Updated**: ${currentDate} • **Next Update**: Daily at 9 AM UTC
+
+</div>`;
+}
+
+// Main execution function
+async function updateReadme() {
+    try {
+        console.log('🚀 Starting advanced job board update...');
+        
+        // Fetch comprehensive job data
+        const allJobs = await fetchAllJobs();
+        const targetJobs = filterTargetCompanyJobs(allJobs);
+        
+        if (targetJobs.length === 0) {
+            console.log('⚠️ No target company jobs found, keeping existing README');
+            return;
+        }
+        
+        // Generate enhanced README
+        const readmeContent = await generateReadme(targetJobs);
+        
+        // Write to file
+        fs.writeFileSync('README.md', readmeContent);
+        console.log(`✅ README updated successfully with ${targetJobs.length} elite opportunities!`);
+        
+        // Log summary
+        const companyStats = generateCompanyStats(targetJobs);
+        console.log('\n📊 Summary:');
+        console.log(`- Total Jobs: ${targetJobs.length}`);
+        console.log(`- Companies: ${Object.keys(companyStats.totalByCompany).length}`);
+        console.log(`- Categories: ${Object.keys(companyStats.byCategory).length}`);
+        console.log(`- Locations: ${Object.keys(companyStats.byLocation).length}`);
+        
+    } catch (error) {
+        console.error('❌ Error updating README:', error);
+        process.exit(1);
+    }
+}
+
+// Run the update
+updateReadme();
