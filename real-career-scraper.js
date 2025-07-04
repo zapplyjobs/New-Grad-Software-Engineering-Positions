@@ -120,14 +120,13 @@ const CAREER_APIS = {
             'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-            "query": "",
+            "query": "engineer",
             "filters": {
-                "keywords": ["software engineer"],
                 "locations": ["postLocation-USA"]
             },
             "page": 1,
             "locale": "en-us",
-            "sort": "",
+            "sort": "newest",
             "format": {
                 "longDate": "MMMM D, YYYY",
                 "mediumDate": "MMM D, YYYY"
@@ -136,8 +135,6 @@ const CAREER_APIS = {
         parser: (data) => {
             if (!data.searchResults) return [];
             return data.searchResults
-                .filter(job => job.postingTitle.toLowerCase().includes('engineer') || 
-                              job.postingTitle.toLowerCase().includes('developer'))
                 .slice(0, 20)
                 .map(job => ({
                     job_title: job.postingTitle,
@@ -196,22 +193,22 @@ const CAREER_APIS = {
     },
 
     'Netflix': {
-        api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&start=0',
+        api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&start=0&query=engineer',
         method: 'GET',
         parser: (data) => {
-            if (!data.records) return [];
-            return data.records
-                .filter(job => job.text.toLowerCase().includes('engineer') || 
-                              job.text.toLowerCase().includes('developer'))
+            if (!data.positions) return [];
+            return data.positions
+                .filter(job => job.name.toLowerCase().includes('engineer') || 
+                              job.name.toLowerCase().includes('developer'))
                 .slice(0, 20)
                 .map(job => ({
-                    job_title: job.text,
+                    job_title: job.name,
                     employer_name: 'Netflix',
-                    job_city: job.categories?.location?.split(', ')?.[0] || 'Los Gatos',
-                    job_state: job.categories?.location?.split(', ')?.[1] || 'CA',
+                    job_city: job.location?.split(',')?.[0] || 'Los Gatos',
+                    job_state: job.location?.split(', ')?.[1] || 'CA',
                     job_description: job.description || 'Join Netflix to entertain the world.',
-                    job_apply_link: job.applyUrl || job.hostedUrl,
-                    job_posted_at_datetime_utc: new Date(job.createdAt).toISOString(),
+                    job_apply_link: job.canonicalPositionUrl,
+                    job_posted_at_datetime_utc: new Date(job.t_create * 1000).toISOString(),
                     job_employment_type: 'FULLTIME'
                 }));
         }
