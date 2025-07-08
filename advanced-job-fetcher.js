@@ -97,6 +97,34 @@ function formatTimeAgo(dateString) {
     }
 }
 
+function isJobOlderThanWeek(dateString) {
+    if (!dateString) return false;
+    
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+    
+    return diffInDays >= 7;
+}
+
+function isUSOnlyJob(job) {
+    const description = (job.job_description || '').toLowerCase();
+    const title = (job.job_title || '').toLowerCase();
+    const requirements = (job.job_required_skills || '').toLowerCase();
+    
+    // Check for US-only indicators
+    const usOnlyIndicators = [
+        'us citizen', 'us citizenship', 'united states citizen',
+        'no sponsorship', 'no visa sponsorship', 'no h1b',
+        'security clearance', 'clearance required',
+        'must be authorized to work in the us',
+        'must be eligible to work in the us'
+    ];
+    
+    const fullText = `${description} ${title} ${requirements}`;
+    return usOnlyIndicators.some(indicator => fullText.includes(indicator));
+}
+
 function getExperienceLevel(title, description = '') {
     const text = `${title} ${description}`.toLowerCase();
     
@@ -404,6 +432,96 @@ function generateJobTable(jobs) {
     return output;
 }
 
+function generateArchivedSection(archivedJobs) {
+    if (archivedJobs.length === 0) return '';
+    
+    const archivedStats = generateCompanyStats(archivedJobs);
+    const archivedFaangJobs = archivedJobs.filter(job => 
+        companies.faang_plus.some(c => c.name === job.employer_name)
+    ).length;
+    
+    return `
+---
+
+<details>
+<summary><h2>📁 <strong>Archived Opportunities</strong> (${archivedJobs.length} positions older than 1 week)</h2></summary>
+
+### 📊 **Archived Stats**
+- **📁 Total Archived**: ${archivedJobs.length} positions
+- **🏢 Companies**: ${Object.keys(archivedStats.totalByCompany).length} companies
+- **⭐ FAANG+ Archived**: ${archivedFaangJobs} positions
+- **📅 Age**: 1+ weeks old
+
+${generateJobTable(archivedJobs)}
+
+### 🏢 **Archived Companies by Category**
+
+#### 🌟 **FAANG+** (Archived)
+${companies.faang_plus.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+#### 🦄 **Unicorn Startups** (Archived)
+${companies.unicorn_startups.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+#### 💰 **Fintech Leaders** (Archived)
+${companies.fintech.map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+#### 🎮 **Gaming & Entertainment** (Archived)
+${[...companies.gaming, ...companies.media_entertainment].map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+#### ☁️ **Enterprise & Cloud** (Archived)
+${[...companies.top_tech, ...companies.enterprise_saas].map(c => `${c.emoji} [${c.name}](${c.career_url})`).join(' • ')}
+
+### 📈 **Archived Breakdown by Experience Level**
+
+| Level | Count | Percentage | Top Companies |
+|-------|-------|------------|---------------|
+| 🟢 **Entry-Level** | ${archivedStats.byLevel['Entry-Level']} | ${Math.round(archivedStats.byLevel['Entry-Level'] / archivedJobs.length * 100)}% | Perfect for new grads |
+| 🟡 **Mid-Level** | ${archivedStats.byLevel['Mid-Level']} | ${Math.round(archivedStats.byLevel['Mid-Level'] / archivedJobs.length * 100)}% | 2-5 years experience |
+| 🔴 **Senior** | ${archivedStats.byLevel['Senior']} | ${Math.round(archivedStats.byLevel['Senior'] / archivedJobs.length * 100)}% | 5+ years experience |
+
+### 🔍 **Archived Filter by Role Category**
+
+${Object.entries(archivedStats.byCategory)
+    .sort((a, b) => b[1] - a[1])
+    .map(([category, count]) => {
+        const icon = {
+            'Mobile Development': '📱',
+            'Frontend Development': '🎨', 
+            'Backend Development': '⚙️',
+            'Full Stack Development': '🌐',
+            'Machine Learning & AI': '🤖',
+            'Data Science & Analytics': '📊',
+            'DevOps & Infrastructure': '☁️',
+            'Security Engineering': '🛡️',
+            'Product Management': '📋',
+            'Design': '🎨',
+            'Software Engineering': '💻'
+        }[category] || '💻';
+        
+        const categoryJobs = archivedJobs.filter(job => getJobCategory(job.job_title, job.job_description) === category);
+        const topCompanies = [...new Set(categoryJobs.slice(0, 3).map(j => j.employer_name))];
+        
+        return `#### ${icon} **${category}** (${count} archived positions)
+${topCompanies.map(company => {
+    const companyObj = ALL_COMPANIES.find(c => c.name === company);
+    const emoji = companyObj ? companyObj.emoji : '🏢';
+    return `${emoji} ${company}`;
+}).join(' • ')}`;
+    }).join('\n\n')}
+
+### 🌍 **Top Archived Locations**
+
+${Object.entries(archivedStats.byLocation)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([location, count]) => `- **${location}**: ${count} archived positions`)
+    .join('\n')}
+
+</details>
+
+`;
+}
+
 function formatLocation(city, state) {
     if (!city && !state) return 'Remote';
     if (!city) return state;
@@ -442,8 +560,8 @@ function generateCompanyStats(jobs) {
 }
 
 // Generate comprehensive README
-async function generateReadme(jobs) {
-    const stats = generateCompanyStats(jobs);
+async function generateReadme(currentJobs, archivedJobs = []) {
+    const stats = generateCompanyStats(currentJobs);
     const currentDate = new Date().toLocaleDateString('en-US', { 
         year: 'numeric', 
         month: 'long', 
@@ -451,28 +569,31 @@ async function generateReadme(jobs) {
     });
     
     const totalCompanies = Object.keys(stats.totalByCompany).length;
-    const faangJobs = jobs.filter(job => 
+    const faangJobs = currentJobs.filter(job => 
         companies.faang_plus.some(c => c.name === job.employer_name)
     ).length;
     
     return `# 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily**
+**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily • US-Only Positions**
 
-> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours.
+> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-only positions.**
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: ${jobs.length} 
+- **🔥 Active Positions**: ${currentJobs.length} 
 - **🏢 Companies**: ${totalCompanies} elite tech companies
 - **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities  
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
+- **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
 
 ---
 
-## 🎯 **Current Opportunities**
+## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
 
-${generateJobTable(jobs)}
+${generateJobTable(currentJobs)}
+
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ''}
 
 ---
 
@@ -622,17 +743,27 @@ async function updateReadme() {
             return;
         }
         
+        // Filter US-only jobs
+        const usJobs = allJobs.filter(job => isUSOnlyJob(job));
+        
+        // Separate current and archived jobs
+        const currentJobs = usJobs.filter(job => !isJobOlderThanWeek(job.job_posted_at_datetime_utc));
+        const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
+        
         // Generate enhanced README
-        const readmeContent = await generateReadme(allJobs);
+        const readmeContent = await generateReadme(currentJobs, archivedJobs);
         
         // Write to file
         fs.writeFileSync('README.md', readmeContent);
-        console.log(`✅ Zapply job board updated with ${allJobs.length} opportunities!`);
+        console.log(`✅ Zapply job board updated with ${currentJobs.length} current opportunities!`);
         
         // Log summary
-        const companyStats = generateCompanyStats(allJobs);
+        const companyStats = generateCompanyStats(currentJobs);
         console.log('\n📊 Summary:');
-        console.log(`- Total Jobs: ${allJobs.length}`);
+        console.log(`- Total Jobs (All): ${allJobs.length}`);
+        console.log(`- US-Only Jobs: ${usJobs.length}`);
+        console.log(`- Current Jobs: ${currentJobs.length}`);
+        console.log(`- Archived Jobs: ${archivedJobs.length}`);
         console.log(`- Companies: ${Object.keys(companyStats.totalByCompany).length}`);
         console.log(`- Categories: ${Object.keys(companyStats.byCategory).length}`);
         console.log(`- Locations: ${Object.keys(companyStats.byLocation).length}`);
