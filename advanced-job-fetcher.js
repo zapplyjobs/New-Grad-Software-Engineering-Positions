@@ -64,6 +64,77 @@ function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// Fetch internship data from popular sources
+async function fetchInternshipData() {
+    console.log('🎓 Fetching 2025/2026 internship opportunities...');
+    
+    const internships = [];
+    
+    // Popular internship tracking repositories and sources
+    const internshipSources = [
+        {
+            name: 'Summer 2025 Tech Internships',
+            url: 'https://github.com/SimplifyJobs/Summer2025-Internships',
+            type: 'GitHub Repository',
+            description: 'Curated list of summer 2025 tech internships'
+        },
+        {
+            name: 'New Grad 2025',
+            url: 'https://github.com/SimplifyJobs/New-Grad-Positions',
+            type: 'GitHub Repository', 
+            description: 'Full-time positions for new grads 2025'
+        },
+        {
+            name: 'Simplify Jobs',
+            url: 'https://simplify.jobs/internships',
+            type: 'Job Board',
+            description: 'AI-powered internship search platform'
+        },
+        {
+            name: 'RippleMatch',
+            url: 'https://ripplematch.com/index?r=internships',
+            type: 'Platform',
+            description: 'Campus recruiting platform for internships'
+        },
+        {
+            name: 'WayUp Internships',
+            url: 'https://www.wayup.com/internships',
+            type: 'Job Board',
+            description: 'Internships for college students'
+        },
+        {
+            name: 'Handshake',
+            url: 'https://joinhandshake.com',
+            type: 'Platform',
+            description: 'University career services platform'
+        }
+    ];
+    
+    // Add company-specific internship programs
+    const companyInternshipPrograms = [
+        { company: 'Google', program: 'STEP Internship', url: 'https://careers.google.com/students/', deadline: 'Various' },
+        { company: 'Microsoft', program: 'Software Engineering Internship', url: 'https://careers.microsoft.com/students', deadline: 'Various' },
+        { company: 'Meta', program: 'Software Engineer Internship', url: 'https://careers.meta.com/students', deadline: 'Various' },
+        { company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/internships', deadline: 'Various' },
+        { company: 'Apple', program: 'Software Engineering Internship', url: 'https://jobs.apple.com/students', deadline: 'Various' },
+        { company: 'Netflix', program: 'Software Engineering Internship', url: 'https://jobs.netflix.com/students', deadline: 'Various' },
+        { company: 'Tesla', program: 'Software Engineering Internship', url: 'https://careers.tesla.com/internships', deadline: 'Various' },
+        { company: 'Nvidia', program: 'Software Engineering Internship', url: 'https://careers.nvidia.com/internships', deadline: 'Various' },
+        { company: 'Stripe', program: 'Software Engineering Internship', url: 'https://stripe.com/jobs/internships', deadline: 'Various' },
+        { company: 'Coinbase', program: 'Software Engineering Internship', url: 'https://coinbase.com/careers/students', deadline: 'Various' }
+    ];
+    
+    return {
+        sources: internshipSources,
+        companyPrograms: companyInternshipPrograms,
+        lastUpdated: new Date().toLocaleDateString('en-US', { 
+            year: 'numeric', 
+            month: 'long', 
+            day: 'numeric' 
+        })
+    };
+}
+
 function normalizeCompanyName(companyName) {
     const company = COMPANY_BY_NAME[companyName.toLowerCase()];
     return company ? company.name : companyName;
@@ -174,8 +245,11 @@ function getExperienceLevel(title, description = '') {
     
     // Entry level indicators  
     if (text.includes('entry') || text.includes('junior') || text.includes('jr.') || 
-        text.includes('new grad') || text.includes('graduate') || text.includes('intern') ||
-        text.includes('associate') || text.includes('level 1') || text.includes('l1')) {
+        text.includes('new grad') || text.includes('graduate') || text.includes('university grad') ||
+        text.includes('college grad') || text.includes(' grad ') || text.includes('recent grad') ||
+        text.includes('intern') || text.includes('associate') || text.includes('level 1') || 
+        text.includes('l1') || text.includes('campus') || text.includes('student') ||
+        text.includes('early career') || text.includes('0-2 years')) {
         return 'Entry-Level';
     }
     
@@ -481,6 +555,51 @@ function generateJobTable(jobs) {
     return output;
 }
 
+function generateInternshipSection(internshipData) {
+    if (!internshipData) return '';
+    
+    return `
+---
+
+## 🎓 **2025/2026 Summer Internships** 
+
+> **Fresh internship opportunities for students and upcoming grads**
+
+### 📚 **Top Internship Resources**
+
+| Platform | Type | Description | Link |
+|----------|------|-------------|------|
+${internshipData.sources.map(source => 
+    `| **${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+).join('\n')}
+
+### 🏢 **FAANG+ Internship Programs**
+
+<details>
+<summary><strong>🌟 Top Company Internship Programs (Click to expand)</strong></summary>
+
+| Company | Program | Application Link | Status |
+|---------|---------|------------------|--------|
+${internshipData.companyPrograms.map(program => {
+    const companyObj = ALL_COMPANIES.find(c => c.name === program.company);
+    const emoji = companyObj ? companyObj.emoji : '🏢';
+    return `| ${emoji} **${program.company}** | ${program.program} | [Apply](${program.url}) | ${program.deadline} |`;
+}).join('\n')}
+
+</details>
+
+### 💡 **Internship Application Tips**
+- **🕐 Apply Early**: Many internships open applications in fall for next summer
+- **📝 Tailor Your Resume**: Highlight relevant coursework and projects  
+- **🤝 Network**: Connect with current interns and recruiters on LinkedIn
+- **💻 Build Projects**: Showcase your coding skills with GitHub projects
+- **🎯 Practice Coding**: Prepare for technical interviews with LeetCode/HackerRank
+
+*Last Updated: ${internshipData.lastUpdated}*
+
+`;
+}
+
 function generateArchivedSection(archivedJobs) {
     if (archivedJobs.length === 0) return '';
     
@@ -609,7 +728,7 @@ function generateCompanyStats(jobs) {
 }
 
 // Generate comprehensive README
-async function generateReadme(currentJobs, archivedJobs = []) {
+async function generateReadme(currentJobs, archivedJobs = [], internshipData = null) {
     const stats = generateCompanyStats(currentJobs);
     const currentDate = new Date().toLocaleDateString('en-US', { 
         year: 'numeric', 
@@ -632,6 +751,8 @@ async function generateReadme(currentJobs, archivedJobs = []) {
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
 
 **💬 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
+
+${internshipData ? generateInternshipSection(internshipData) : ''}
 
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: ${currentJobs.length} 
@@ -804,8 +925,11 @@ async function updateReadme() {
         const currentJobs = usJobs.filter(job => !isJobOlderThanWeek(job.job_posted_at_datetime_utc));
         const archivedJobs = usJobs.filter(job => isJobOlderThanWeek(job.job_posted_at_datetime_utc));
         
+        // Fetch internship data
+        const internshipData = await fetchInternshipData();
+        
         // Generate enhanced README
-        const readmeContent = await generateReadme(currentJobs, archivedJobs);
+        const readmeContent = await generateReadme(currentJobs, archivedJobs, internshipData);
         
         // Write to file
         fs.writeFileSync('README.md', readmeContent);
