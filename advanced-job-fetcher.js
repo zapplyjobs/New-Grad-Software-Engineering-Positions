@@ -592,7 +592,7 @@ function generateArchivedSection(archivedJobs) {
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Opportunities</strong> (${archivedJobs.length} positions older than 1 week)</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED JOBS</strong> - ${archivedJobs.length} Older Positions (1+ weeks old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Stats**
 - **📁 Total Archived**: ${archivedJobs.length} positions
@@ -738,6 +738,8 @@ ${internshipData ? generateInternshipSection(internshipData) : ''}
 
 ${generateJobTable(currentJobs)}
 
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ''}
+
 ---
 
 ## 📊 **Live Stats**
@@ -747,8 +749,6 @@ ${generateJobTable(currentJobs)}
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
-
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ''}
 
 ---
 
