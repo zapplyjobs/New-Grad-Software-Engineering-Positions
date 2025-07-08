@@ -569,9 +569,6 @@ ${internshipData.sources.map(source =>
 
 ### 🏢 **FAANG+ Internship Programs**
 
-<details>
-<summary><strong>🌟 Top Company Internship Programs (Click to expand)</strong></summary>
-
 | Company | Program | Application Link | Status |
 |---------|---------|------------------|--------|
 ${internshipData.companyPrograms.map(program => {
@@ -579,17 +576,6 @@ ${internshipData.companyPrograms.map(program => {
     const emoji = companyObj ? companyObj.emoji : '🏢';
     return `| ${emoji} **${program.company}** | ${program.program} | [Apply](${program.url}) | ${program.deadline} |`;
 }).join('\n')}
-
-</details>
-
-### 💡 **Internship Application Tips**
-- **🕐 Apply Early**: Many internships open applications in fall for next summer
-- **📝 Tailor Your Resume**: Highlight relevant coursework and projects  
-- **🤝 Network**: Connect with current interns and recruiters on LinkedIn
-- **💻 Build Projects**: Showcase your coding skills with GitHub projects
-- **🎯 Practice Coding**: Prepare for technical interviews with LeetCode/HackerRank
-
-*Last Updated: ${internshipData.lastUpdated}*
 
 `;
 }
@@ -748,6 +734,12 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ${internshipData ? generateInternshipSection(internshipData) : ''}
 
+## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
+
+${generateJobTable(currentJobs)}
+
+---
+
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: ${currentJobs.length} 
 - **🏢 Companies**: ${totalCompanies} elite tech companies
@@ -755,12 +747,6 @@ ${internshipData ? generateInternshipSection(internshipData) : ''}
 - **📅 Last Updated**: ${currentDate}
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
-
----
-
-## 🎯 **Current Opportunities** (Fresh - Less than 1 week old)
-
-${generateJobTable(currentJobs)}
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs) : ''}
 
