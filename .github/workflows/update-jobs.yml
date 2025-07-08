@@ -45,8 +45,8 @@ jobs:
     - name: Commit updated job board
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
-        git config --local user.email "elite-jobs-bot@github.com"
-        git config --local user.name "Elite Jobs Bot"
+        git config --local user.email "team@zapply.ai"
+        git config --local user.name "Zapply Team"
         git add README.md
         
         # Get job count from README for commit message
