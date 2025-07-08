@@ -193,20 +193,29 @@ const CAREER_APIS = {
     },
 
     'Netflix': {
-        api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&start=0&query=engineer',
+        api: 'https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&query=engineer',
         method: 'GET',
+        pagination: true,
         parser: (data) => {
             if (!data.positions) return [];
+            
+            // Filter for fresh jobs from past week and engineering roles
+            const oneWeekAgo = Date.now() - (7 * 24 * 60 * 60 * 1000);
+            
             return data.positions
-                .filter(job => job.name.toLowerCase().includes('engineer') || 
-                              job.name.toLowerCase().includes('developer'))
-                .slice(0, 20)
+                .filter(job => {
+                    const isEngineering = job.name.toLowerCase().includes('engineer') || 
+                                        job.name.toLowerCase().includes('developer') ||
+                                        job.department === 'Engineering';
+                    const isFresh = (job.t_create * 1000) > oneWeekAgo;
+                    return isEngineering && isFresh;
+                })
                 .map(job => ({
                     job_title: job.name,
                     employer_name: 'Netflix',
                     job_city: job.location?.split(',')?.[0] || 'Los Gatos',
                     job_state: job.location?.split(', ')?.[1] || 'CA',
-                    job_description: job.description || 'Join Netflix to entertain the world.',
+                    job_description: job.job_description || 'Join Netflix to entertain the world.',
                     job_apply_link: job.canonicalPositionUrl,
                     job_posted_at_datetime_utc: new Date(job.t_create * 1000).toISOString(),
                     job_employment_type: 'FULLTIME'

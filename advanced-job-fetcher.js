@@ -299,34 +299,109 @@ function generateJobTable(jobs) {
 | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
     }
     
-    let table = `| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-`;
-    
+    // Group jobs by company
+    const jobsByCompany = {};
     jobs.forEach(job => {
-        const emoji = getCompanyEmoji(job.employer_name);
-        const company = `${emoji} **${job.employer_name}**`;
-        const role = job.job_title;
-        const location = formatLocation(job.job_city, job.job_state);
-        const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-        const level = getExperienceLevel(job.job_title, job.job_description);
-        const category = getJobCategory(job.job_title, job.job_description);
-        const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
-        
-        // Add status indicators
-        let statusIndicator = '';
-        const description = (job.job_description || '').toLowerCase();
-        if (description.includes('no sponsorship') || description.includes('us citizen')) {
-            statusIndicator = ' 🇺🇸';
+        if (!jobsByCompany[job.employer_name]) {
+            jobsByCompany[job.employer_name] = [];
         }
-        if (description.includes('remote')) {
-            statusIndicator += ' 🏠';
-        }
-        
-        table += `| ${company}${statusIndicator} | ${role} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+        jobsByCompany[job.employer_name].push(job);
     });
     
-    return table;
+    // Sort companies: FAANG+ first, then by job count
+    const faangCompanies = companies.faang_plus.map(c => c.name);
+    const sortedCompanies = Object.keys(jobsByCompany).sort((a, b) => {
+        const aIsFaang = faangCompanies.includes(a);
+        const bIsFaang = faangCompanies.includes(b);
+        
+        if (aIsFaang && !bIsFaang) return -1;
+        if (!aIsFaang && bIsFaang) return 1;
+        
+        return jobsByCompany[b].length - jobsByCompany[a].length;
+    });
+    
+    let output = '';
+    
+    // Show top 5 companies expanded, rest in collapsible sections
+    const topCompanies = sortedCompanies.slice(0, 5);
+    const remainingCompanies = sortedCompanies.slice(5);
+    
+    // Top companies - fully expanded
+    topCompanies.forEach(companyName => {
+        const companyJobs = jobsByCompany[companyName];
+        const emoji = getCompanyEmoji(companyName);
+        const isFaang = faangCompanies.includes(companyName);
+        const tier = isFaang ? '⭐ FAANG+' : '🏢 Top Tech';
+        
+        output += `### ${emoji} **${companyName}** (${companyJobs.length} positions) ${tier}\n\n`;
+        output += `| Role | Location | Posted | Level | Category | Apply |\n`;
+        output += `|------|----------|--------|-------|----------|-------|\n`;
+        
+        companyJobs.forEach(job => {
+            const role = job.job_title;
+            const location = formatLocation(job.job_city, job.job_state);
+            const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+            const level = getExperienceLevel(job.job_title, job.job_description);
+            const category = getJobCategory(job.job_title, job.job_description);
+            const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+            
+            // Add status indicators
+            let statusIndicator = '';
+            const description = (job.job_description || '').toLowerCase();
+            if (description.includes('no sponsorship') || description.includes('us citizen')) {
+                statusIndicator = ' 🇺🇸';
+            }
+            if (description.includes('remote')) {
+                statusIndicator += ' 🏠';
+            }
+            
+            output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+        });
+        
+        output += '\n';
+    });
+    
+    // Remaining companies - collapsible sections
+    if (remainingCompanies.length > 0) {
+        output += `---\n\n### 📁 **More Companies** (${remainingCompanies.length} companies, ${remainingCompanies.reduce((sum, c) => sum + jobsByCompany[c].length, 0)} positions)\n\n`;
+        
+        remainingCompanies.forEach(companyName => {
+            const companyJobs = jobsByCompany[companyName];
+            const emoji = getCompanyEmoji(companyName);
+            const isFaang = faangCompanies.includes(companyName);
+            const tier = isFaang ? '⭐ FAANG+' : '';
+            
+            output += `<details>\n`;
+            output += `<summary><strong>${emoji} ${companyName}</strong> (${companyJobs.length} positions) ${tier}</summary>\n\n`;
+            output += `| Role | Location | Posted | Level | Category | Apply |\n`;
+            output += `|------|----------|--------|-------|----------|-------|\n`;
+            
+            companyJobs.forEach(job => {
+                const role = job.job_title;
+                const location = formatLocation(job.job_city, job.job_state);
+                const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+                const level = getExperienceLevel(job.job_title, job.job_description);
+                const category = getJobCategory(job.job_title, job.job_description);
+                const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+                
+                // Add status indicators
+                let statusIndicator = '';
+                const description = (job.job_description || '').toLowerCase();
+                if (description.includes('no sponsorship') || description.includes('us citizen')) {
+                    statusIndicator = ' 🇺🇸';
+                }
+                if (description.includes('remote')) {
+                    statusIndicator += ' 🏠';
+                }
+                
+                output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+            });
+            
+            output += `\n</details>\n\n`;
+        });
+    }
+    
+    return output;
 }
 
 function formatLocation(city, state) {
@@ -380,7 +455,7 @@ async function generateReadme(jobs) {
         companies.faang_plus.some(c => c.name === job.employer_name)
     ).length;
     
-    return `# 💼 Zapply Job Board
+    return `# 💼 2026 New Grad Jobs by Zapply
 
 **🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily**
 
