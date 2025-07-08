@@ -112,17 +112,42 @@ function isUSOnlyJob(job) {
     const title = (job.job_title || '').toLowerCase();
     const requirements = (job.job_required_skills || '').toLowerCase();
     
-    // Check for US-only indicators
-    const usOnlyIndicators = [
-        'us citizen', 'us citizenship', 'united states citizen',
-        'no sponsorship', 'no visa sponsorship', 'no h1b',
-        'security clearance', 'clearance required',
-        'must be authorized to work in the us',
-        'must be eligible to work in the us'
+    // Check for explicit visa sponsorship offers (exclude these)
+    const visaSponsorshipIndicators = [
+        'visa sponsorship available',
+        'h1b sponsorship available',
+        'will sponsor visa',
+        'sponsorship provided',
+        'eligible for h1b',
+        'visa sponsorship offered'
+    ];
+    
+    // Check for explicit international indicators (exclude these)
+    const internationalIndicators = [
+        'international candidates welcome',
+        'worldwide remote',
+        'global remote',
+        'anywhere in the world'
     ];
     
     const fullText = `${description} ${title} ${requirements}`;
-    return usOnlyIndicators.some(indicator => fullText.includes(indicator));
+    
+    // If explicitly offers visa sponsorship or welcomes international candidates, exclude
+    if (visaSponsorshipIndicators.some(indicator => fullText.includes(indicator))) {
+        return false;
+    }
+    
+    if (internationalIndicators.some(indicator => fullText.includes(indicator))) {
+        return false;
+    }
+    
+    // For jobs in the US with US-based locations, default to US-only unless explicitly stated otherwise
+    const location = (job.job_city || '').toLowerCase() + ' ' + (job.job_state || '').toLowerCase();
+    const country = (job.job_country || '').toLowerCase();
+    
+    // If it's a US job or doesn't explicitly offer sponsorship, consider it US-only
+    return country === 'us' || country === 'usa' || country === 'united states' || country === '' || 
+           location.includes('remote') || location.includes('usa') || location.includes('united states');
 }
 
 function getExperienceLevel(title, description = '') {
