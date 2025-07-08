@@ -625,9 +625,9 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map(c => `${c.emoji} [${
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | ${stats.byLevel['Entry-Level']} | ${Math.round(stats.byLevel['Entry-Level'] / jobs.length * 100)}% | Perfect for new grads |
-| 🟡 **Mid-Level** | ${stats.byLevel['Mid-Level']} | ${Math.round(stats.byLevel['Mid-Level'] / jobs.length * 100)}% | 2-5 years experience |
-| 🔴 **Senior** | ${stats.byLevel['Senior']} | ${Math.round(stats.byLevel['Senior'] / jobs.length * 100)}% | 5+ years experience |
+| 🟢 **Entry-Level** | ${stats.byLevel['Entry-Level']} | ${Math.round(stats.byLevel['Entry-Level'] / currentJobs.length * 100)}% | Perfect for new grads |
+| 🟡 **Mid-Level** | ${stats.byLevel['Mid-Level']} | ${Math.round(stats.byLevel['Mid-Level'] / currentJobs.length * 100)}% | 2-5 years experience |
+| 🔴 **Senior** | ${stats.byLevel['Senior']} | ${Math.round(stats.byLevel['Senior'] / currentJobs.length * 100)}% | 5+ years experience |
 
 ---
 
@@ -650,7 +650,7 @@ ${Object.entries(stats.byCategory)
             'Software Engineering': '💻'
         }[category] || '💻';
         
-        const categoryJobs = jobs.filter(job => getJobCategory(job.job_title, job.job_description) === category);
+        const categoryJobs = currentJobs.filter(job => getJobCategory(job.job_title, job.job_description) === category);
         const topCompanies = [...new Set(categoryJobs.slice(0, 3).map(j => j.employer_name))];
         
         return `### ${icon} **${category}** (${count} positions)
@@ -722,7 +722,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 ${jobs.length} current opportunities from ${totalCompanies} elite companies**
+**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
