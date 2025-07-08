@@ -108,33 +108,59 @@ function isJobOlderThanWeek(dateString) {
 }
 
 function isUSOnlyJob(job) {
-    // For now, let's include ALL jobs and remove the US-only filtering
-    // We can add it back later with better logic
-    return true;
+    const country = (job.job_country || '').toLowerCase().trim();
+    const state = (job.job_state || '').toLowerCase().trim();
+    const city = (job.job_city || '').toLowerCase().trim();
     
-    /*
-    const description = (job.job_description || '').toLowerCase();
-    const title = (job.job_title || '').toLowerCase();
-    const requirements = (job.job_required_skills || '').toLowerCase();
-    
-    // Check for explicit visa sponsorship offers (exclude these)
-    const visaSponsorshipIndicators = [
-        'visa sponsorship available',
-        'h1b sponsorship available',
-        'will sponsor visa',
-        'sponsorship provided'
+    // Exclude jobs explicitly in non-US countries
+    const nonUSCountries = [
+        'estonia', 'canada', 'uk', 'united kingdom', 'germany', 'france', 'netherlands', 
+        'sweden', 'norway', 'denmark', 'finland', 'australia', 'india', 'singapore',
+        'japan', 'south korea', 'brazil', 'mexico', 'spain', 'italy', 'poland',
+        'ireland', 'israel', 'switzerland', 'austria', 'belgium', 'czech republic'
     ];
     
-    const fullText = `${description} ${title} ${requirements}`;
-    
-    // If explicitly offers visa sponsorship, exclude
-    if (visaSponsorshipIndicators.some(indicator => fullText.includes(indicator))) {
+    // If country is explicitly non-US, exclude
+    if (nonUSCountries.includes(country)) {
         return false;
     }
     
-    // Default to including the job
+    // Exclude jobs with non-US cities/locations
+    const nonUSCities = [
+        'toronto', 'vancouver', 'montreal', 'london', 'berlin', 'amsterdam', 'stockholm',
+        'copenhagen', 'helsinki', 'oslo', 'sydney', 'melbourne', 'bangalore', 'mumbai',
+        'delhi', 'hyderabad', 'pune', 'singapore', 'tokyo', 'seoul', 'tel aviv',
+        'zurich', 'geneva', 'dublin', 'tallinn', 'riga', 'vilnius', 'prague', 'budapest'
+    ];
+    
+    if (nonUSCities.includes(city)) {
+        return false;
+    }
+    
+    // Include if country is US/USA/United States or empty (assume US)
+    if (country === 'us' || country === 'usa' || country === 'united states' || country === '') {
+        return true;
+    }
+    
+    // Include if it has US state codes
+    const usStates = [
+        'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 
+        'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 
+        'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 
+        'va', 'wa', 'wv', 'wi', 'wy', 'dc'
+    ];
+    
+    if (usStates.includes(state)) {
+        return true;
+    }
+    
+    // Include remote jobs (assume US remote unless stated otherwise)
+    if (city.includes('remote') || state.includes('remote')) {
+        return true;
+    }
+    
+    // Default to include (better to include than exclude)
     return true;
-    */
 }
 
 function getExperienceLevel(title, description = '') {
@@ -587,9 +613,9 @@ async function generateReadme(currentJobs, archivedJobs = []) {
     
     return `# 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily**
+**🚀 Real opportunities from ${totalCompanies}+ top companies • Updated daily • US Positions**
 
-> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours.
+> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
 ## 🌟 **Join Our Community**
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
