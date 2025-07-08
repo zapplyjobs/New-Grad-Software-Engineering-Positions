@@ -73,40 +73,40 @@ async function fetchInternshipData() {
     // Popular internship tracking repositories and sources
     const internshipSources = [
         {
-            name: 'Summer 2025 Tech Internships',
-            url: 'https://github.com/SimplifyJobs/Summer2025-Internships',
+            name: 'GitHub Internship List',
+            url: 'https://github.com/christine-hu/summer-2024-internships',
             type: 'GitHub Repository',
-            description: 'Curated list of summer 2025 tech internships'
+            description: 'Community-maintained tech internship tracker'
         },
         {
-            name: 'New Grad 2025',
-            url: 'https://github.com/SimplifyJobs/New-Grad-Positions',
-            type: 'GitHub Repository', 
-            description: 'Full-time positions for new grads 2025'
-        },
-        {
-            name: 'Simplify Jobs',
-            url: 'https://simplify.jobs/internships',
+            name: 'AngelList Internships',
+            url: 'https://angel.co/jobs#internships',
             type: 'Job Board',
-            description: 'AI-powered internship search platform'
+            description: 'Startup internships and entry-level positions'
         },
         {
-            name: 'RippleMatch',
-            url: 'https://ripplematch.com/index?r=internships',
+            name: 'LinkedIn Student Jobs',
+            url: 'https://linkedin.com/jobs/student-jobs',
             type: 'Platform',
-            description: 'Campus recruiting platform for internships'
+            description: 'Professional network for student opportunities'
         },
         {
-            name: 'WayUp Internships',
-            url: 'https://www.wayup.com/internships',
+            name: 'Indeed Internships',
+            url: 'https://indeed.com/q-software-engineering-intern-jobs.html',
             type: 'Job Board',
-            description: 'Internships for college students'
+            description: 'Comprehensive internship search engine'
         },
         {
-            name: 'Handshake',
-            url: 'https://joinhandshake.com',
-            type: 'Platform',
-            description: 'University career services platform'
+            name: 'Glassdoor Internships',
+            url: 'https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm',
+            type: 'Job Board',
+            description: 'Internships with company reviews and salary data'
+        },
+        {
+            name: 'University Career Centers',
+            url: 'https://nace.org',
+            type: 'Resource',
+            description: 'National Association of Colleges and Employers'
         }
     ];
     
