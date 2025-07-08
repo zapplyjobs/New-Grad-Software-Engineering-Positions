@@ -579,6 +579,11 @@ async function generateReadme(currentJobs, archivedJobs = []) {
 
 > Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-only positions.**
 
+## 🌟 **Join Our Community**
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+
+**💬 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
+
 ## 📊 **Live Stats**
 - **🔥 Active Positions**: ${currentJobs.length} 
 - **🏢 Companies**: ${totalCompanies} elite tech companies
