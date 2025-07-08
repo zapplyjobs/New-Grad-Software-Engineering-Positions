@@ -1,8 +1,8 @@
 # 💼 2026 New Grad Jobs by Zapply
 
-**🚀 Real opportunities from 17+ top companies • Updated daily**
+**🚀 Real opportunities from 17+ top companies • Updated daily • US Positions**
 
-> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours.
+> Fresh software engineering jobs scraped directly from company career pages. Real positions from FAANG, unicorns, and elite startups, updated every 24 hours. **Filtered for US-based positions.**
 
 ## 🌟 **Join Our Community**
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
@@ -10,12 +10,12 @@
 **💬 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join thousands of developers navigating their career journey together!
 
 ## 📊 **Live Stats**
-- **🔥 Active Positions**: 330 
+- **🔥 Active Positions**: 281 
 - **🏢 Companies**: 17 elite tech companies
 - **⭐ FAANG+ Jobs**: 8 premium opportunities  
 - **📅 Last Updated**: July 8, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 487 (older than 1 week)
+- **📁 Archived Jobs**: 435 (older than 1 week)
 
 ---
 
@@ -44,10 +44,21 @@
 |------|----------|--------|-------|----------|-------|
 | Software Engineer – University Grad - Research Infrastructure | Burlingame, CA | 14h ago | Mid-Level | DevOps & Infrastructure | [Apply](https://www.metacareers.com/jobs/23968798566082979) |
 
-### ₿ **Coinbase** (154 positions) 🏢 Top Tech
+### ₿ **Coinbase** (152 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
+| Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652868?gh_jid=6652868) |
+| Software Engineer, Frontend (Consumer - New Product Verticals) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6685976?gh_jid=6685976) |
+| Software Engineer, Frontend (Consumer Products) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948951?gh_jid=5948951) |
+| Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664) |
+| Software Engineer, Frontend (Coinbase One) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6222470?gh_jid=6222470) |
+| Software Engineer, Frontend (Consumer - Growth) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652883?gh_jid=6652883) |
+| Software Engineer, Frontend - Consumer Products  | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961369?gh_jid=5961369) |
+| Software Engineer, Frontend (Trust and Loyalty) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6204422?gh_jid=6204422) |
+| Senior Site Reliability Engineer, Core AI Infrastructure | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6922412?gh_jid=6922412) |
+| Software Engineer, Emerging Talent | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7011414?gh_jid=7011414) |
+| Software Engineer, Emerging Talent | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7015173?gh_jid=7015173) |
 | Staff Software Engineer, Backend - Customer Experience Team | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969310?gh_jid=4969310) |
 | Staff Software Engineer, Backend - FinHub | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969307?gh_jid=4969307) |
 | Staff Software Engineer, Backend - Identity | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/4969309?gh_jid=4969309) |
@@ -103,7 +114,6 @@
 | 	Software Engineer, Backend (Institutional - Prime) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6292237?gh_jid=6292237) |
 | Software Engineer, Backend (Institutional - Prime) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5963361?gh_jid=5963361) |
 | Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213) |
-| Senior Site Reliability Engineer, Core AI Infrastructure | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6922412?gh_jid=6922412) |
 | Senior Software Engineer, Backend (Platform - Infra Core Reliability Team | Remote - India, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6931421?gh_jid=6931421) |
 | Software Engineer, Backend (Consumer - Growth) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650921?gh_jid=6650921) |
 | Software Engineer, Backend - (Consumer - Products) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961451?gh_jid=5961451) |
@@ -117,10 +127,6 @@
 | Senior Software Engineer, Backend (Institutional - Financing) | Remote - Canada, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627698?gh_jid=6627698) |
 | Senior Software Engineer, Backend - Institutional Products | Remote - Canada, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6545791?gh_jid=6545791) |
 | Senior Software Engineer, Backend - Institutional Products | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819) |
-| Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652868?gh_jid=6652868) |
-| Software Engineer, Frontend (Consumer - New Product Verticals) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6685976?gh_jid=6685976) |
-| Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664) |
-| Software Engineer, Frontend (Consumer Products) | Remote - USA, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948951?gh_jid=5948951) |
 | Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
 | Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) |
 | Senior Software Engineer, Backend (Consumer - New Product Vertical) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6686514?gh_jid=6686514) |
@@ -138,15 +144,9 @@
 | Senior Software Engineer, Backend (Platform - Data Platform) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6159789?gh_jid=6159789) |
 | Senior Software Engineer, Backend (Platform - Infra Core Reliability Team) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6263624?gh_jid=6263624) |
 | Senior Software Engineer (Platform - Blockchain Platform Nodes) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6631840?gh_jid=6631840) |
-| Software Engineer, Frontend (Coinbase One) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6222470?gh_jid=6222470) |
-| Software Engineer, Frontend (Consumer - Growth) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652883?gh_jid=6652883) |
-| Software Engineer, Frontend - Consumer Products  | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961369?gh_jid=5961369) |
-| Software Engineer, Frontend (Trust and Loyalty) | Remote - Canada, CA | 0h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6204422?gh_jid=6204422) |
 | Senior Software Engineer, Fullstack (Developer - CDP API) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5961013?gh_jid=5961013) |
 | Senior Site Reliability Engineer - (Platform) | Remote - USA, CA | 0h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5954116?gh_jid=5954116) |
 | Senior Software Engineer, Backend - Taxation | Remote - India, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5815510?gh_jid=5815510) |
-| Software Engineer, Emerging Talent | Remote - Canada, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7011414?gh_jid=7011414) |
-| Software Engineer, Emerging Talent | Remote - USA, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7015173?gh_jid=7015173) |
 | Software Engineer, Backend - Institutional Products | Remote - UK, CA | 1h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6648719?gh_jid=6648719) |
 | Senior Engineering Manager - Platform | Remote - USA, CA | 1h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6245666?gh_jid=6245666) |
 | Senior IT Service Desk Engineer | Remote - USA, CA | 2h ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6852655?gh_jid=6852655) |
@@ -195,15 +195,13 @@
 | Senior Engineering Manager  (Institutional - Exchange) | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566229?gh_jid=6566229) |
 | Senior Engineering Manager  (Institutional - Exchange) | Remote - Canada, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6566234?gh_jid=6566234) |
 | Senior Engineering Manager (Consumer - Financial Services) | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6600272?gh_jid=6600272) |
-| IT Service Desk Engineer | London, UK | 5d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6883337?gh_jid=6883337) |
-| IT Service Desk Engineer | Dublin, Ireland | 5d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6883333?gh_jid=6883333) |
 | Senior Engineering Manager, Trading | Remote - Singapore, CA | 6d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7010523?gh_jid=7010523) |
 | Staff Software Engineer, Backend (Institutional - Exchange) | Remote - Canada, CA | 6d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6627826?gh_jid=6627826) |
 | Staff Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | 6d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6217958?gh_jid=6217958) |
 | Staff Software Engineer, Backend (Institutional - Foundations) | Remote - Canada, CA | 6d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628035?gh_jid=6628035) |
 | Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | 6d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) |
 
-### 💳 **Stripe** (113 positions) 🏢 Top Tech
+### 💳 **Stripe** (78 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -218,30 +216,21 @@
 | Backend Engineer, Developer Experience & Product Platform | Seattle, CA | 17h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5628293) |
 | Backend Engineer, Core Technology | Seattle, San Francisco | 22h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) |
 | Senior Staff Engineer, Core Infrastructure | Seattle, US Remote | 1d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7017350) |
-| Design Engineer, Presence (Expansion) | London, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6972668) |
-| User Experience Assurance Engineer | Dublin, Spain | 1d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6088250) |
 | Software Engineer, Revenue and Finance Automation | Canada, CA | 3d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7019065) |
 | Backend Engineer, Billing | Canada, CA | 3d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5932585) |
-| Software Engineer, Backend Developer Infrastructure | Dublin, CA | 4d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6614499) |
-| Full Stack Engineer, User Billing | Bangalore, CA | 4d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6802144) |
 | Staff Engineer, Usage Based Billing  | US Locations, CA | 4d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7031755) |
 | Staff Software Engineer, Data Movement | Seattle, US Remote | 4d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6345510) |
 | Software Engineer | North America, CA | 4d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5644613) |
 | Integration Engineer, Spanish Speaking | Madrid, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6638408) |
 | Community Communications, Product/Developer | SF, NYC | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6831875) |
-| Staff Full Stack Engineer, Enterprise Engineering | Toronto, Canada  | 5d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6781379) |
 | Staff Full Stack Engineer, User Auth Experience  | US Remote , CA | 5d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6335489) |
-| Backend Engineer Dublin: Stripe Products  | Dublin, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6852208) |
 | Lead Security Engineer, Bridge | SF, NYC | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6926372) |
-| Technical Partner Manager, Global Partner Engineering & Operations (PE&O) | Dublin, Ireland | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7015852) |
 | Backend/API Engineer, Money as a Service (Canada) | Canada, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6176763) |
 | Backend/API Engineer, Product | Bucharest, Romania  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6623781) |
-| Backend Engineer, Core Tech, Canada | Toronto, CAN-Remote | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6567253) |
 | Backend Engineer, Infrastructure | Bucharest, Romania  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6623777) |
 | Backend Engineer, Web Presence and Platform Infrastructure | Canada , CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6726256) |
 | Broadcast Engineer | San Francisco, CA  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) |
 | Core Applications Engineer | Remote 🏠 | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6694531) |
-| Corporate Systems Engineer | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6682133) |
 | Data Software Engineer, Support Data Foundations | AMER, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6594794) |
 | Design Engineer, Expansion | Canada, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6299301) |
 | Engineering Manager | Bucharest, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6685813) |
@@ -249,73 +238,47 @@
 | Engineering Manager, Billing Subscriptions | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6931384) |
 | Engineering Manager, Cloud Infrastructure  | Bengaluru, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6696183) |
 | Engineering Manager, Core Technology | Seattle, WA; San Francisco | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6575775) |
-| Engineering Manager Of Managers, Core Infrastructure | Sydney, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6042316) |
-| Engineering Manager, Payment Intelligence | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6954406) |
-| Engineering Manager, Privacy Eng & Data Protection | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6781778) |
 | Engineering Manager, Product and Business | Canada, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) |
 | Engineering Manager, Product and Business | US-Remote, Chicago | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) |
 | Engineering Manager, Revenue Sub-ledger | Bengaluru, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6966887) |
-| Engineering Manager, User Compliance | Singapore, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6794700) |
 | Engineering Manager, Web Presence Platform (WPP) | CA-Toronto, CA-Remote | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6756744) |
 | Enterprise Integration Engineer | Mexico City, MX | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7014338) |
-| Frontend Engineer, Currency Management | London, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6695303) |
 | Frontend Engineering Manager, Stripe Dashboard | Chicago, US-Remote | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6874481) |
-| Frontend Engineer, Risk Engineering Team | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6898227) |
 | Frontend Engineer, Stripe Tax | Barcelona, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6719492) |
 | Full Stack Engineer, Compliance Applications | Bucharest, Romania  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6933737) |
-| Full Stack Engineer, Global Expanders | Dublin, Ireland | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6746901) |
 | Full Stack Engineer, Growth & SEO | Spain, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6707743) |
 | Full Stack Engineer, Privacy and Data Protection Team | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6781774) |
 | Full Stack Engineer, Remediations Team | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6717520) |
 | Full Stack Engineer, Risk Engineering Team | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6867859) |
 | Full Stack Engineer,  Stripe Tax | Ireland, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5995109) |
 | Full Stack Engineer, Tax Team | Barcelona , CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6719642) |
-| Integration Engineer, Professional Services | Toronto, Canada | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6651831) |
-| Integration Reliability Engineer, Technical Operations | Toronto, Canada  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6621813) |
 | Integration Reliability Engineer, Technical Operations | Bucharest, Romania | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6995841) |
 | Integration Reliability Engineer, Technical Operations | Mexico City, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6663015) |
 | IT Support Engineer | Mexico City, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6926881) |
-| IT Support Engineer | Berlin, Germany  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6934205) |
 | IT Support Engineer | New York City , CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6865607) |
 | IT Support Engineer | Bucharest, Romania  | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6907080) |
 | Machine Learning Engineer, Credit Risk | Seattle, San Francisco | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6681787) |
-| Machine Learning Engineer, Credit Risk | Toronto, Canada | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6721988) |
 | Machine Learning Engineer, Identity Product | San Francisco, Seattle | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) |
 | Offensive Security Engineer, Penetration Testing  | Remote 🏠 | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6825094) |
 | Partner Engineer, Operational Excellence - Global Partner Engineering and Operations | AMER, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6968893) |
-| Salesforce.com Engineer | Bangalore , CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6642122) |
 | Security Engineer, Security Partnerships | Remote 🏠 | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
-| Senior Full Stack Engineer, Compliance Platform  | Dublin, Ireland  | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6539731) |
-| Senior Staff Engineer- Core Infrastructure | Sydney , CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979849) |
 | Senior Staff Engineer , Revenue and Finance Automation | Bengaluru, Hyderabad | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5323514) |
-| Software Development Engineer  | Toronto, Canada | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6574271) |
-| Software Engineer | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6891899) |
-| Software Engineer, Accounting Products | Bangalore, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6241651) |
-| Software Engineer, Core Infrastructure | Sydney, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979855) |
 | Software Engineer, Data | Canada, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6268625) |
-| Software Engineer, Infrastructure  | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6686634) |
 | Software Engineer – Mobile (React Native/iOS/Android) | Barcelona, CA | 6d ago | Entry-Level | Mobile Development | [Apply](https://stripe.com/jobs/search?gh_jid=6576215) |
-| Software Engineer, Operations Infrastructure | Bangalore , CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5206007) |
 | Software Engineer, Privacy Products | N/A, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6953265) |
-| Software Engineer (Python) | Dublin, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6873631) |
 | Software Engineer, Revenue and Finance Automation | Bengaluru, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5738419) |
-| Software Engineer, Seller Systems | Bangalore, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6696289) |
 | Software Engineer,Service Ecosystem Sustainability  | Bengaluru, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6967304) |
 | Software Engineer, Verification & Identity Platform | IN-Bengaluru, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=4952353) |
 | Sr. Staff Engineer, Data & AI Infrastructure | N/A, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6718325) |
 | Staff Backend Engineer, Billing Subscriptions | Canada, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5846766) |
-| Staff Engineer, Core Infrastructure | Sydney, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979851) |
-| Staff Engineer, Data Lake  | Dublin , CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6981419) |
 | Staff Engineer, Experimentation Platform | N/A, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6948694) |
 | Staff Engineer, Marketing Systems | Bengaluru, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6621461) |
 | Staff Engineer , Revenue and Finance Automation | Bengaluru, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6746061) |
-| Staff Engineer, Revenue Experience | Dublin, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6984328) |
 | Staff Engineer, Service Platform Engineering | Bengaluru, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6689787) |
 | Staff Frontend Engineer, Link Payment Experience | New York, NY | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6937155) |
 | Staff Full Stack Engineer, Docs Product | N/A, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6885408) |
 | Staff Incident Response Engineer | Remote 🏠 | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6132358) |
 | Staff Software Engineer, Batch Compute | India - Bengaluru, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6924723) |
-| Staff Software Engineer, Operations Infrastructure | Bangalore , CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=5206002) |
 | Staff Software Engineer, Reporting Platform  | Bengaluru, CA | 6d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6958300) |
 | Strategic Partner, Partner Engineering & Operations  | Remote US, CA | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6371815) |
 | Technical Curriculum Developer, Training & Certification | SF, Chicago | 6d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6979461) |
@@ -323,46 +286,17 @@
 
 ---
 
-### 📁 **More Companies** (12 companies, 55 positions)
+### 📁 **More Companies** (12 companies, 43 positions)
 
 <details>
-<summary><strong>📊 Databricks</strong> (19 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Developer Advocate, Manager   | Seattle, Washington | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934702002) |
-| Developer Advocate, Manager   | San Francisco, California | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930601002) |
-| Sr. Solutions Engineer (Vietnamese Speaking) | Singapore, CA | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8064714002) |
-| Sr. Solutions Engineer (Thai Speaking) | Singapore, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8064705002) |
-| Sr. Solutions Engineer (Hong Kong) | Singapore, CA | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8064702002) |
-| Sr. Solutions Engineer (Greater China Region) | Singapore, CA | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8064697002) |
-| Sr. Solutions Engineer | Singapore, CA | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027750002) |
-| Sr Solutions Engineer - Retail & Consumer Goods Vertical | Munich, Germany | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8005455002) |
-| Sr. Solutions Engineer | Melbourne, Australia | 4d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002) |
-| Sr. Solutions Engineer | Tokyo, Japan | 4d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7887150002) |
-| Specialist Solutions Architect - Data Engineering | United States, CA | 4d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7710477002) |
-| Senior Solutions Engineer | Amsterdam, Netherlands | 5d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7969101002) |
-| Data Scientist / Machine Learning Engineer | Remote - India, CA | 5d ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8011992002) |
-| Sr. Data Scientist / Machine Learning Engineer - GenAI | Remote - India, CA | 5d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7863682002) |
-| Director, Field Engineering | Amsterdam, Netherlands | 5d ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7741276002) |
-| Sr. Staff Designated Support Engineer | San Francisco, California | 5d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995111002) |
-| Sr. Manager, Field Engineering - Financial Services | Illinois; Massachusetts; New York; Virginia, CA | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8047001002) |
-| Senior Technical Solution Engineer - AI/ML/Spark  | Sao Paulo, Brazil | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7330831002) |
-| Sr. Staff Software Engineer, Vector Search | Mountain View, California; San Francisco | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002) |
-
-</details>
-
-<details>
-<summary><strong>🏠 Airbnb</strong> (15 positions) </summary>
+<summary><strong>🏠 Airbnb</strong> (13 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior iOS Engineer, Global Markets  | China, CA | 4d ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/7043031?gh_jid=7043031) |
-| Mulesoft Developer, BizTech | Bangalore, CA | 4d ago | Mid-Level | Software Engineering | [Apply](https://careers.airbnb.com/positions/6531521?gh_jid=6531521) |
 | Senior Android Engineer, Quality Engineering | United States, CA | 4d ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6602436?gh_jid=6602436) |
 | Staff Software Engineer, Guest & Host | San Francisco, CA | 4d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6863714?gh_jid=6863714) |
 | Senior Software Engineer, Guest & Host | China, CA | 5d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6963051?gh_jid=6963051) |
-| Staff Machine Learning Engineer, BizTech | Bangalore, India | 5d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7025506?gh_jid=7025506) |
 | Senior Software Engineer, Community Support Engineering(Multiple roles) | China, CA | 5d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6567660?gh_jid=6567660) |
 | Senior Staff Machine Learning Engineer - Community Support Engineering | United States, CA | 5d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7028263?gh_jid=7028263) |
 | Senior Software Engineer,Cloud Infrastructure | United States, CA | 5d ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/6574392?gh_jid=6574392) |
@@ -372,6 +306,24 @@
 | Senior Manager, Machine Learning Engineering - Community Support Engineering | United Stated, CA | 6d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/6760488?gh_jid=6760488) |
 | Staff Software Engineer, Compute Data Plane | Remote - USA, CA | 6d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/7027000?gh_jid=7027000) |
 | Senior Software Engineer, Guest & Host | Remote-USA, CA | 6d ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6969055?gh_jid=6969055) |
+
+</details>
+
+<details>
+<summary><strong>📊 Databricks</strong> (10 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Developer Advocate, Manager   | Seattle, Washington | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934702002) |
+| Developer Advocate, Manager   | San Francisco, California | 21h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930601002) |
+| Sr Solutions Engineer - Retail & Consumer Goods Vertical | Munich, Germany | 4d ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8005455002) |
+| Specialist Solutions Architect - Data Engineering | United States, CA | 4d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7710477002) |
+| Data Scientist / Machine Learning Engineer | Remote - India, CA | 5d ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8011992002) |
+| Sr. Data Scientist / Machine Learning Engineer - GenAI | Remote - India, CA | 5d ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7863682002) |
+| Sr. Staff Designated Support Engineer | San Francisco, California | 5d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995111002) |
+| Sr. Manager, Field Engineering - Financial Services | Illinois; Massachusetts; New York; Virginia, CA | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8047001002) |
+| Senior Technical Solution Engineer - AI/ML/Spark  | Sao Paulo, Brazil | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7330831002) |
+| Sr. Staff Software Engineer, Vector Search | Mountain View, California; San Francisco | 6d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002) |
 
 </details>
 
@@ -389,16 +341,6 @@
 | Software Engineer – New Grad | NYC, Locations | 6d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply) |
 | Forward Deployed Software Engineer – New Grad - US Government | NYC, Locations | 6d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) |
 | Forward Deployed Software Engineer – New Grad - US Government | Washington, DC | 6d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Jerry</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer I | SF, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Jerry/da971495-baa6-4d32-8138-34bcb2be8366/application) |
-| Software Engineer I | Toronto, ON | 21h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Jerry/cd2c9819-712d-4a67-a0e1-c23e0814cf27/application) |
 
 </details>
 
@@ -437,6 +379,15 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer I | Boston, MA | 13h ago | Mid-Level | Software Engineering | [Apply](https://boards.greenhouse.io/embed/job_app?token=6983872) |
+
+</details>
+
+<details>
+<summary><strong>🏢 Jerry</strong> (1 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Software Engineer I | SF, Locations | 20h ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Jerry/da971495-baa6-4d32-8138-34bcb2be8366/application) |
 
 </details>
 
@@ -482,20 +433,19 @@
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Opportunities</strong> (487 positions older than 1 week)</h2></summary>
+<summary><h2>📁 <strong>Archived Opportunities</strong> (435 positions older than 1 week)</h2></summary>
 
 ### 📊 **Archived Stats**
-- **📁 Total Archived**: 487 positions
-- **🏢 Companies**: 72 companies
-- **⭐ FAANG+ Archived**: 5 positions
+- **📁 Total Archived**: 435 positions
+- **🏢 Companies**: 66 companies
+- **⭐ FAANG+ Archived**: 4 positions
 - **📅 Age**: 1+ weeks old
 
-### 📦 **Amazon** (4 positions) ⭐ FAANG+
+### 📦 **Amazon** (3 positions) ⭐ FAANG+
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | ML Compiler Engineer I | Seattle, WA | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/2955921/ml-compiler-engineer-i-annapurna-labs) |
-| Software Development Engineer I | Toronto, ON | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/2849985/software-development-engineer-i-2025) |
 | Software Development Engineer I - Redshift | Palo Alto, CA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/2850010/software-development-engineer-i-2025-redshift) |
 | Software Development Engineer I | Palo Alto, CA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025) |
 
@@ -505,13 +455,12 @@
 |------|----------|--------|-------|----------|-------|
 | Software Engineer - Frontend | Redmond, WA | 9mo ago | Mid-Level | Frontend Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond) |
 
-### 📊 **Databricks** (242 positions) 🏢 Top Tech
+### 📊 **Databricks** (209 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Sr. Solutions Engineer - Digital Natives & Startups | Remote - Italy, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8033631002) |
 | Senior Backend Software Engineer- (AI Platform) | Mountain View, California; San Francisco | 1w ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002) |
-| Sr. Solutions Engineer | Sydney, Australia | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7978337002) |
 | Sr. Staff Software Engineer, CoreX | Mountain View, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987676002) |
 |  Sr. Engineering Manager | Mountain View, California; San Francisco | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002) |
 | Manager, Field Engineering | San Francisco, California | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8048848002) |
@@ -545,7 +494,6 @@
 | Manager, Field Engineering - HLS | United States, CA | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909228002) |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) |
 | Staff Product Security Engineer | United States, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) |
-| Staff Backline Engineer, Platform | Tokyo, Japan | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7879633002) |
 | Sr. Developer Advocate, Open Lakehouse | San Francisco, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930163002) |
 | Sr. Developer Advocate, Open Lakehouse | Seattle, Washington | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7871400002) |
 | Engineering Manager, Lakeflow Platform | San Francisco, California | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7860859002) |
@@ -560,14 +508,6 @@
 | Senior Staff Software Engineer - App Platform | San Francisco, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7732463002) |
 | Senior Staff Software Engineer - App Platform | Mountain View, California | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7731360002) |
 | Engineering Manager, Data Sharing & Collaboration | Mountain View, California | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6485812002) |
-| Staff Security Engineer, Field Assurance | London, United Kingdom | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7929456002) |
-| Staff Security Engineer, Field Assurance | Amsterdam, Netherlands | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909792002) |
-| Staff Product Security Engineer | London, United Kingdom | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8054495002) |
-| Staff Product Security Engineer | Berlin, Germany | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8054494002) |
-| Staff Product Security Engineer | Amsterdam, Netherlands | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909788002) |
-| Senior Security Engineer, Red Team  | Berlin, Germany | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8054485002) |
-| Senior Security Engineer, Red Team  | London, United Kingdom | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8054483002) |
-| Senior Security Engineer, Red Team  | Amsterdam, Netherlands | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7980101002) |
 | Sr. Enterprise Security Engineer | Remote - Netherlands, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7788694002) |
 | Sr. Enterprise Security Engineer | Remote - Germany, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7788691002) |
 | Sr. Enterprise Security Engineer | Remote - United Kingdom, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7730052002) |
@@ -577,32 +517,21 @@
 | Pre-Sales Manager, Field Engineering (Strategic Accounts, Switzerland & Austria) | Zürich, Switzerland | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8050024002) |
 | Senior Solutions Engineer (EMEA Greenfield) - German Speaking | Munich, Germany | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8041559002) |
 | Specialist Solutions Architect - Data Engineering | Mexico City, CA | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7913904002) |
-| Sr. Manager, Engineering - Identity Platform  | Berlin, Germany | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8003987002) |
 | Systems Engineer ( IAM) | Bengaluru, India | 1w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8048469002) |
 | Sr. Systems Engineer ( IAM) | Bengaluru, India | 1w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8048465002) |
-| Sr. Solutions Engineer | Seoul, South Korea | 2w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7995828002) |
 | Staff Software Engineer - Fullstack / Frontend- Core Experiences | Bengaluru, India | 2w ago | Senior | Frontend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002) |
 | Sr. Solutions Engineer AI/ML | Munich, Germany | 2w ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7988431002) |
 | Sr. Product Security Engineer | Bengaluru, India | 2w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026642002) |
 | Sr. Staff Product Security Engineer | Bengaluru, India | 2w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026638002) |
 | Sr. Full Stack Software Engineer  | Bengaluru, India | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7808221002) |
-| Staff Network Engineer | Amsterdam, Netherlands | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027292002) |
 | Staff Software Engineer - Unity Catalog | Mountain View, California | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7933498002) |
 | Sr. Solutions Engineer - Travel, Logistics and Life Sciences | Munich, Germany | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7929230002) |
 | Scale Solutions Engineer | Bengaluru, India | 3w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024706002) |
 | Senior Solutions Engineer (Product - Ramping Accounts) | Paris, France | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8025328002) |
-| Lead Scale Solution Engineer | Amsterdam, Netherlands | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024710002) |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) |
 | Senior Technical Solutions Engineer (Apache Spark™) | Bengaluru, India | 3w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7845325002) |
 | Staff Technical Solutions Engineer (Apache Spark™) | Bengaluru, India | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7761852002) |
 | Staff Technical Solutions Engineer (Platform) | Bengaluru, India | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7845334002) |
-| Software Engineer - Fullstack | Amsterdam, Netherlands | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029677002) |
-| Staff Software Engineer - Developer Experience | Amsterdam, Netherlands; EMEA | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029676002) |
-| Engineering Manager - Developer Experience | Amsterdam, Netherlands | 4w ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029681002) |
-| Staff Software Engineer - Backend | Amsterdam, Netherlands | 4w ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002) |
-| Senior Software Engineer - Developer Experience | Amsterdam, Netherlands | 4w ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029673002) |
-| Senior Software Engineer - Backend | Amsterdam, Netherlands | 4w ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002) |
-| Software Engineer - Backend | Amsterdam, Netherlands | 4w ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002) |
 | Senior Software Engineer - Compliance | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029215002) |
 | Senior Software Engineer - Privacy | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029211002) |
 | Senior Software Engineer - IAM | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029209002) |
@@ -611,9 +540,7 @@
 | Senior Software Engineer  - Money Team | Bellevue, Washington | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002) |
 | Sr. Solutions Engineer | Herzliya, Israel | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8003851002) |
 | Senior Solutions Engineer - Finland | Finland, CA | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027870002) |
-| Senior Solutions Engineer - Stockholm or Helsinki based | Stockholm, Sweden | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8025549002) |
 | Director, Field Engineering | Sao Paulo, Brazil | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7879729002) |
-| Sr. Data Scientist / Machine Learning Engineer - GenAI | London, United Kingdom | 1mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7967827002) |
 | Staff Fullstack Engineer | San Francisco, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) |
 | Pre-Sales Manager, Field Engineering | Bengaluru, India | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959796002) |
 | Software Engineer - Backend | Belgrade, Serbia | 1mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002) |
@@ -649,18 +576,14 @@
 | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002) |
 | Sr. Manager, Engineering - Unity Catalog Infra | Mountain View, California | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7952580002) |
 | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | 1mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) |
-| Staff Software Engineer - Backend | Berlin, Germany | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002) |
 | Solutions Engineer | Riyadh, Saudi Arabia  | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7827352002) |
 | Staff Software Engineer - User Activation | San Francisco, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002) |
 | Sr. Solutions Engineer | Munich, Germany | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7976545002) |
 | Senior Software Engineer (L5) - Partner Ecosystem | Bengaluru, India | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7938412002) |
 | Database Engine Internals - Staff Software Engineer | Bellevue, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806692002) |
 | Database Engine Internals - Staff Software Engineer | Seattle, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806691002) |
-| Engineering Manager- AI OSS Ecosystem, Singapore | Singapore, CA | 2mo ago | Mid-Level | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7917530002) |
-| Engineering Manager - Backend | Amsterdam, Netherlands | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5313313002) |
 | Engineering Manager - Backend | Bengaluru, India | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002) |
 | Engineering Manager - Core Experiences  | Bengaluru, India | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002) |
-| Engineering Manager - Distributed Data Systems | Amsterdam, Netherlands | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4140440002) |
 | Engineering Manager - Money (Gatekeeper) | Bengaluru, India | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7676232002) |
 | Engineering Manager - Release and Deployment Infrastructure | Mountain View, California | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6956845002) |
 | GenAI Staff Machine Learning Engineer, AI Runtime | San Francisco, California | 2mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954414002) |
@@ -671,7 +594,6 @@
 | Senior Engineering Manager - Backend  | Bengaluru, India | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002) |
 | Senior GenAI Machine Learning Engineers, LLM Products, Applied AI | San Francisco, California | 2mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) |
 | Senior Software Engineer - Backend | Mountain View, California | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) |
-| Senior Software Engineer - Backend | Berlin, Germany | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002) |
 | Senior Software Engineer - Backend | San Francisco, California | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) |
 | Senior Software Engineer - Backend | Bellevue, Washington | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) |
 | Senior Software Engineer (Backend) | Bengaluru, India | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) |
@@ -698,24 +620,20 @@
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) |
 | Senior Staff Software Engineer - Enzyme | Seattle, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934520002) |
 | Senior Staff Software Engineer - IAM | Seattle, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) |
-| Senior Staff Software Engineer - Privacy | Amsterdam, Netherlands | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002) |
 | Senior Staff Software Engineer - Privacy | San Francisco, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) |
 | Senior Staff Software Engineer - Privacy | Seattle, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) |
 | Senior Staff Software Engineer - Privacy | New York City, New York | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) |
 | Senior Technical Solutions Engineer (Platform) | Bengaluru, India | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7845320002) |
-| Senior Technical Solutions Engineer (Spark) | Seoul, South Korea | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7879630002) |
 | Software Engineer - Backend | Aarhus, Denmark | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002) |
 | Software Engineer - Performance PhD Candidates | Mountain View, California | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7466498002) |
 | Software Engineer -  Systems PhD Candidates | Mountain View, California | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6875433002) |
 | Software Engineer - Systems PhD Candidates  | Seattle, Washington | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7649293002) |
-| Solutions Engineer | Tokyo, Japan | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7660095002) |
 | Sr Backline Engineer (Apache Spark™) | Bengaluru, India | 2mo ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7335143002) |
 | Sr Engineering Manager - Backend | Bengaluru, India | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7006089002) |
 | Sr. Engineering Manager - Release and Deployment Infrastructure | San Francisco, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7693874002) |
 | Sr. Manager, Field Engineering | Mexico City, CA | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7923228002) |
 | Sr. NOC Engineer | Bengaluru, India | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930375002) |
 | Sr. Product Manager, Data Engineering | San Francisco, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002) |
-| Sr. Product Manager, Developer Ecosystem | Amsterdam, Netherlands | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7870132002) |
 | Sr Software Engineer - Backend | Bengaluru, India | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002) |
 | Sr. Software Engineer - Backend | Aarhus, Denmark | 2mo ago | Senior | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002) |
 | Sr Software Engineer (Backend / Fullstack) | Bengaluru, India | 2mo ago | Mid-Level | Backend Development | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7342895002) |
@@ -742,7 +660,6 @@
 | Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) |
 | Staff Software Engineer - Distributed Data Systems | Seattle, Washington | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937000002) |
 | Staff Software Engineer - Distributed Data Systems | Mountain View, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002) |
-| Staff Software Engineer - Distributed Data Systems | Berlin, Germany | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7696308002) |
 | Staff Software Engineer – Feature Experimentation Platform | San Francisco, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7923561002) |
 | Staff Software Engineer - Infrastructure | Bengaluru, India | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002) |
 | Staff Software Engineer , Machine Learning (Search) | Bengaluru, India | 2mo ago | Senior | Machine Learning & AI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002) |
@@ -752,7 +669,7 @@
 | Staff Software Engineer - Observability (Databases) | Mountain View, California | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7431175002) |
 | Staff Software Engineer , Search Ranking (Applied AI) | Bengaluru, India | 2mo ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002) |
 
-### 🏠 **Airbnb** (65 positions) 🏢 Top Tech
+### 🏠 **Airbnb** (63 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -771,7 +688,6 @@
 | Senior Software Engineer, Community Support Engineering  | Remote 🏠 | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6573479?gh_jid=6573479) |
 | Senior Software Engineer, CSP | United States, CA | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6996815?gh_jid=6996815) |
 | Senior Software Engineer, Database Infrastructure Service | United States, CA | 1w ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/6631040?gh_jid=6631040) |
-| Senior Software Engineer - Fullstack, BizTech | Bangalore, India | 1w ago | Senior | Full Stack Development | [Apply](https://careers.airbnb.com/positions/7006134?gh_jid=7006134) |
 | Senior Software Engineer, Guest & Host | Remote 🏠 | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/5545290?gh_jid=5545290) |
 | Senior Software Engineer, Infrastructure | United Staes, CA | 1w ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/6517928?gh_jid=6517928) |
 | Senior Software Engineer, Unified Data Store | United States, CA | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6139615?gh_jid=6139615) |
@@ -784,7 +700,6 @@
 | Senior Staff Software Engineer, Hotels | Remote 🏠 | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6781895?gh_jid=6781895) |
 | Senior Staff Software Engineer, Marketing Technology | Remote 🏠 | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6292357?gh_jid=6292357) |
 | Senior Staff Software Engineer, Reliability Engineering | Remote - USA, CA | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6358994?gh_jid=6358994) |
-| Senior Systems Engineer, Payments (SRE / TechOps) | Bangalore, India | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6823644?gh_jid=6823644) |
 | Senior Systems Engineer, Slack | United States, CA | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6956809?gh_jid=6956809) |
 | Senior Web Software Engineer, Data Science Prototyping (12 month Contract) | United States, CA | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6124418?gh_jid=6124418) |
 | Staff Android Engineer, Guest Displays & Platforms | United States, CA | 1w ago | Senior | Mobile Development | [Apply](https://careers.airbnb.com/positions/6786713?gh_jid=6786713) |
@@ -822,7 +737,7 @@
 | Staff Software Engineer, Tax Platform | United States, CA | 1w ago | Senior | DevOps & Infrastructure | [Apply](https://careers.airbnb.com/positions/6979138?gh_jid=6979138) |
 | Tech Lead Manager, Engineering - Guest & Host | Remote 🏠 | 1w ago | Senior | Software Engineering | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) |
 
-### ₿ **Coinbase** (64 positions) 🏢 Top Tech
+### ₿ **Coinbase** (61 positions) 🏢 Top Tech
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -844,7 +759,6 @@
 | Senior Analytics Engineer | Remote - Canada, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6884049?gh_jid=6884049) |
 | Senior Analytics Engineer | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6884044?gh_jid=6884044) |
 | Analytics Engineer | Remote - USA, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6884036?gh_jid=6884036) |
-| Software Engineer | Bangalore, India | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6994629?gh_jid=6994629) |
 |  Engineering Manager | Remote - Canada, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6991200?gh_jid=6991200) |
 | Engineering Manager | Remote - USA, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6959889?gh_jid=6959889) |
 | Senior Staff Software Engineer, Backend (Consumer - Trading) | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6947953?gh_jid=6947953) |
@@ -871,8 +785,6 @@
 | Staff Software Engineer (EAA) | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652022?gh_jid=6652022) |
 | Staff Software Engineer, Frontend (EAA) | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6652027?gh_jid=6652027) |
 | Engineering Manager, CX | Remote - USA, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6648742?gh_jid=6648742) |
-| Senior Blockchain Security Engineer | London, UK | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6645987?gh_jid=6645987) |
-| Senior Blockchain Security Engineer | Dublin, Ireland | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6645989?gh_jid=6645989) |
 | Senior Software Engineer - Test Automation | Remote - India, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6625175?gh_jid=6625175) |
 | Senior Infrastructure Security Engineer | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6482038?gh_jid=6482038) |
 | Senior Infrastructure Security Engineer | Remote - Canada, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6482175?gh_jid=6482175) |
@@ -893,15 +805,13 @@
 
 ---
 
-### 📁 **More Companies** (67 companies, 111 positions)
+### 📁 **More Companies** (61 companies, 98 positions)
 
 <details>
-<summary><strong>🎨 Figma</strong> (22 positions) </summary>
+<summary><strong>🎨 Figma</strong> (19 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-|  Product Manager, Developer Tools (London, United Kingdom) | London, England | 1w ago | Mid-Level | Product Management | [Apply](https://boards.greenhouse.io/figma/jobs/5572588004?gh_jid=5572588004) |
-| Manager, Software Engineering - Developer Tools (London, United Kingdom) | London, England | 1w ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5574708004?gh_jid=5574708004) |
 | Manager, Software Engineering - Infrastructure | San Francisco, CA • New York | 1w ago | Mid-Level | DevOps & Infrastructure | [Apply](https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004) |
 | People Partner, Engineering | San Francisco, CA • New York | 3w ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5564028004?gh_jid=5564028004) |
 | Integration Engineering Lead | San Francisco, CA • New York | 3w ago | Senior | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5505406004?gh_jid=5505406004) |
@@ -918,7 +828,6 @@
 | Software Engineer, C++ | San Francisco, CA • New York | 1mo ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004) |
 | Software Engineer, AI Product | San Francisco, CA • New York | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004) |
 | Software Engineer, Product Engineering  | San Francisco, CA • New York | 1mo ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5552540004?gh_jid=5552540004) |
-| Software Engineer, Product Engineering (London, United Kingdom) | London, England | 1mo ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004) |
 | Data Engineer | San Francisco, CA • New York | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) |
 | Manager, Software Engineering - AI Product  | San Francisco, CA • New York | 1mo ago | Mid-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/figma/jobs/5248996004?gh_jid=5248996004) |
 | Manager, Software Engineering - Interactive Foundations | San Francisco, CA • New York | 1mo ago | Mid-Level | Design | [Apply](https://boards.greenhouse.io/figma/jobs/5502344004?gh_jid=5502344004) |
@@ -964,26 +873,6 @@
 |------|----------|--------|-------|----------|-------|
 | C++ Software Engineer – New College Graduate | Boston, MA | 2w ago | Entry-Level | Design | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/C---Software-Engineer---New-College-Graduate--Boston-_R50667-1) |
 | C++ Software Engineer – New College Grad | Burlington, MA | 4w ago | Mid-Level | Design | [Apply](https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50467-1) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Sentry</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer – New Grad | SF, Locations | 2w ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application) |
-| Software Engineer – New Grad | Toronto, ON | 2w ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/sentry/06d7ba85-17aa-4c02-83b9-e278acd88f45/application) |
-
-</details>
-
-<details>
-<summary><strong>🏢 7shifts</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Junior Software Developer | Toronto, ON | 2w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/7shifts/jobs/5567427004) |
-| Junior Software Developer | Saskatoon, SK | 2w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/7shifts/jobs/5563827004) |
 
 </details>
 
@@ -1068,26 +957,6 @@
 </details>
 
 <details>
-<summary><strong>🏢 Konrad Group</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Developer – Entry Level | Remote in UK, Locations | 7mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/embed/job_app?token=6272341003) |
-| Software Developer (Entry Level) | Vancouver, BC | 11mo ago | Entry-Level | Software Engineering | [Apply](https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003) |
-
-</details>
-
-<details>
-<summary><strong>🚪 DoorDash</strong> (2 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025 | Seattle, WA | 8mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/doordashusa/jobs/6330949) |
-| Software Engineer I – Entry Level - Fall 2024-Summer 2025 - Toronto | Toronto, ON | 8mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/doordashcanada/jobs/6346397) |
-
-</details>
-
-<details>
 <summary><strong>🏢 WeRide</strong> (2 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1138,15 +1007,6 @@
 </details>
 
 <details>
-<summary><strong>🏢 Plusgrade</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Junior Software Developer / Développeur logiciel junior | Montreal, QC | 1w ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/plusgrade/9c9728f3-031d-4df5-b3a3-f060e338f684/apply) |
-
-</details>
-
-<details>
 <summary><strong>🏢 RTX</strong> (1 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1161,15 +1021,6 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer I - Ows | Liberty Lake, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/openeye/jobs/8028394002) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Expedia Group</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Eggp – Software Development Engineer I | London, UK | 1w ago | Mid-Level | Software Engineering | [Apply](https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274) |
 
 </details>
 
@@ -1192,6 +1043,15 @@
 </details>
 
 <details>
+<summary><strong>🏢 Sentry</strong> (1 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Software Engineer – New Grad | SF, Locations | 2w ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application) |
+
+</details>
+
+<details>
 <summary><strong>🏢 Capital Rx</strong> (1 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1206,6 +1066,15 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer I | Tempe, AZ | 2w ago | Mid-Level | Software Engineering | [Apply](https://careers-iridium.icims.com/jobs/4453/job) |
+
+</details>
+
+<details>
+<summary><strong>🏢 7shifts</strong> (1 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Junior Software Developer | Saskatoon, SK | 2w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/7shifts/jobs/5563827004) |
 
 </details>
 
@@ -1296,15 +1165,6 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Entry Level Flight Simulation Software Engineer | Hazelwood, MO | 2mo ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Tower Research Capital</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| New Grad C++ Software Engineer | Montreal, QC | 2mo ago | Entry-Level | Backend Development | [Apply](https://www.tower-research.com/open-positions/?gh_jid=6855851) |
 
 </details>
 
@@ -1408,6 +1268,15 @@
 </details>
 
 <details>
+<summary><strong>🏢 Konrad Group</strong> (1 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Software Developer – Entry Level | Remote in UK, Locations | 7mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/embed/job_app?token=6272341003) |
+
+</details>
+
+<details>
 <summary><strong>🏢 Sprout Social</strong> (1 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1422,6 +1291,15 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer I | San Fransisco, Locations | 8mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/Crusoe/80c4152c-a400-4ebd-ad6f-8a98a26bc65d) |
+
+</details>
+
+<details>
+<summary><strong>🚪 DoorDash</strong> (1 positions) </summary>
+
+| Role | Location | Posted | Level | Category | Apply |
+|------|----------|--------|-------|----------|-------|
+| Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025 | Seattle, WA | 8mo ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/doordashusa/jobs/6330949) |
 
 </details>
 
@@ -1480,24 +1358,6 @@
 </details>
 
 <details>
-<summary><strong>🏢 Aquatic Capital Management</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer: Early Career - Python | London, UK | 10mo ago | Mid-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002) |
-
-</details>
-
-<details>
-<summary><strong>💳 Stripe</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer, New Grad | Toronto, ON | 10mo ago | Entry-Level | Software Engineering | [Apply](https://stripe.com/jobs/listing/software-engineer-new-grad/6025906) |
-
-</details>
-
-<details>
 <summary><strong>🟩 Roblox</strong> (1 positions) </summary>
 
 | Role | Location | Posted | Level | Category | Apply |
@@ -1512,15 +1372,6 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Software Engineer | Austin, TX | 11mo ago | Mid-Level | Software Engineering | [Apply](https://careers.confluent.io/jobs/14738286-2025-software-engineer) |
-
-</details>
-
-<details>
-<summary><strong>🏢 Marshall Wace</strong> (1 positions) </summary>
-
-| Role | Location | Posted | Level | Category | Apply |
-|------|----------|--------|-------|----------|-------|
-| Software Engineer – New Grad | London, Locations | 11mo ago | Entry-Level | Software Engineering | [Apply](https://www.mwam.com/technology-graduate-scheme/) |
 
 </details>
 
@@ -1565,44 +1416,41 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 53 | 11% | Perfect for new grads |
-| 🟡 **Mid-Level** | 137 | 28% | 2-5 years experience |
-| 🔴 **Senior** | 297 | 61% | 5+ years experience |
+| 🟢 **Entry-Level** | 45 | 10% | Perfect for new grads |
+| 🟡 **Mid-Level** | 123 | 28% | 2-5 years experience |
+| 🔴 **Senior** | 267 | 61% | 5+ years experience |
 
 ### 🔍 **Archived Filter by Role Category**
 
-#### 📊 **Data Science & Analytics** (198 archived positions)
+#### 📊 **Data Science & Analytics** (173 archived positions)
 📊 Databricks • 🏠 Airbnb
 
-#### 💻 **Software Engineering** (99 archived positions)
+#### 💻 **Software Engineering** (89 archived positions)
 🏠 Airbnb
 
-#### 🎨 **Frontend Development** (73 archived positions)
+#### 🎨 **Frontend Development** (70 archived positions)
 ₿ Coinbase • 🏠 Airbnb
 
-#### ⚙️ **Backend Development** (43 archived positions)
+#### ⚙️ **Backend Development** (35 archived positions)
 🏠 Airbnb
 
-#### 🤖 **Machine Learning & AI** (33 archived positions)
+#### 🤖 **Machine Learning & AI** (31 archived positions)
 🏠 Airbnb
 
 #### ☁️ **DevOps & Infrastructure** (14 archived positions)
 🏠 Airbnb
 
-#### 🎨 **Design** (13 archived positions)
-🎨 Figma • 🏢 Cadence Design Systems
+#### 🎨 **Design** (11 archived positions)
+🏢 Cadence Design Systems • 🎨 Figma
 
 #### 📱 **Mobile Development** (6 archived positions)
 🏠 Airbnb
 
-#### 🌐 **Full Stack Development** (4 archived positions)
-🏠 Airbnb
+#### 🌐 **Full Stack Development** (3 archived positions)
+🏠 Airbnb • 🏢 N1
 
 #### 🛡️ **Security Engineering** (3 archived positions)
 🏠 Airbnb • 🎨 Figma • 🏢 Tencent
-
-#### 📋 **Product Management** (1 archived positions)
-🎨 Figma
 
 ### 🌍 **Top Archived Locations**
 
@@ -1644,31 +1492,31 @@
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 **Entry-Level** | 103 | 31% | Perfect for new grads |
-| 🟡 **Mid-Level** | 88 | 27% | 2-5 years experience |
-| 🔴 **Senior** | 139 | 42% | 5+ years experience |
+| 🟢 **Entry-Level** | 75 | 27% | Perfect for new grads |
+| 🟡 **Mid-Level** | 83 | 30% | 2-5 years experience |
+| 🔴 **Senior** | 123 | 44% | 5+ years experience |
 
 ---
 
 ## 🔍 **Filter by Role Category**
 
-### 🎨 **Frontend Development** (267 positions)
+### 🎨 **Frontend Development** (230 positions)
 ₿ Coinbase
 
-### 💻 **Software Engineering** (27 positions)
+### 💻 **Software Engineering** (25 positions)
 🏢 Motorola • 🟦 Microsoft • 🏢 Chewy
 
-### 📊 **Data Science & Analytics** (16 positions)
+### 📊 **Data Science & Analytics** (8 positions)
 📊 Databricks
 
 ### ☁️ **DevOps & Infrastructure** (6 positions)
 🔵 Meta • 🏠 Airbnb
 
-### 🤖 **Machine Learning & AI** (6 positions)
-📊 Databricks
-
 ### 📱 **Mobile Development** (5 positions)
 💳 Stripe • 🏠 Airbnb
+
+### 🤖 **Machine Learning & AI** (4 positions)
+📊 Databricks • 🏠 Airbnb
 
 ### 🛡️ **Security Engineering** (1 positions)
 🟦 Microsoft
@@ -1687,10 +1535,10 @@
 - **Remote - Canada, CA**: 44 positions
 - **Remote - India, CA**: 13 positions
 - **N/A, CA**: 13 positions
-- **Dublin, CA**: 10 positions
 - **Bengaluru, CA**: 8 positions
 - **Canada, CA**: 7 positions
-- **Singapore, CA**: 6 positions
+- **United States, CA**: 5 positions
+- **NYC, Locations**: 5 positions
 
 ---
 
@@ -1743,7 +1591,7 @@ Spotted an issue or want to suggest improvements?
 
 <div align="center">
 
-**🎯 330 current opportunities from 17 elite companies**
+**🎯 281 current opportunities from 17 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
