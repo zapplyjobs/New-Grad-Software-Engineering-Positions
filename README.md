@@ -1,4 +1,4 @@
-# 💼 Zapply Job Board
+# 💼 2026 New Grad Jobs by Zapply
 
 **🚀 Real opportunities from 82+ top companies • Updated daily**
 
