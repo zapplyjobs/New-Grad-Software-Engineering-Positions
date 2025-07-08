@@ -73,12 +73,6 @@ async function fetchInternshipData() {
     // Popular internship tracking repositories and sources
     const internshipSources = [
         {
-            name: 'GitHub Internship List',
-            url: 'https://github.com/christine-hu/summer-2024-internships',
-            type: 'GitHub Repository',
-            description: 'Community-maintained tech internship tracker'
-        },
-        {
             name: 'AngelList Internships',
             url: 'https://angel.co/jobs#internships',
             type: 'Job Board',
