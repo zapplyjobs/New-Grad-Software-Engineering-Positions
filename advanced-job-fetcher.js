@@ -392,14 +392,21 @@ function generateJobTable(jobs) {
     const topCompanies = sortedCompanies.slice(0, 5);
     const remainingCompanies = sortedCompanies.slice(5);
     
-    // Top companies - fully expanded
+    // Top companies - check if they have more than 50 jobs
     topCompanies.forEach(companyName => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
         const isFaang = faangCompanies.includes(companyName);
         const tier = isFaang ? '⭐ FAANG+' : '🏢 Top Tech';
         
-        output += `### ${emoji} **${companyName}** (${companyJobs.length} positions) ${tier}\n\n`;
+        // If company has more than 50 jobs, make it collapsible
+        if (companyJobs.length > 50) {
+            output += `<details>\n`;
+            output += `<summary><h3>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions) ${tier}</h3></summary>\n\n`;
+        } else {
+            output += `### ${emoji} **${companyName}** (${companyJobs.length} positions) ${tier}\n\n`;
+        }
+        
         output += `| Role | Location | Posted | Level | Category | Apply |\n`;
         output += `|------|----------|--------|-------|----------|-------|\n`;
         
@@ -424,7 +431,11 @@ function generateJobTable(jobs) {
             output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
         });
         
-        output += '\n';
+        if (companyJobs.length > 50) {
+            output += `\n</details>\n\n`;
+        } else {
+            output += '\n';
+        }
     });
     
     // Remaining companies - collapsible sections
