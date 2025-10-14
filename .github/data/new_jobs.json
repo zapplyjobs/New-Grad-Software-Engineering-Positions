@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Cellular Embedded Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsStrong coding skill in C or C++Algorithm, Data Structures, Embedded System KnowledgeBachelor or Graduate degree in Electrical Engineering, Computer Engineering, Computer Science or equivalent degree.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625899-3543/cellular-embedded-software-engineer?team=SFTWR",
+    "id": "apple-cellular-embedded-software-engineer-san-diego"
+  }
+]
