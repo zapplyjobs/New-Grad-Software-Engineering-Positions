@@ -127,16 +127,15 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
       }
 
       // Extract raw apply link
-      // let applyLink = '';
-      // if (sel.applyLinkSelector) {
-      //   applyLink = getAttr(sel.applyLinkSelector.replace(/\${index}/g, jobIndex), sel.linkAttribute);
-      // } else if (sel.linkSelector) {
-      //   applyLink = getAttr(sel.linkSelector, sel.linkAttribute);
-      // } else if (sel.jobLinkSelector && sel.linkAttribute) {
-      //   applyLink = el.getAttribute(sel.linkAttribute) || '';
-      // }
-
       let applyLink = '';
+      if (sel.applyLinkSelector) {
+        applyLink = getAttr(sel.applyLinkSelector.replace(/\${index}/g, jobIndex), sel.linkAttribute);
+      } else if (sel.linkSelector) {
+        applyLink = getAttr(sel.linkSelector, sel.linkAttribute);
+      } else if (sel.jobLinkSelector && sel.linkAttribute) {
+        applyLink = el.getAttribute(sel.linkAttribute) || '';
+      }
+
       
       
       // Extract location with special handling
@@ -300,7 +299,7 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
  * @returns {string} Job description
  */
 async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
-  let retries = 2;
+  let retries = 1;
   
   while (retries > 0) {
     try {
