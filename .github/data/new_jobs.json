@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "SMTS C++ Software Engineer, AI Open-Source Software",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Experience with open-source software development, engaging with upstream reviewers, and reviewing PRs.\n• Highly proficient in C/C++, object-oriented programming, and tools such as debuggers and profilers AMD Partner Hub Authorized Distributors AMD University Program Demonstrated ability to write high-quality code with strong attention to detail Experience with software development processes such as Agile, Scrum, or Sprint Experience with GPU kernel and parallel programming: ROCm, HIP, or CUDA Experience with both training and inferencing machine learning models Experience with Linux and containerized environments (e.\n• , Docker) Experience with source code control systems such as GitHub Experience in performance analysis and optimization.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72464/login",
+    "id": "amd-smts-c-software-engineer-ai-open-source-software-us"
+  }
+]
