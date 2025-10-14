@@ -409,7 +409,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     amazon: {
       name: "Amazon",
-      baseUrl: "https://amazon.jobs/en-gb/search",
+      baseUrl: "https://amazon.jobs/",
       url: `https://www.amazon.jobs/en-gb/search?offset=${(pageNum - 1) * 10
         }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
           searchQuery
@@ -440,6 +440,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.microsoft,
       // filter applied
       //done
+      //https://jobs.careers.microsoft.com/global/en/job/1892746/Services-Account-Executive---Strategic-Account-IC4
     },
   };
 }

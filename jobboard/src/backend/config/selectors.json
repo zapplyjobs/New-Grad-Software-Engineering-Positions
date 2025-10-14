@@ -614,8 +614,6 @@
     "titleSelector": "h2.MZGzlrn8gfgSs8TZHhv2",
     "locationSelector": "i[data-icon-name='POI'] + span",
     "postedSelector": "span:nth-of-type(1)",
-    "linkSelector": "",
-    "linkAttribute": "",
     "pagination": {
       "type": "url-page"
     }

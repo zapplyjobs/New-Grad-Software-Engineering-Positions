@@ -256,7 +256,7 @@ async function generateReadme(
 
   return `# 💻 Software Engineering Jobs & Internships 2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${
+**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with ${
     currentJobs.length
   }+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
@@ -265,14 +265,14 @@ async function generateReadme(
 **🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
-## **Join Community**
+## **Join Our Community**
 
 Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="300" alt="Join Discord - Job Finder & Career Hub by Zapply">
+    <img src="./discord-button.png" width="400"   alt="Join Discord - Job Finder & Career Hub by Zapply">
   </a>
 </div>
 
@@ -386,7 +386,7 @@ ${
     currentJobs.length
   }+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
 
-✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
 ✅ **Entry-Level Focused:** Smart filtering for CS majors, new grads, and early-career engineers.
 
