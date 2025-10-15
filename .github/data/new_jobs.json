@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "SoC Verification Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/soc-verification-engineer/33099/87272627520",
-    "id": "arm-soc-verification-engineer-austin"
+    "employer_name": "Micron Technology",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "19h",
+    "job_description": "• Impact: We are continuously challenged to develop innovative production test solutions that are customized to Micron's needs.\n• We must be more agile, robust, efficient, and capable than our competitors.\n• Bachelor of Science degree in Electrical, Electronics Engineering, Computer Engineering, or equivalent Impact: Our work directly impacts Micron’s ability to ship its products on time and on budget.\n• In-depth knowledge of lab equipment (oscilloscopes, DMMs, SMUs) Experience building physical systems (software + hardware) Dev Tool Experience (Jira, Git, Jenkins, Artifactory) 3+ years of experience in industry embedded work Lab equipment knowledge (oscilloscopes, DMMs) Experience in Linux and the GNU toolchain Experience with embedded software tools.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38527295",
+    "id": "micron-technology-embedded-software-engineer-boise"
   },
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer III - Cloud Data Platform",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "employer_name": "Guidehouse",
+    "job_title": "Border Security Technical Analyst",
+    "job_city": "US DC",
+    "job_state": "Washington",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Seeking Lead Python Engineer to design, develop, and deploy AI/ML solutions for the One Chase Experience Platform in Consumer Banking.\n• Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Manager of Software Engineering- Python / AWS Boston, MA, United States TechnologySoftware Engineering Seeking a Software Engineering Manager who has knowledge of Python and AWS Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Software Engineer III -ETL Bengaluru, Karnataka, India TechnologySoftware Engineering This AWS ETL Analyst role focuses on building and maintaining ETL jobs for incentive compensation using AWS services, translating requirements into solutions and resolving issues.\n• Strong analytical skills and adherence to Agile practices are essential.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672757/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-iii-cloud-data-platform-plano"
+    "job_description": "• Associate Director, AI & Data, Federal Civilian Agencieslocations2 Locationsposted onPosted 5 Days Ago30806Data ScientistlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30703Data ScientistlocationsUS - VA, Springfieldposted onPosted 15 Days Ago32224Appian Solution ArchitectlocationsUS - VA, McLeanposted onPosted 20 Days Ago31943Project SchedulerlocationsUS - AL, Huntsvilleposted onPosted 15 Days Ago32450Quality Assurance SpecialistlocationsUS - MO, St.\n• Louisposted onPosted 5 Days Ago31423ServiceNow Business Analystlocations2 Locationsposted onPosted 12 Days Ago32654Cyber Security ArchitectlocationsUS - Remote (Any location)posted onPosted 20 Days Ago32178Salesforce Business AnalystlocationsUS - Remote (Any location)posted onPosted 5 Days Ago31525Senior Air Force Cost EstimatorlocationsUS - OH, Beavercreekposted onPosted 20 Days Ago31363Senior Appian Developer UI/UXlocations2 Locationsposted onPosted 15 Days Ago32457Associate Scientist, Formulation DevelopmentlocationsUS - MD, Gaithersburgposted onPosted 8 Days Ago31188Border Security Technical AnalystlocationsUS - DC, Washingtonposted onPosted Today33195Scientific Program ManagerlocationsUS - MD, Frederickposted onPosted 30+ Days Ago31740ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 5 Days Ago31622ServiceNow DeveloperlocationsUS - VA, McLeanposted onPosted 8 Days Ago32663Senior ServiceNow Business AnalystlocationsUS - VA, McLeanposted onPosted 8 Days Ago32655Technology Account Lead, TransportationlocationsUS - VA, McLeanposted onPosted 16 Days Ago32479Journeyman Appian Developerlocations2 Locationsposted onPosted 15 Days Ago32455Technology Account Lead, USDAlocations2 Locationsposted onPosted 5 Days Ago32481.",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Border-Security-Technical-Analyst_33195?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guidehouse-border-security-technical-analyst-us-dc"
   }
 ]
