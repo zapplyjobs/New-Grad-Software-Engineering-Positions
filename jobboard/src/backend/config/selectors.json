@@ -608,12 +608,13 @@
       "type": "url-page"
     }
   },
-  "microsoft": {
+    "microsoft": {
     "name": "Microsoft",
     "jobSelector": "div.ms-List-cell",
     "titleSelector": "h2.MZGzlrn8gfgSs8TZHhv2",
     "locationSelector": "i[data-icon-name='POI'] + span",
     "postedSelector": "span:nth-of-type(1)",
+    "extractUrlAfterClick": true,
     "pagination": {
       "type": "url-page"
     }
