@@ -14,6 +14,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.ibm
       //"job_city": "Entry LevelNew York",
       //done
+      //no posted date available even after clicking the job 
       
     },
     salesforce: {
@@ -21,6 +22,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://careers.salesforce.com",
       url: `https://careers.salesforce.com/en/jobs?page=${pageNum}&search=${encodeURIComponent(searchQuery)}&country=United%20States%20of%20America&jobtype=Apprentice+%28Fixed+Term%29&jobtype=Intern&jobtype=New+Grads&jobtype=Regular&pagesize=20#results`,
       selector: selectors.salesforce
+      //we have to mkae sure to add the logic inside the detail extraction to get the posted data also 
     },
     "dell": {
       name: "Dell",
@@ -31,33 +33,24 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "infineon": {
       name: "Infineon Technologies",
-      baseUrl: "https://jobs.infineon.com/careers",
-      url: `https://jobs.infineon.com/careers?query=${encodeURIComponent(searchQuery)}&location=united%20states&pid=563808956305280&Join%20as=student%2Fintern%2Ftrainee&Join%20as=graduate%20%28incl.%20graduate%20programs%29&Join%20as=apprentice&Join%20as=dual%20student&domain=infineon.com&sort_by=relevance`,
+      baseUrl: "https://jobs.infineon.com",
+      url: `https://jobs.infineon.com/careers?query=${encodeURIComponent(searchQuery)}&start=${(pageNum - 1) * 10}&location=united%20states&pid=563808956305280&Join%20as=student%2Fintern%2Ftrainee&Join%20as=graduate%20%28incl.%20graduate%20programs%29&Join%20as=apprentice&Join%20as=dual%20student&domain=infineon.com&sort_by=timestamp`,
       selector: selectors.infineon,
       //done
-      //no links
+      //no date inside the job card detail
     },
     "micron": {
       key: "micron",
       name: "Micron Technology",
       baseUrl: "https://careers.micron.com",
-      url: `https://careers.micron.com/careers?query=${encodeURIComponent(searchQuery).replace(/%20/g, '+')}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=solr&filter_include_remote=1&filter_seniority=1%2C0%2C2`,
+      url: `https://careers.micron.com/careers?query=${encodeURIComponent(searchQuery).replace(/%20/g, '+')}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=timestamp&filter_include_remote=1&filter_seniority=1%2C0%2C2`,
       selector: selectors.micron
       //click on each job card and use this selector 
       //#job-description-container > div > div > ul:nth-child(8)
       //done
     },
 
-    "siemens": {
-      name: "Siemens",
-      baseUrl: "https://jobs.siemens.com/careers",
-      url: `https://jobs.siemens.com/careers?query=${encodeURIComponent(searchQuery)}&location=USA&pid=563156126459716&level=recent%20college%20graduate&level=student%20%28not%20yet%20graduated%29&level=mid-level%20professional&level=early%20professional&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us`,
-      selector: selectors.siemens,
-      //no links 
-      //already applied filters
-      //done
-
-    },
+  
 
     analogdevices: {
       name: "Analog Devices",
@@ -91,6 +84,15 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //same as analog 
       //DONE
     },
+
+
+
+
+
+
+
+
+
 
     "broadcom": {
       name: "Broadcom",
@@ -239,8 +241,9 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     },
     // done
 
-    //      "job_apply_link": "https://careers-amd.icims.com/jobs/67948/login"
+        //  "job_apply_link": "https://careers-amd.icims.com/jobs/67948/login"
     // https://careers.amd.com/careers-home/jobs/68449?lang=en-us
+    // amd no posted date inside the job card detail
 
 
     "abb": {
@@ -257,25 +260,12 @@ function getCompanies(searchQuery = "", pageNum = 1) {
         }
       }
     },
-    //       "job_apply_link": "https://careers.abb/global/en/job/JR00002120/Sales-Specialist"
+          // "job_apply_link": "https://careers.abb/global/en/job/JR00002120/Sales-Specialist"
     // https://careers.abb/global/en/job/JR00002120/Sales-Specialist
     // use this selctor #acc-skip-content > div.ph-page > div > div > div.job-page-external > div > div > div.col-lg-8.col-md-8.col-sm-12 > section:nth-child(1) > div > div > div.job-description.au-target.phw-widget-ctr-nd > div.jd-info.au-target > ul:nth-child(22)
     // problem
-    // // done
-
-
-    // "aijobs": {
-    //   name: "AI Jobs",
-    //   baseUrl: "https://www.aijobs.com",
-    //   url: `https://www.aijobs.com/jobs?q=${encodeURIComponent(searchQuery)}&posted_at=last-7-days&location=United%20States&location_id=168681&order=relevance&page=${pageNum}`,
-    //   selector: selectors.aijobs
-    //   //"job_apply_link": "https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer"
-    //   //https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer
-    //   // use this selctor #quill-container-with-job-details > div > ul:nth-child(7)
-    //   // done
-    // },
-
-
+    // done
+    // no posted date inside the job card detail
 
     "synopsys": {
       name: "Synopsys",
@@ -303,6 +293,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     // https://careers.rivian.com/careers-home/jobs/22482?lang=en-us&previousLocale=en-US
     // https://careers.rivian.com/careers-home/jobs/20528?lang=en-us&previousLocale=en-US
     // selector li  for description
+    // no posted date inside the job card detail
     // --------------------------------------------------------------------------------------having same structure
 
     apple: {
@@ -331,7 +322,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //https://careers.arm.com/job/austin/distinguished-engineer-and-architect-data science-verification/33099/82681565104
       // selctor:#anchor-responsibilities > div.ats-description > ul:nth-child(10)>li
     },
-
+   //we have to mkae sure to add the logic inside the detail extraction to get the posted data also 
+     //same in posted date to salesforce
 
 
     //diff
@@ -362,6 +354,8 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210656130/?keyword=data science+engineering&location=United+States&locationId=300000000289738&locationLevel=country&mode=location
       //use this selector #ui-id-15 > div.oj-dialog-container > div.oj-dialog-content.oj-dialog-default-content > div > div.app-dialog__wrapper.app-dialog__wrapper--active.app-dialog__wrapper--align-center.oj-dialog-body > div > job-details-checker > job-details-loader > job-details-page > div > article > job-details-content > div > div.cc-page.cc-page--job-details-modal > div > div > div > div:nth-child(2) > div > div > div > div > div > div > ul:nth-child(8)
       //done
+   //we have to mkae sure to add the logic inside the detail extraction to get the posted data also 
+     //same in posted date to salesforce    
     },
     ti: {
       name: "Texas Instruments",
@@ -390,9 +384,12 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.waymo
       //done
 
+
       //      "job_apply_link": "https://careers.withwaymo.com/jobs/electrical-engineer-compute-data science-mountain-view-california-united-states"
       //https://careers.withwaymo.com/jobs/electrical-engineer-compute-data science-mountain-view-california-united-states
       // and use the selector #job_description_1_2 > ul:nth-child(9)
+// no posted date inside the job card detail
+
     },
 
     google: {
@@ -405,6 +402,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.google,
       //filters applied
       //done
+    //no posted date inside the job card detail
     },
 
     amazon: {
@@ -429,6 +427,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       selector: selectors.meta,
       //filter applied
       //done
+    //no posted date inside the job card detail
     },
     microsoft: {
       name: "Microsoft",

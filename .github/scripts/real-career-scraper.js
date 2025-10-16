@@ -341,6 +341,10 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
       try {
         const transformedJobs = transformJobs(result.jobs, searchQuery);
         console.log(`🔄 Transforming ${result.jobs.length} jobs from ${result.name}`);
+let resultJobs = result.jobs.forEach(job => {
+    return job;
+});
+console.log(resultJobs);
 
         // Filter out already processed jobs
         const newJobs = transformedJobs.filter(job => {

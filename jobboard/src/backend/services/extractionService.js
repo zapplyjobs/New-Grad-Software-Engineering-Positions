@@ -22,7 +22,9 @@ async function extractJobData(page, selector, company, pageNum) {
     if (selector.name === 'Applied Materials') {
       jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
     }
-
+    else if (selector.name === 'Infineon Technologies') {
+      jobElements = jobElements.slice(0, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+    }
     console.log(`Found ${jobElements.length} job elements for ${company.name} on page ${pageNum}`);
 
     if (jobElements.length === 0) {
@@ -65,9 +67,13 @@ async function extractJobData(page, selector, company, pageNum) {
       
       for (let i = 0; i < jobCount; i++) {
         // Re-select job elements fresh each time to avoid detached nodes
-        const currentJobElements = await page.$$(selector.jobSelector);
+        let currentJobElements = await page.$$(selector.jobSelector);
+
         if (selector.name === 'Applied Materials') {
           currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        else if (selector.name === 'Infineon Technologies') { 
+          currentJobElements = currentJobElements.slice(0, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
         }
         
         if (i >= currentJobElements.length) {

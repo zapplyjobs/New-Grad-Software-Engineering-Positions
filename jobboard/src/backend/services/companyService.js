@@ -36,6 +36,11 @@ function getNextPageCompany(company, searchQuery, currentPageNum) {
   const nextPageCompanies = getCompanies(searchQuery, currentPageNum + 1);
   const companyKey = company.key || company.name.toLowerCase().replace(/\s+/g, '');
   
+  // For Infineon, use the exact key from companies.js
+  if (company.name === 'Infineon Technologies') {
+    return nextPageCompanies['infineon'] || null;
+  }
+  
   return nextPageCompanies[companyKey] || null;
 }
 
