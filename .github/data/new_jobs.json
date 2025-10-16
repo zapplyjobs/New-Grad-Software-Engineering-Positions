@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsBachelor's degree or foreign equivalent in Computer Engineering, Computer Science and Technology, or a related field and 6 months of experience in the job offered or related occupation.\n• Experience and/or education must include:Modern web technologies including HTML5, CSS, and TypeScript to design, debug, and implement featuresSingle Page Web Application Development in Typescript/ES6 using frameworks such as including React.\n• Integrating with web services using JSON, XML and AJAX.\n• Developing secure web applications and knowledge of application vulnerabilities including Cross Site Scripting (XSS) or Cross Site Request Forgery (CSRF)Writing robust and comprehensive unit tests, ensuring the quality and reliability of the applicationsUtilize logging and statistics tooling to provide insightful performance dashboards and create queries to identify and resolve site reliability issues.\n• Maintaining legacy codebases, and provide relevant updates for performance upgradesUsing Swift to work on integrating iCloud features to native applicationsMaintaining legacy code and integrate with new features that are developed on modern frameworksContribute and maintain code repositories through efficient version control practices including branching and merging, repository management, conflict resolution, collaborating and provide code review to peers.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625623-3543/software-development-engineer?team=SFTWR",
+    "id": "apple-software-development-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Fitness+",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsExperience building software featuresCoding experience in Swift or Objective-CYou have a deep commitment to product quality and interest in building consumer applicationsYou collaborate effectively with cross-functional partners.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624209-3543/software-engineer-fitness?team=SFTWR",
+    "id": "apple-software-engineer-fitness-san-diego"
+  }
+]
