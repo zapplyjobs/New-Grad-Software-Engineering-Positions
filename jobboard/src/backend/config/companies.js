@@ -107,7 +107,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "cisco": {
       name: "Cisco",
-      baseUrl: `https://jobs.cisco.com/jobs/SearchJobs`,
+      baseUrl: `https://jobs.cisco.com`,
       url: `https://jobs.cisco.com/jobs/SearchJobs/${searchQuery}?21178=%5B169482%5D&21178_format=6020&21180=%5B166%2C164%2C165%5D&21180_format=6022&listFilterMode=1&projectOffset=${(pageNum - 1) * 10}`,
       selector: selectors.cisco
       // filtered by url for apprentice ,early in career ,intern
@@ -248,7 +248,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "abb": {
       name: "ABB",
-      baseUrl: "https://careers.abb/global/en/search-results",
+      baseUrl: "https://careers.abb",
       url: `https://careers.abb/global/en/search-results?keywords=${encodeURIComponent(searchQuery)}&from=${(pageNum - 1) * 10}&s=1`,
       selector: selectors.abb,
       filters: {
@@ -282,7 +282,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "rivian": {
       name: "RIVIAN",
-      baseUrl: "https://careers.rivian.com/careers-home/jobs",
+      baseUrl: "https://careers.rivian.com",
       url: `https://careers.rivian.com/careers-home/jobs?keywords=${encodeURIComponent(searchQuery)}&location=united%20states&stretch=10&stretchUnit=MILES&sortBy=relevance&page=${pageNum}`,
       selector: selectors.rivian
     },
@@ -311,7 +311,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     // https://jobs.apple.com/en-us/details/200607287-0157/data science-development-engineer-data-center-data science?team=HRDWR
     // selector #jobdetails-minimumqualifications
 
-    //dif
+    // dif
     "arm": {
       name: "Arm",
       baseUrl: `https://careers.arm.com`,
@@ -322,11 +322,11 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //https://careers.arm.com/job/austin/distinguished-engineer-and-architect-data science-verification/33099/82681565104
       // selctor:#anchor-responsibilities > div.ats-description > ul:nth-child(10)>li
     },
-   //we have to mkae sure to add the logic inside the detail extraction to get the posted data also 
-     //same in posted date to salesforce
+  //  we have to mkae sure to add the logic inside the detail extraction to get the posted data also 
+  //    same in posted date to salesforce
 
 
-    //diff
+  //   diff
     honeywell: {
       name: "Honeywell",
       baseUrl: "https://careers.honeywell.com",
@@ -341,7 +341,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //done
     },
 
-    //diff same as honey well
+//     //diff same as honey well
     jpmc: {
       name: "JPMorgan Chase",
       baseUrl: "https://jpmc.fa.oraclecloud.com",
@@ -379,7 +379,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "waymo": {
       name: "Waymo",
-      baseUrl: "https://careers.withwaymo.com/jobs/search",
+      baseUrl: "https://careers.withwaymo.com",
       url: `https://careers.withwaymo.com/jobs/search?page=${pageNum}&country_codes%5B%5D=US&dropdown_field_1_uids%5B%5D=032bf1b3c966086ebe1d0cd037cd2eef&dropdown_field_1_uids%5B%5D=5c171b4c656ebf8d39faf490d07d69d1&dropdown_field_1_uids%5B%5D=c08225843430b8d611354d3bffcc2bea&query=${encodeURIComponent(searchQuery)}`,
       selector: selectors.waymo
       //done
@@ -395,7 +395,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     google: {
       name: "Google",
       baseUrl:
-        "https://www.google.com/about/careers/applications",
+        "https://www.google.com",
       url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`,
