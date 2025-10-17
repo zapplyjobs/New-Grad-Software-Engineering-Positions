@@ -269,7 +269,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
 
     "synopsys": {
       name: "Synopsys",
-      baseUrl: "https://careers.synopsys.com/search-jobs",
+      baseUrl: "https://careers.synopsys.com",
       url: `https://careers.synopsys.com/search-jobs/${encodeURIComponent(searchQuery)}/United%20States/44408/1/2/6252001/39x76/-98x5/50/2`,
       selector: selectors.synopsys
 
@@ -395,7 +395,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     google: {
       name: "Google",
       baseUrl:
-        "https://www.google.com/about/careers/applications/jobs/results/",
+        "https://www.google.com/about/careers/applications",
       url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`,
