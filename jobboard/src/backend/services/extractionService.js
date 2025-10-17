@@ -3,6 +3,29 @@ const { buildApplyLink, convertToDescriptionLink } = require('../utils/urlBuilde
 const { EXTRACTION_CONSTANTS } = require('../utils/constants.js');
 
 /**
+ * Apply company-specific slicing to job elements
+ * @param {Array} jobElements - Array of job elements
+ * @param {string} companyName - Name of the company
+ * @returns {Array} Sliced job elements array
+ */
+function applyCompanySlicing(jobElements, companyName) {
+  const originalCount = jobElements.length;
+  let slicedElements = jobElements;
+  
+  if (companyName === 'Applied Materials') {
+    // Keep LAST 15 jobs
+    slicedElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+    console.log(`[${companyName}] Keeping last ${EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT} jobs (${originalCount} -> ${slicedElements.length})`);
+  } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
+    // Keep FIRST 15 jobs
+    slicedElements = jobElements.slice(0, 15);
+    console.log(`[${companyName}] Keeping first 15 jobs (${originalCount} -> ${slicedElements.length})`);
+  }
+  
+  return slicedElements;
+}
+
+/**
  * Extract job data for a single page with integrated description extraction
  * @param {Object} page - Puppeteer page instance
  * @param {Object} selector - Selector configuration
@@ -19,12 +42,9 @@ async function extractJobData(page, selector, company, pageNum) {
 
     let jobElements = await page.$$(selector.jobSelector);
 
-    if (selector.name === 'Applied Materials') {
-      jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-    }
-    else if (selector.name === 'Infineon Technologies') {
-      jobElements = jobElements.slice(0, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-    }
+    // Apply company-specific slicing
+    jobElements = applyCompanySlicing(jobElements, selector.name);
+    
     console.log(`Found ${jobElements.length} job elements for ${company.name} on page ${pageNum}`);
 
     if (jobElements.length === 0) {
@@ -34,47 +54,71 @@ async function extractJobData(page, selector, company, pageNum) {
 
     // Check description type and extract accordingly
     const descriptionType = selector.descriptionType || 'same-page';
+    // 💡 FIX: This new variable checks if EITHER description OR posted date requires next-page
+    const needsNextPageExtraction = descriptionType === 'next-page' || selector.postedType === 'next-page';
     const currentUrl = page.url();
 
-    if (descriptionType === 'next-page') {
-      // Extract basic data first, then navigate to each job page
+    // 💡 Use the new inclusive condition
+    if (needsNextPageExtraction) { 
+      // Extract ALL job data upfront before any navigation to avoid stale element references
+      const allJobData = [];
+      
       for (let i = 0; i < jobElements.length; i++) {
-        // Re-fetch job elements to avoid stale references after navigation
-        jobElements = await page.$$(selector.jobSelector);
-        if (selector.name === 'Applied Materials') {
-          jobElements = jobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-        }
-        
-        if (i >= jobElements.length) {
-          console.warn(`Job element ${i} no longer exists, skipping...`);
-          continue;
-        }
-
         const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
-        
         if (jobData.title || jobData.applyLink) {
-          // Extract description by navigating to job page
-          if (selector.descriptionSelector && jobData.applyLink) {
-            jobData.description = await extractDescriptionNextPage(page, jobData.applyLink, selector, currentUrl, i + 1);
-          }
-          jobs.push(jobData);
+          allJobData.push(jobData);
         }
+      }
+      
+      console.log(`Extracted ${allJobData.length} jobs upfront, now navigating for details...`);
+      
+      // Now navigate to each job page to get description and/or posted date
+      for (let i = 0; i < allJobData.length; i++) {
+        const jobData = allJobData[i];
+        
+        // Navigate to job page for description and/or posted date
+        if (jobData.applyLink && (selector.descriptionSelector || selector.postedType === 'next-page')) {
+          const { description, posted } = await extractFromNextPage(
+            page, 
+            jobData.applyLink, 
+            selector, 
+            currentUrl, 
+            i + 1,
+            jobData.posted // Pass current posted date as fallback
+          );
+          
+          if (selector.descriptionSelector) {
+            jobData.description = description;
+          }
+          
+          if (selector.postedType === 'next-page') {
+            jobData.posted = posted;
+          }
+        }
+        
+        jobs.push(jobData);
       }
       
     } else {
       // Same-page extraction - FIXED VERSION
-      const jobCount = await page.$$eval(selector.jobSelector, els => els.length);
+      const totalElements = await page.$$eval(selector.jobSelector, els => els.length);
+      
+      // Calculate how many jobs to process based on slicing
+      let jobCount = totalElements;
+      if (selector.name === 'Applied Materials') {
+        jobCount = Math.min(totalElements, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+      } else if (selector.name === 'Infineon Technologies' || selector.name === 'Arm') {
+        jobCount = Math.min(totalElements, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+      }
+      
+      console.log(`Processing ${jobCount} jobs for same-page extraction...`);
       
       for (let i = 0; i < jobCount; i++) {
         // Re-select job elements fresh each time to avoid detached nodes
         let currentJobElements = await page.$$(selector.jobSelector);
 
-        if (selector.name === 'Applied Materials') {
-          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-        }
-        else if (selector.name === 'Infineon Technologies') { 
-          currentJobElements = currentJobElements.slice(0, EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
-        }
+        // Re-apply slicing for specific companies
+        currentJobElements = applyCompanySlicing(currentJobElements, selector.name);
         
         if (i >= currentJobElements.length) {
           console.warn(`Job element ${i} no longer exists, skipping...`);
@@ -163,24 +207,27 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         location = getText(sel.locationSelector);
       }
 
-      // Extract posted date
-      let posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
+      // Extract posted date (only if NOT next-page type)
+      let posted = 'Recently';
+      if (sel.postedType !== 'next-page') {
+        posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
 
-      // Special handling for 10x Genomics
-      if (sel.name === '10x Genomics' && sel.postedSelector) {
-        const dateElements = el.querySelectorAll(sel.postedSelector);
-        posted = 'Recently';
-        for (const div of dateElements) {
-          const text = div.textContent.trim();
-          if (
-            text.toLowerCase().includes('posted') ||
-            text.includes('ago') ||
-            text.includes('month') ||
-            text.includes('day') ||
-            text.includes('week')
-          ) {
-            posted = text;
-            break;
+        // Special handling for 10x Genomics
+        if (sel.name === '10x Genomics' && sel.postedSelector) {
+          const dateElements = el.querySelectorAll(sel.postedSelector);
+          posted = 'Recently';
+          for (const div of dateElements) {
+            const text = div.textContent.trim();
+            if (
+              text.toLowerCase().includes('posted') ||
+              text.includes('ago') ||
+              text.includes('month') ||
+              text.includes('day') ||
+              text.includes('week')
+            ) {
+              posted = text;
+              break;
+            }
           }
         }
       }
@@ -266,8 +313,18 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
       await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
       
       // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
-      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
-        const jobElements = document.querySelectorAll(jobSelector);
+      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx, companyName) => {
+        let jobElements = document.querySelectorAll(jobSelector);
+        
+        // Apply same slicing logic as in extraction
+        const LIMIT = 15;
+        if (companyName === 'Applied Materials') {
+          const allElements = Array.from(jobElements);
+          jobElements = allElements.slice(-LIMIT);
+        } else if (companyName === 'Infineon Technologies' || companyName === 'Arm') {
+          const allElements = Array.from(jobElements);
+          jobElements = allElements.slice(0, LIMIT);
+        }
         
         if (!jobElements[jobIdx]) {
           return { success: false, error: 'Job element not found' };
@@ -280,7 +337,7 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
         
         titleElement.click();
         return { success: true };
-      }, selector.jobSelector, selector.titleSelector, jobIndex);
+      }, selector.jobSelector, selector.titleSelector, jobIndex, selector.name);
       
       if (!clickResult.success) {
         throw new Error(clickResult.error);
@@ -317,15 +374,16 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
 }
 
 /**
- * Extract description by navigating to job details page
+ * Extract description and/or posted date by navigating to job details page
  * @param {Object} page - Puppeteer page instance
  * @param {string} applyLink - URL to job details page
  * @param {Object} selector - Selector configuration
  * @param {string} originalUrl - Original listing page URL to return to
  * @param {number} jobNumber - Job number for logging
- * @returns {string} Job description
+ * @param {string} fallbackPosted - Fallback posted date if extraction fails
+ * @returns {Object} Object with description and posted date
  */
-async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
+async function extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber, fallbackPosted = 'Recently') {
   let retries = 2;
   
   while (retries > 0) {
@@ -334,18 +392,38 @@ async function extractDescriptionNextPage(page, applyLink, selector, originalUrl
       
       // Convert apply link to description link and navigate
       const descriptionLink = convertToDescriptionLink(applyLink, selector.name);
-      console.log(`[${jobNumber}] Converting ${applyLink} to ${descriptionLink}`);
+      console.log(`[${jobNumber}] Navigating to ${descriptionLink}`);
       
       await page.goto(descriptionLink, { 
         waitUntil: 'domcontentloaded', 
         timeout: 20000 
       });
-      
-      // Extract description
-      await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
-      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-      
-      console.log(`[${jobNumber}] Next-page description extracted (${description.length} chars)`);
+
+      let description = 'Description not available';
+      let posted = fallbackPosted;
+
+      // Extract description if selector exists
+      if (selector.descriptionSelector) {
+        try {
+          await page.waitForSelector(selector.descriptionSelector, { timeout: 10000 });
+          description = await extractAndFormatDescription(page, selector.descriptionSelector);
+          console.log(`[${jobNumber}] Description extracted (${description.length} chars)`);
+        } catch (descError) {
+          console.warn(`[${jobNumber}] Description extraction failed: ${descError.message}`);
+        }
+      }
+
+      // Extract posted date if postedType is 'next-page'
+      if (selector.postedType === 'next-page' && selector.postedSelector) {
+        try {
+          await page.waitForSelector(selector.postedSelector, { timeout: 5000 });
+          posted = await page.$eval(selector.postedSelector, el => el.textContent.trim());
+          console.log(`[${jobNumber}] Posted date extracted: ${posted}`);
+        } catch (postedError) {
+          console.warn(`[${jobNumber}] Posted date extraction failed: ${postedError.message}`);
+          posted = fallbackPosted;
+        }
+      }
       
       // Navigate back to the original listing page
       try {
@@ -358,10 +436,9 @@ async function extractDescriptionNextPage(page, applyLink, selector, originalUrl
         console.log(`[${jobNumber}] Successfully returned to listing page`);
       } catch (backNavError) {
         console.error(`[${jobNumber}] Failed to navigate back to listing: ${backNavError.message}`);
-        // Still return the description even if navigation back fails
       }
       
-      return description;
+      return { description, posted };
       
     } catch (error) {
       retries--;
@@ -388,7 +465,19 @@ async function extractDescriptionNextPage(page, applyLink, selector, originalUrl
     console.error(`[${jobNumber}] Failed final navigation back to listing: ${finalNavError.message}`);
   }
   
-  return 'Next-page description extraction failed after retries';
+  return { 
+    description: 'Next-page extraction failed after retries',
+    posted: fallbackPosted
+  };
+}
+
+/**
+ * DEPRECATED: Use extractFromNextPage instead
+ * Extract description by navigating to job details page
+ */
+async function extractDescriptionNextPage(page, applyLink, selector, originalUrl, jobNumber) {
+  const { description } = await extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber);
+  return description;
 }
 
 /**
