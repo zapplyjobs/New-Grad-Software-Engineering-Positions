@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 26+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 minutes with 191+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 25+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 minutes with 170+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -23,12 +23,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 191 hot software engineering jobs  
-🏢 **Top Companies:** 26 elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** 42 premium opportunities  
+🔥 **Current Positions:** 170 hot software engineering jobs  
+🏢 **Top Companies:** 25 elite tech including Tesla, NVIDIA, Raytheon  
+⭐ **FAANG+ Jobs & Internships:** 43 premium opportunities  
 📅 **Last Updated:** October 17, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** 101 (older than 1 week)
+📁 **Archived Developer Jobs:** 93 (older than 1 week)
 
 
 ---
@@ -68,7 +68,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (42 positions)
+### ⭐ **FAANG+** (43 positions)
 
 #### 🟦 **Microsoft** (2 positions)
 
@@ -123,12 +123,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Development Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625564-0157/software-development-engineer?team=HRDWR) | 1d |
 | Software Development Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625623-3543/software-development-engineer?team=SFTWR) | 1d |
+| Software Engineer, Fitness+ | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624209-3543/software-engineer-fitness?team=SFTWR) | 1d |
 
 ### 🏢 **Top Tech** (42 positions)
 
@@ -175,10 +176,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Software Engineering SMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
 | Summer 2026 Intern - Software Engineer | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1d |
-| Software Engineering MTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304550/software-engineering-mts/) | 1d |
-| Software Engineer | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr311739/software-engineer-ii/) | 1d |
-| Software Engineering LMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304562/software-engineering-lmts/) | 1d |
 | LMTS Backend Software Engineer | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | 1d |
+| Software Engineering LMTS | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr303736/software-engineering-lmts/) | 1d |
+| Software Engineering LMTS | Washington Bellevue | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
+| Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312311/software-engineering-lmtssmts-entsectech-autonomous-iam/) | 1d |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | 1d |
 | PMTS Software Engineer, Service Mesh - Slack | California San Francisco | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr297544/pmts-software-engineer-service-mesh-slack/) | 1d |
 | Software Engineering, Frontend (Slack - Multiple levels) | Georgia Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/) | 1d |
@@ -273,10 +274,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Security Firmware Engineer | Palo Alto, California | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26527/login) | 1d |
 | Vehicle Operator II, Autonomy Systems Validation | Wittmann, Arizona | [<img src="./image.png" width="100" alt="Apply">](https://us-careers-rivian.icims.com/jobs/26917/login) | 1d |
 
-### 💰 **Financial & Fintech** (20 positions)
+### 💰 **Financial & Fintech** (17 positions)
 
 <details>
-<summary><h4>🏦 <strong>JPMorgan Chase</strong> (20 positions)</h4></summary>
+<summary><h4>🏦 <strong>JPMorgan Chase</strong> (17 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -297,9 +298,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer III - Backend Java | Ciudad Autónoma de Buenos Aires, Argentina | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661935/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Mobile Automation Software Engineer | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654219/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Python Test Automation Engineer - Software Engineer | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672843/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Data Platform Software Engineer | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664894/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Software Engineer | BOURNEMOUTH, DORSET | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210673506/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Software Engineer [Multiple Positions Available] | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670738/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
 </details>
 
@@ -319,15 +317,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, Onboard Evaluation | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-onboard-evaluation-mountain-view-california-united-states) | 1d |
 | Research Scientist, Prediction & Planning | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/research-scientist-prediction-planning-mountain-view-california-united-states-new-york-city-new-york-san-francisco) | 1d |
 | Systems Engineer, Behavioral Requirements | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/systems-engineer-behavioral-requirements-mountain-view-california-united-states-san-francisco) | 1d |
-| Software Engineer, C++ Edge Computers | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) | 1d |
 | Software Engineer, Planner Vehicle Dynamics | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-planner-vehicle-dynamics-mountain-view-california-united-states-san-francisco-pittsburgh-pennsylvania) | 1d |
+| Software Engineer, C++ Edge Computers | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) | 1d |
 | Machine Learning Engineer, Prediction & Planning | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/machine-learning-engineer-prediction-planning-san-francisco-california-united-states-mountain-view-new-york-city-new-york) | 1d |
 | 2026 Summer Intern, BS/MS, Test Engineering, Motion Control | San Francisco, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-test-engineering-motion-control-san-francisco-california-united-states) | 1d |
 | Machine Learning Engineer, Perception and Sensor Simulation | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/machine-learning-engineer-perception-and-sensor-simulation-mountain-view-california-united-states) | 1d |
 | Data Scientist | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 1d |
 | Android Engineer | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/android-engineer-mountain-view-california-united-states-san-francisco) | 1d |
-| 2026 Summer Intern, PhD, Perception | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-perception-mountain-view-california-united-states) | 1d |
 | Machine Learning Engineer, Mapping | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/machine-learning-engineer-mapping-mountain-view-california-united-states-82ab0ba5-bd68-49bf-8ea3-a8028a6a03c8) | 1d |
+| 2026 Summer Intern, PhD, Perception | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-perception-mountain-view-california-united-states) | 1d |
 
 </details>
 
@@ -339,7 +337,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Scientist 1, Assay Productization (P-4386) | Pleasanton, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171837195797) | 3d |
 
-### 🏭 **Manufacturing & Industrial** (45 positions)
+### 🏭 **Manufacturing & Industrial** (26 positions)
 
 #### ⚗️ **Applied Materials** (4 positions)
 
@@ -383,33 +381,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Engineer, Semi Packaging Engineering | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Engineer--Semi-Packaging-Engineering_R252697?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Technician 2, Equipment Engineering | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Technician-2--Equipment-Engineering_R257210-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
-<details>
-<summary><h4>🏗️ <strong>Honeywell</strong> (19 positions)</h4></summary>
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Mobile Application developer II - iOS, Azure | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/118690/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
-| Software Engineer | Salem, OR | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123126/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| PLC Controls Engineer | son, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116978/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
-| Systems Engineer | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123859/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Test Engineer | Rocky Mount, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123347/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| Machine Learning Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/117190/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Field Service Engr II- Electrical | son, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123280/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| Quality Engineer | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122968/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| Machinist - Level 2 2nd Shift | Urbana, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/117558/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| Reliability Engineer | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123004/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| Electrical Engineer | Torrance, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122557/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
-| Assembler - Level 2 - 2nd shift - Mon-Fri- (2pm- 10:30pm) | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121175/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| Assembler - Level 2 - C shift Fri- Sun (6am- 6:30pm) | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122039/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| Hybrids Engineering Technician | Minneapolis, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123385/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| Field Service Engineer II - White Glove (Remote - TX Residents Only) | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121386/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
-| FAA Machinist - Level | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123036/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| FAA Assembly Mechanic - Level 2, Swing Shift | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/123419/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
-| Quality Control Analyst | Palmetto, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122996/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
-
-</details>
-
 #### 🚗 **Magna International** (4 positions)
 
 | Role | Location | Apply Now | Age |
@@ -428,11 +399,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (38 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (38 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (20 positions)
+🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (17 positions)
 
 
 #### ☁️ **Enterprise & Cloud** (10 companies)
@@ -443,17 +414,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 20% | No or minimal experience |
-| 🟡 Beginner & Early Career | 74 | 39% | 1-2 years of experience |
-| 🔴 Manager         | 78 | 41% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 40 | 24% | No or minimal experience |
+| 🟡 Beginner & Early Career | 75 | 44% | 1-2 years of experience |
+| 🔴 Manager         | 55 | 32% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Mountain View, California**: 17 positions
 - **Mountain View, CA**: 15 positions
-- **California San Francisco**: 9 positions
 - **Boise, Idaho**: 9 positions
+- **California San Francisco**: 8 positions
 - **Austin, TX**: 7 positions
 - **Sunnyvale, CA**: 6 positions
 - **Austin, Texas**: 5 positions
@@ -463,7 +434,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 191+ verified CS internships and entry-level software roles from 26 elite tech companies.
+✅ **100% Real Jobs:** 170+ verified CS internships and entry-level software roles from 25 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -515,16 +486,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 101 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 93 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 101 positions
-- **🏢 Companies**: 26 companies  
-- **⭐ FAANG+ Jobs & Internships**: 23 roles
+- **📁 Total Jobs**: 93 positions
+- **🏢 Companies**: 25 companies  
+- **⭐ FAANG+ Jobs & Internships**: 24 roles
 
-### ⭐ **FAANG+** (23 positions)
+### ⭐ **FAANG+** (24 positions)
 
 #### 📦 **Amazon** (11 positions)
 
@@ -536,8 +507,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094973/software-engineer-embedded-flight-software-kuiper-flight-systems-software) | 2w |
 | Software Engineer, Graviton Software, Annapurna Labs | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3097512/software-engineer-graviton-software-annapurna-labs) | 2w |
 | Software Development Engineer, GNC Software, Project Kuiper | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3105445/software-development-engineer-gnc-software-project-kuiper) | 1w |
-| Software Engineer | Irvine, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3104730/software-engineer-ii) | 1w |
 | Software Development Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094858/software-development-engineer) | 3w |
+| Software Engineer | Irvine, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3090680/software-engineer-ii) | 3w |
 | EFA Network Software Engineer, EFA Software Team | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3095834/efa-network-software-engineer-efa-software-team) | 2w |
 | Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3105344/software-engineer-ii) | 1w |
 | Software Development Engineer | San Luis Obispo, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer) | 1w |
@@ -557,12 +528,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View) | 3w |
 | Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1885164/Research-Intern---Reliability-of-Cloud-and-AI-Systems) | 2w |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer, Sensor and Software Prototyping | Sunnyvale | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624421-3956/software-engineer-sensor-and-software-prototyping?team=HRDWR) | 1w |
 | Wireless Software Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621595-3543/wireless-software-engineer?team=SFTWR) | 4w |
+| Wireless/Telephony Software Engineer | San Diego | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622456-3543/wireless-telephony-software-engineer?team=SFTWR) | 3w |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -655,8 +627,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Software Developer, Mid - Active Top Secret required | USA DC Washington | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Software-Developer--Mid_RQ204617-2?q=software+engineering) | 2w |
 | Software Engineer (Tactical Networks - CANES) - Active Secret clearance | USA CA San Diego | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Software-Engineer---Active-Secret-clearance_RQ207970-1?q=software+engineering) | 1w |
-| Web Developer | USA DC Washington | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Web-Developer_RQ205320-1?q=software+engineering) | 2w |
 
 ### 🏥 **Healthcare & Life Sciences** (2 positions)
 
@@ -667,7 +639,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Test Engineer 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Test-Engineer-2_41225-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 | Optical Engineer 🏠 | US California San Diego | [<img src="./image.png" width="100" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Optical-Engineer-II_41361-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (28 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
 #### ⚗️ **Applied Materials** (8 positions)
 
@@ -694,20 +666,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Process Sustaining Engineer, 2nd Shift | US, Chelmsford | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Engineer--Process-Sustaining-Engineering_R242025?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
-#### 🏗️ **Honeywell** (9 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Software Engineer II - DDAS Systems | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| Software Engineer I – Embedded C++/Avionics Systems | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122027/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Software Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/105028/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| Software Engr I - Cloud & SaaS Platforms | Norcross, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121746/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Software Engr | Pittsford, NY | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121811/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Software Engr | son, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121805/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| Field Service Engineer | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122828/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Process Engineer | Spokane Valley, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121945/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Field Service Engr | Valliant, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120796/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-
 #### 🚗 **Magna International** (9 positions)
 
 | Role | Location | Apply Now | Age |
@@ -733,7 +691,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <div align="center">
 
-**🎯 191 current opportunities from 26 elite companies.**
+**🎯 170 current opportunities from 25 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
