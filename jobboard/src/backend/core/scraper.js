@@ -86,101 +86,189 @@ async function scrapeCompanyData(companyKey, searchQuery, maxPages, startPage) {
  * @param {number} maxPages - Maximum scroll iterations
  * @param {Array} jobs - Jobs array to populate
  */
+/**
+ * Scrape company with infinite scroll pagination
+ * @param {Object} page - Puppeteer page instance
+ * @param {Object} company - Company configuration
+ * @param {Object} selector - Selector configuration
+ * @param {number} maxPages - Maximum scroll iterations
+ * @param {Array} jobs - Jobs array to populate
+ */
+/**
+ * Scrape company with infinite scroll pagination
+ * This version handles ALL scrolling HERE, then extracts all jobs at once
+ * @param {Object} page - Puppeteer page instance
+ * @param {Object} company - Company configuration
+ * @param {Object} selector - Selector configuration
+ * @param {number} maxPages - Maximum scroll iterations
+ * @param {Array} jobs - Jobs array to populate
+ */
 async function scrapeWithInfiniteScroll(page, company, selector, maxPages, jobs) {
   await navigateToFirstPage(page, company);
-  await handleInfiniteScrollPagination(page, company.name, maxPages);
-  
-  const jobData = await extractJobData(page, selector, company, 1);
-  const validJobs = processJobData(jobData);
-  jobs.push(...validJobs);
-}
 
-/**
- * Scrape company with show more button pagination
- * @param {Object} page - Puppeteer page instance
- * @param {Object} company - Company configuration
- * @param {Object} selector - Selector configuration
- * @param {number} maxPages - Maximum button clicks
- * @param {Array} jobs - Jobs array to populate
- */
-async function scrapeWithShowMoreButton(page, company, selector, maxPages, jobs) {
-  await navigateToFirstPage(page, company);
-  await handleShowMorePagination(page, company.name, maxPages);
-  
-  const jobData = await extractJobData(page, selector, company, 1);
-  const validJobs = processJobData(jobData);
-  jobs.push(...validJobs);
-  
-  console.log(`Extracted ${validJobs.length} jobs using show more button`);
-}
+  // ============================================
+  // STEP 1: Load seen jobs for duplicate detection
+  // ============================================
+  const seenJobIds = new Set();
+  try {
+    const fs = require('fs');
+    const path = require('path');
+    const seenJobsPath = path.join(process.cwd(), '.github', 'data', 'seen_jobs.json');
+    
+    if (fs.existsSync(seenJobsPath)) {
+      const allSeenJobs = JSON.parse(fs.readFileSync(seenJobsPath, 'utf8'));
+      const companyPrefix = company.name.toLowerCase().replace(/\s+/g, '-');
+      
+      allSeenJobs.forEach(id => {
+        if (id.toLowerCase().startsWith(companyPrefix + '-')) {
+          seenJobIds.add(id);
+        }
+      });
+      
+      console.log(`Loaded ${seenJobIds.size} previously seen jobs for ${company.name} (infinite scroll)`);
+    }
+  } catch (err) {
+    console.log(`Could not load seen jobs for ${company.name}: ${err.message}`);
+  }
 
-/**
- * Scrape company with traditional pagination (chevron-click or url-page)
- * @param {Object} page - Puppeteer page instance
- * @param {Object} company - Company configuration
- * @param {Object} selector - Selector configuration
- * @param {string} searchQuery - Search query parameter
- * @param {number} maxPages - Maximum pages to scrape
- * @param {Array} jobs - Jobs array to populate
- */
-async function scrapeWithTraditionalPagination(page, company, selector, searchQuery, maxPages, jobs) {
-  // Navigate to first page and apply filters ONCE at the beginning
-  await navigateToFirstPage(page, company);
+  // ============================================
+  // STEP 2: SCROLL FIRST - Load all jobs onto the page
+  // ============================================
+  console.log(`\n🔄 [${company.name}] Starting infinite scroll (up to ${maxPages} scrolls)...`);
   
-  if (company.filters && company.filters.applyUSAFilter) {
-    console.log("About to call applyUSAFilter with:", company.filters.applyUSAFilter);
+  let previousJobCount = 0;
+  let currentJobCount = 0;
+  let noChangeCount = 0;
+  const MAX_NO_CHANGE = 3; // Stop if no new jobs for 3 consecutive scrolls
+
+  try {
+    // Get initial job count
+    await page.waitForSelector(selector.jobSelector, { timeout: 10000 });
+    currentJobCount = await page.$$eval(selector.jobSelector, els => els.length);
+    console.log(`   Initial jobs visible: ${currentJobCount}`);
+  } catch (err) {
+    console.error(`   ❌ Failed to find initial jobs with selector "${selector.jobSelector}"`);
+    return; // Exit early if no jobs found
+  }
+
+  // Scroll loop
+  for (let scrollNum = 1; scrollNum <= maxPages; scrollNum++) {
     try {
-      const success = await applyUSAFilter(page, company.filters.applyUSAFilter);
-      if (success) {
-        console.log("USA filter applied successfully");
+      // Scroll to bottom of page
+      await page.evaluate(() => {
+        window.scrollTo(0, document.body.scrollHeight);
+      });
+
+      // Wait for content to load
+      await new Promise(resolve => setTimeout(resolve, 1500));
+
+      // Get updated job count
+      previousJobCount = currentJobCount;
+      currentJobCount = await page.$$eval(selector.jobSelector, els => els.length);
+
+      const newJobsLoaded = currentJobCount - previousJobCount;
+      console.log(`   Scroll ${scrollNum}/${maxPages}: ${previousJobCount} → ${currentJobCount} jobs (+${newJobsLoaded})`);
+
+      // Check if new jobs were loaded
+      if (currentJobCount === previousJobCount) {
+        noChangeCount++;
+        console.log(`   ⚠️  No new jobs loaded (${noChangeCount}/${MAX_NO_CHANGE})`);
+        
+        if (noChangeCount >= MAX_NO_CHANGE) {
+          console.log(`   ✓ Stopping: No new jobs after ${MAX_NO_CHANGE} consecutive scrolls`);
+          break;
+        }
       } else {
-        console.warn("USA filter application failed");
+        noChangeCount = 0; // Reset counter when new jobs are found
       }
-    } catch (filterError) {
-      console.error("Error applying USA filter:", filterError.message);
+
+      // Scroll back up slightly to trigger lazy loading (some sites need this)
+      if (scrollNum < maxPages) {
+        await page.evaluate(() => {
+          window.scrollTo(0, document.body.scrollHeight - 500);
+        });
+        await new Promise(resolve => setTimeout(resolve, 500));
+      }
+
+    } catch (scrollError) {
+      console.error(`   ❌ Error during scroll ${scrollNum}: ${scrollError.message}`);
+      // Continue to next scroll attempt
     }
   }
 
-  for (let pageNum = 1; pageNum <= maxPages; pageNum++) {
-    console.log(`Scraping ${company.name} - Page ${pageNum}/${maxPages}`);
-    
-    try {
-      // Extract job data from current page using the SAME page instance
-      const jobData = await extractJobData(page, selector, company, pageNum);
-      const validJobs = processJobData(jobData);
+  console.log(`\n✓ [${company.name}] Scrolling complete. Total jobs loaded: ${currentJobCount}\n`);
+
+  // Scroll back to top for extraction
+  try {
+    await page.evaluate(() => window.scrollTo(0, 0));
+    await new Promise(resolve => setTimeout(resolve, 1000));
+  } catch (err) {
+    console.warn(`   Could not scroll to top: ${err.message}`);
+  }
+
+  // ============================================
+  // STEP 3: EXTRACT all jobs (no more scrolling)
+  // ============================================
+  console.log(`📦 [${company.name}] Extracting all ${currentJobCount} jobs...`);
+  
+  try {
+    // Call extractJobData with pageNum = 1 (just for logging purposes)
+    // NOTE: Make sure extractJobData does NOT scroll for infinite scroll companies
+    // OR pass a flag to tell it we already scrolled
+    const jobData = await extractJobData(page, selector, company, 1);
+    const validJobs = processJobData(jobData);
+
+    console.log(`   Raw jobs extracted: ${jobData.length}`);
+    console.log(`   Valid jobs after processing: ${validJobs.length}`);
+
+    // ============================================
+    // STEP 4: Process and add jobs with duplicate tracking
+    // ============================================
+    let newJobCount = 0;
+    let duplicateCount = 0;
+
+    for (const job of validJobs) {
+      // Generate consistent job ID
+      const companyPart = (job.company || company.name || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-');
       
-      console.log(`Page ${pageNum}: Found ${validJobs.length} valid jobs`);
+      const titlePart = (job.title || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-');
+      
+      const locationPart = (job.location || job.city || '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-');
+      
+      const jobId = `${companyPart}-${titlePart}-${locationPart}`
+        .replace(/--+/g, '-')
+        .replace(/^-|-$/g, '');
 
-      // Check if current page returned 0 jobs
-      if (validJobs.length === 0) {
-        console.log(`No jobs found on page ${pageNum} for ${company.name}. Stopping pagination and returning collected jobs.`);
-        break; // Stop pagination if no jobs found
+      // Track new vs duplicate jobs
+      if (!seenJobIds.has(jobId)) {
+        seenJobIds.add(jobId);
+        newJobCount++;
+      } else {
+        duplicateCount++;
       }
 
-      // Add jobs to collection
-      jobs.push(...validJobs);
-
-      // Check if we should continue to the next page
-      if (pageNum < maxPages) {
-        const canContinue = await handlePaginationSafely(
-          page,
-          selector,
-          company,
-          searchQuery,
-          pageNum,
-          maxPages
-        );
-        
-        if (!canContinue) {
-          console.log(`Cannot continue pagination for ${company.name}, stopping at page ${pageNum}`);
-          break;
-        }
-      }
-    } catch (pageError) {
-      console.error(`Error scraping page ${pageNum} for ${company.name}: ${pageError.message}`);
-      // Continue to next page instead of breaking completely
-      continue;
+      // Add ALL jobs to results (including duplicates for this run)
+      jobs.push(job);
     }
+
+    // ============================================
+    // STEP 5: Log final statistics
+    // ============================================
+    console.log(`\n✅ [${company.name}] Infinite scroll complete:`);
+    console.log(`   Total jobs extracted: ${validJobs.length}`);
+    console.log(`   New jobs (not seen before): ${newJobCount}`);
+    console.log(`   Duplicate jobs (seen before): ${duplicateCount}`);
+    console.log(`   Jobs added to results: ${jobs.length}\n`);
+
+  } catch (extractError) {
+    console.error(`❌ [${company.name}] Extraction failed: ${extractError.message}`);
+    console.error(`   Stack: ${extractError.stack}`);
   }
 }
 
