@@ -36,7 +36,7 @@ async function extractJobData(page, selector, company, pageNum) {
 
   try {
     // Reduced initial wait from 2000ms to 1000ms
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    await new Promise(resolve => setTimeout(resolve, 3000));
     
     await waitForJobSelector(page, selector.jobSelector);
     await preparePageForExtraction(page);
