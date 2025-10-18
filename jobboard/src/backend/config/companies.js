@@ -265,7 +265,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "appliedmaterials": {
       name: "Applied Materials",
       baseUrl: "https://careers.appliedmaterials.com",
-      url: `https://careers.appliedmaterials.com/careers?domain=appliedmaterials.com&triggerGoButton=false&query=${encodeURIComponent(searchQuery)}&start=${(pageNum - 1) * 10}&location=united+states&pid=790304383258&sort_by=solr&filter_include_remote=1&filter_country=United+States+of+America&filter_seniority=Mid-Level%2CEntry%2CIntern%2CManager`,
+      url: `https://careers.appliedmaterials.com/careers?domain=appliedmaterials.com&triggerGoButton=false&query=${encodeURIComponent(searchQuery)}&start=${(pageNum - 1) * 10}&location=united+states&pid=790304383258&sort_by=solr&filter_include_remote=1&filter_country=United+States+of+America&filter_seniority=Mid-Level%2CEntry%2CManager`,
       selector: selectors.appliedmaterials
       //it is having its own filter in the url
       //done

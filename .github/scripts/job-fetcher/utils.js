@@ -27,8 +27,6 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-
-
 /**
  * Generate a standardized job ID for consistent deduplication across systems
  * This ensures the same job gets the same ID in both the scraper and Discord posting
@@ -81,24 +79,6 @@ function getCompanyCareerUrl(companyName) {
   return company ? company.career_url : "#";
 }
 
-// function formatTimeAgo(dateString) {
-//   if (!dateString) return "Recently";
-
-//   const date = new Date(dateString);
-//   const now = new Date();
-//   const diffInHours = Math.floor((now - date) / (1000 * 60 * 60));
-
-//   if (diffInHours < 24) {
-//     return `${diffInHours}h ago`;
-//   } else {
-//     const diffInDays = Math.floor(diffInHours / 24);
-//     if (diffInDays === 1) return "1d ago";
-//     if (diffInDays < 7) return `${diffInDays}d ago`;
-//     if (diffInDays < 30) return `${Math.floor(diffInDays / 7)}w ago`;
-//     return `${Math.floor(diffInDays / 30)}mo ago`;
-//   }
-// }
-
 function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
 
@@ -120,6 +100,192 @@ function isJobOlderThanWeek(dateString) {
   const diffInDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
 
   return diffInDays >= 7;
+}
+
+/**
+ * Filter out internships and non-software engineering jobs
+ * @param {Array} jobs - Array of job objects
+ * @returns {Array} - Filtered array of software engineering jobs (excluding internships)
+ */
+function filterSoftwareEngineeringJobs(jobs) {
+  console.log(`🔍 Starting job title filtering for ${jobs.length} jobs...`);
+  
+  // Keywords that indicate INTERNSHIP positions (to EXCLUDE)
+  const internshipKeywords = [
+    'intern', 'internship', 'co-op', 'coop', 'co op',
+    'summer program', 'training program', 'rotational program',
+    'student position', 'student program', 'campus hire'
+  ];
+  
+  // Keywords that indicate NON-SOFTWARE ENGINEERING roles (to EXCLUDE)
+  const nonSoftwareKeywords = [
+    // Data Science & Analytics
+    'data scientist', 'data science', 'data analyst', 'data analytics',
+    'business analyst', 'business intelligence', 'bi analyst',
+    'machine learning engineer', 'ml engineer', 'ai engineer',
+    'research scientist', 'applied scientist', 'quantitative analyst',
+    
+    // Hardware & Electrical Engineering
+    'hardware engineer', 'hardware', 'electrical engineer', 'electronics engineer',
+    'circuit design', 'pcb design', 'fpga', 'asic', 'vlsi',
+    'embedded hardware', 'rf engineer', 'antenna engineer',
+    'power engineer', 'signal processing', 'analog design', 'digital design',
+    
+    // Testing & QA (Non-Development)
+    'test engineer', 'testing engineer', 'qa tester',
+    'validation engineer', 'verification engineer', 'test technician',
+    'quality control', 'qc engineer', 'test analyst',
+    
+    // Technicians & Lab Roles
+    'technician', 'lab technician', 'laboratory technician',
+    'it technician', 'support technician', 'field technician',
+    'service technician', 'maintenance technician', 'repair technician',
+    
+    // Manufacturing & Operations
+    'manufacturing engineer', 'production engineer', 'process engineer',
+    'industrial engineer', 'operations engineer', 'plant engineer',
+    'facilities engineer', 'equipment engineer', 'assembly engineer',
+    
+    // Mechanical & Materials
+    'mechanical engineer', 'materials engineer', 'metallurgical',
+    'structural engineer', 'civil engineer', 'aerospace engineer',
+    
+    // Product & Design (Non-Technical)
+    'product manager', 'product owner', 'program manager', 'project manager',
+    'product designer', 'ux designer', 'ui designer', 'graphic designer',
+    
+    // Systems & Network (Infrastructure focused)
+    'network engineer', 'systems administrator', 'sysadmin',
+    'network administrator', 'it administrator', 'infrastructure engineer',
+    
+    // Sales & Support
+    'sales engineer', 'solutions engineer', 'technical sales',
+    'customer success engineer', 'support engineer', 'help desk',
+    
+    // Other Technical But Non-Software
+    'biomedical engineer', 'chemical engineer', 'environmental engineer',
+    'safety engineer', 'reliability engineer', 'compliance engineer'
+  ];
+  
+  // Keywords that CONFIRM software engineering roles (to INCLUDE)
+  const softwareKeywords = [
+    'software engineer', 'software developer', 'software development',
+    'backend engineer', 'backend developer', 'back-end',
+    'frontend engineer', 'frontend developer', 'front-end',
+    'full stack', 'fullstack', 'full-stack',
+    'web developer', 'web engineer', 'mobile developer', 'mobile engineer',
+    'application developer', 'application engineer', 'app developer',
+    'cloud engineer', 'devops engineer', 'sre', 'site reliability',
+    'platform engineer', 'infrastructure software', 'systems software',
+    'embedded software', 'firmware engineer', 'firmware developer',
+    'game developer', 'game engineer', 'graphics programmer',
+    'security engineer', 'cybersecurity engineer', 'software security',
+    'compiler engineer', 'distributed systems', 'microservices',
+    'api developer', 'integration engineer', 'middleware developer'
+  ];
+  
+  function isInternship(title) {
+    if (!title) return false;
+    const lowerTitle = title.toLowerCase().trim();
+    
+    for (const keyword of internshipKeywords) {
+      if (lowerTitle.includes(keyword.toLowerCase())) {
+        return true;
+      }
+    }
+    return false;
+  }
+  
+  function isSoftwareEngineering(title) {
+    if (!title) return false;
+    const lowerTitle = title.toLowerCase().trim();
+    
+    // Check if it explicitly contains software engineering keywords
+    const hasSoftwareKeyword = softwareKeywords.some(keyword => 
+      lowerTitle.includes(keyword.toLowerCase())
+    );
+    
+    if (hasSoftwareKeyword) {
+      // Double-check it's not also a non-software role
+      const hasNonSoftwareKeyword = nonSoftwareKeywords.some(keyword => 
+        lowerTitle.includes(keyword.toLowerCase())
+      );
+      
+      if (hasNonSoftwareKeyword) {
+        // Special case: "Software Test Engineer" -> exclude
+        const testRelated = ['test engineer', 'testing engineer', 'validation engineer', 'verification engineer'];
+        if (testRelated.some(test => lowerTitle.includes(test))) {
+          return false;
+        }
+      }
+      
+      return true;
+    }
+    
+    // Check if it contains non-software keywords
+    const hasNonSoftwareKeyword = nonSoftwareKeywords.some(keyword => 
+      lowerTitle.includes(keyword.toLowerCase())
+    );
+    
+    if (hasNonSoftwareKeyword) {
+      return false;
+    }
+    
+    // Check for generic "engineer" or "developer" titles
+    const genericTechKeywords = ['engineer', 'developer', 'programmer', 'architect'];
+    const hasGenericKeyword = genericTechKeywords.some(keyword => 
+      lowerTitle.includes(keyword)
+    );
+    
+    // Assume software engineering if generic tech keywords present
+    return hasGenericKeyword;
+  }
+  
+  const filteredJobs = [];
+  const removedJobs = [];
+  
+  jobs.forEach((job, index) => {
+    let shouldInclude = true;
+    let reason = '';
+    
+    const title = job.job_title || '';
+    
+    console.log(`\n🔍 Job ${index + 1}/${jobs.length}: "${title}" at ${job.employer_name || 'Unknown'}`);
+    
+    if (isInternship(title)) {
+      shouldInclude = false;
+      reason = 'Internship position';
+      console.log(`   ❌ EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason });
+    }
+    else if (!isSoftwareEngineering(title)) {
+      shouldInclude = false;
+      reason = 'Non-software engineering role';
+      console.log(`   ❌ EXCLUDED - ${reason}`);
+      removedJobs.push({ ...job, removal_reason: reason });
+    }
+    else {
+      console.log(`   ✅ INCLUDED - Software engineering role`);
+      filteredJobs.push(job);
+    }
+  });
+  
+  console.log(`\n${'='.repeat(50)}`);
+  console.log(`🎯 JOB TITLE FILTERING SUMMARY`);
+  console.log(`${'='.repeat(50)}`);
+  console.log(`📊 Original jobs: ${jobs.length}`);
+  console.log(`✅ Software engineering jobs: ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  console.log(`❌ Removed jobs: ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
+  
+  const internshipCount = removedJobs.filter(j => j.removal_reason === 'Internship position').length;
+  const nonSoftwareCount = removedJobs.filter(j => j.removal_reason === 'Non-software engineering role').length;
+  
+  console.log(`\n📈 REMOVAL REASONS BREAKDOWN:`);
+  console.log(`   • Internship positions: ${internshipCount} jobs (${((internshipCount/removedJobs.length)*100).toFixed(1)}%)`);
+  console.log(`   • Non-software engineering roles: ${nonSoftwareCount} jobs (${((nonSoftwareCount/removedJobs.length)*100).toFixed(1)}%)`);
+  console.log(`\n${'='.repeat(50)}`);
+  
+  return filteredJobs;
 }
 
 function filterJobsByLevel(jobs) {
@@ -173,7 +339,6 @@ function filterJobsByLevel(jobs) {
     'phd', 'ph.d.', 'doctorate', 'doctoral', 'postgraduate required'
   ];
 
-  // Pattern to detect search query formatted descriptions
   function isSearchQueryDescription(description) {
     if (!description) return false;
     
@@ -198,7 +363,6 @@ function filterJobsByLevel(jobs) {
     const years = [];
     const lowerDesc = description.toLowerCase();
     
-    // Clean description to handle multiple spaces and line breaks
     const cleanDesc = lowerDesc.replace(/\s+/g, ' ').trim();
     
     console.log(`   🔍 Analyzing description for experience patterns...`);
@@ -206,7 +370,6 @@ function filterJobsByLevel(jobs) {
     experiencePatterns.forEach((pattern, index) => {
       const matches = [...cleanDesc.matchAll(pattern)];
       matches.forEach(match => {
-        // Handle different capture groups based on pattern
         if (match[1] && !isNaN(parseInt(match[1]))) {
           const year1 = parseInt(match[1]);
           years.push(year1);
@@ -221,28 +384,6 @@ function filterJobsByLevel(jobs) {
       });
     });
     
-    // Additional contextual checks for common phrases that might indicate experience
-    const contextualChecks = [
-      { pattern: /(?:experience|background|history|track record).*?(\d+)\s*years?/gi, context: 'general experience' },
-      { pattern: /(?:skilled|experienced|seasoned|veteran).*?(\d+)\s*years?/gi, context: 'skill level' },
-      { pattern: /(?:portfolio|work|projects).*?(\d+)\s*years?/gi, context: 'work history' },
-      { pattern: /(?:must|should|need|require).*?(\d+)\s*years?/gi, context: 'requirements' }
-    ];
-    
-    contextualChecks.forEach(check => {
-      const matches = [...cleanDesc.matchAll(check.pattern)];
-      matches.forEach(match => {
-        if (match[1] && !isNaN(parseInt(match[1]))) {
-          const contextYears = parseInt(match[1]);
-          if (!years.includes(contextYears)) {
-            years.push(contextYears);
-            console.log(`   🎯 Contextual pattern (${check.context}) found: ${contextYears} years (from: "${match[0].trim()}")`);
-          }
-        }
-      });
-    });
-    
-    // Remove duplicates and sort
     const uniqueYears = [...new Set(years)].sort((a, b) => a - b);
     
     if (uniqueYears.length > 0) {
@@ -259,14 +400,12 @@ function filterJobsByLevel(jobs) {
     
     const lowerTitle = title.toLowerCase();
     
-    // Check for senior-level indicators FIRST (EXCLUDE)
     for (const keyword of seniorKeywords) {
       if (lowerTitle.includes(keyword.toLowerCase())) {
         return { level: 'senior', matchedKeyword: keyword };
       }
     }
     
-    // Check for junior-level indicators SECOND (INCLUDE)
     for (const keyword of juniorKeywords) {
       if (lowerTitle.includes(keyword.toLowerCase())) {
         return { level: 'junior', matchedKeyword: keyword };
@@ -300,7 +439,6 @@ function filterJobsByLevel(jobs) {
     return { level: 'acceptable', matchedRequirement: '' };
   }
 
-  // Filter jobs with improved hierarchy
   const filteredJobs = [];
   const removedJobs = [];
   
@@ -316,23 +454,18 @@ function filterJobsByLevel(jobs) {
     
     console.log(`\n🔍 Job ${index + 1}/${jobs.length}: "${job.job_title}" at ${job.employer_name}`);
     
-    // STEP 1: Check senior-level titles FIRST (EXCLUDE immediately)
     if (titleAnalysis.level === 'senior') {
       shouldInclude = false;
       reason = `Senior-level title detected`;
       category = `EXCLUDED - Title contains "${titleAnalysis.matchedKeyword}"`;
       console.log(`   ❌ STEP 1 - ${category}`);
     }
-    
-    // STEP 2: Check junior-level titles SECOND (INCLUDE immediately)
     else if (titleAnalysis.level === 'junior') {
       shouldInclude = true;
       reason = `Junior-level title confirmed`;
       category = `INCLUDED - Entry-level title contains "${titleAnalysis.matchedKeyword}"`;
       console.log(`   ✅ STEP 2 - ${category}`);
     }
-    
-    // STEP 3: Check description for experience requirements THIRD
     else {
       if (yearsRequired.length > 0) {
         const maxYears = Math.max(...yearsRequired);
@@ -349,8 +482,6 @@ function filterJobsByLevel(jobs) {
           console.log(`   ✅ STEP 3 - ${category}`);
         }
       }
-      
-      // STEP 4: If no clear description or years mentioned, mark as unclear (INCLUDE by default)
       else {
         shouldInclude = true;
         if (isSearchQueryFormat) {
@@ -364,7 +495,6 @@ function filterJobsByLevel(jobs) {
       }
     }
     
-    // STEP 5: Check education requirements (if still included)
     if (shouldInclude && educationAnalysis.level === 'too_advanced') {
       shouldInclude = false;
       reason = `Requires advanced degree (${educationAnalysis.matchedRequirement})`;
@@ -372,7 +502,6 @@ function filterJobsByLevel(jobs) {
       console.log(`   ❌ STEP 5 - Education: ${category}`);
     }
     
-    // Final decision
     if (shouldInclude) {
       console.log(`   ✅ FINAL DECISION: INCLUDED`);
       filteredJobs.push(job);
@@ -382,18 +511,12 @@ function filterJobsByLevel(jobs) {
     }
   });
   
-  // Summary logging
   console.log(`\n${'='.repeat(50)}`);
   console.log(`🎯 JOB LEVEL FILTERING SUMMARY`);
   console.log(`${'='.repeat(50)}`);
   console.log(`📊 Original jobs: ${jobs.length}`);
   console.log(`✅ Suitable jobs (entry/mid-level): ${filteredJobs.length} (${((filteredJobs.length/jobs.length)*100).toFixed(1)}%)`);
   console.log(`❌ Removed jobs (senior/advanced): ${removedJobs.length} (${((removedJobs.length/jobs.length)*100).toFixed(1)}%)`);
-  
-  const searchQueryJobs = jobs.filter(job => isSearchQueryDescription(job.job_description));
-  if (searchQueryJobs.length > 0) {
-    console.log(`🎯 Search query format jobs found: ${searchQueryJobs.length} (protected from description-based filtering)`);
-  }
   
   const removalReasons = {};
   removedJobs.forEach(job => {
@@ -412,17 +535,13 @@ function filterJobsByLevel(jobs) {
   return filteredJobs;
 }
 
-
 function isUSOnlyJob(job) {
-    // Note: There's no job_country field, but country info sometimes appears in job_state
     const state = (job.job_state || '').toLowerCase().trim();
     const city = (job.job_city || '').toLowerCase().trim();
     
-    // Normalize location string by removing extra spaces and punctuation
     const cleanCity = city.replace(/[,\s]+/g, ' ').trim();
     const cleanState = state.replace(/[,\s]+/g, ' ').trim();
     
-    // Expanded list of non-US countries (including variations)
     const nonUSCountries = [
         'estonia', 'canada', 'uk', 'united kingdom', 'great britain', 'britain',
         'germany', 'deutschland', 'france', 'netherlands', 'holland',
@@ -435,12 +554,10 @@ function isUSOnlyJob(job) {
         'vietnam', 'philippines', 'indonesia', 'malaysia', 'taiwan', 'hong kong'
     ];
     
-    // Check if state field contains non-US countries (this is the main filter since country appears in state)
     if (nonUSCountries.some(nonUSCountry => cleanState.includes(nonUSCountry))) {
         return false;
     }
     
-    // Expanded non-US cities (including variations and major cities)
     const nonUSCities = [
         'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'edmonton',
         'london', 'manchester', 'birmingham', 'glasgow', 'liverpool', 'bristol',
@@ -471,12 +588,10 @@ function isUSOnlyJob(job) {
         'belgrade', 'novi sad', 'nis'
     ];
     
-    // Check if city contains any non-US cities
     if (nonUSCities.some(nonUSCity => cleanCity.includes(nonUSCity))) {
         return false;
     }
     
-    // Handle "Remote - [Country]" patterns
     if (cleanCity.includes('remote') && nonUSCountries.some(country => cleanCity.includes(country))) {
         return false;
     }
@@ -485,24 +600,19 @@ function isUSOnlyJob(job) {
         return false;
     }
     
-    // US country indicators in state field (since country info appears in state)
     const usCountryIndicators = [
         'us', 'usa', 'united states', 'united states of america', 'america'
     ];
     
-    // If state contains US indicators
     if (usCountryIndicators.some(indicator => cleanState.includes(indicator))) {
         return true;
     }
     
-    // US state codes and full names
     const usStates = [
-        // State codes
         'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia',
         'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj',
         'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt',
         'va', 'wa', 'wv', 'wi', 'wy', 'dc',
-        // Full state names
         'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut',
         'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa',
         'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan',
@@ -513,12 +623,10 @@ function isUSOnlyJob(job) {
         'wisconsin', 'wyoming', 'district of columbia'
     ];
     
-    // Check if state matches US states
     if (usStates.some(usState => cleanState === usState || cleanState.includes(usState))) {
         return true;
     }
     
-    // Major US cities (to catch cases where state might be missing or incorrect)
     const majorUSCities = [
         'new york', 'los angeles', 'chicago', 'houston', 'phoenix', 'philadelphia',
         'san antonio', 'san diego', 'dallas', 'san jose', 'austin', 'jacksonville',
@@ -536,20 +644,20 @@ function isUSOnlyJob(job) {
         'glendale', 'garland', 'hialeah', 'reno', 'chesapeake', 'gilbert', 'baton rouge',
         'irving', 'scottsdale', 'north las vegas', 'fremont', 'boise', 'richmond',
         'san bernardino', 'birmingham', 'spokane', 'rochester', 'des moines', 'modesto',
-        'fayetteville', 'tacoma', 'oxnard', 'fontana', 'columbus', 'montgomery',
-        'moreno valley', 'shreveport', 'aurora', 'yonkers', 'akron', 'huntington beach',
-        'little rock', 'augusta', 'amarillo', 'glendale', 'mobile', 'grand rapids',
+        'fayetteville', 'tacoma', 'oxnard', 'fontana', 'montgomery',
+        'moreno valley', 'shreveport', 'yonkers', 'akron', 'huntington beach',
+        'little rock', 'augusta', 'amarillo', 'mobile', 'grand rapids',
         'salt lake city', 'tallahassee', 'huntsville', 'grand prairie', 'knoxville',
         'worcester', 'newport news', 'brownsville', 'santa clarita', 'providence',
         'fort lauderdale', 'chattanooga', 'oceanside', 'jackson', 'garden grove',
         'rancho cucamonga', 'port st lucie', 'tempe', 'ontario', 'vancouver',
         'cape coral', 'sioux falls', 'springfield', 'peoria', 'pembroke pines',
         'elk grove', 'salem', 'lancaster', 'corona', 'eugene', 'palmdale', 'salinas',
-        'springfield', 'pasadena', 'fort collins', 'hayward', 'pomona', 'cary',
-        'rockford', 'alexandria', 'escondido', 'mckinney', 'kansas city', 'joliet',
+        'pasadena', 'fort collins', 'hayward', 'pomona', 'cary',
+        'rockford', 'alexandria', 'escondido', 'mckinney', 'joliet',
         'sunnyvale', 'torrance', 'bridgeport', 'lakewood', 'hollywood', 'paterson',
         'naperville', 'syracuse', 'mesquite', 'dayton', 'savannah', 'clarksville',
-        'orange', 'pasadena', 'fullerton', 'killeen', 'frisco', 'hampton',
+        'orange', 'fullerton', 'killeen', 'frisco', 'hampton',
         'mcallen', 'warren', 'bellevue', 'west valley city', 'columbia', 'olathe',
         'sterling heights', 'new haven', 'miramar', 'waco', 'thousand oaks',
         'cedar rapids', 'charleston', 'visalia', 'topeka', 'elizabeth', 'gainesville',
@@ -558,16 +666,14 @@ function isUSOnlyJob(job) {
         'victorville', 'evansville', 'santa clara', 'abilene', 'athens', 'vallejo',
         'allentown', 'norman', 'beaumont', 'independence', 'murfreesboro', 'ann arbor',
         'fargo', 'wilmington', 'golden valley', 'pearland', 'richardson', 'broken arrow',
-        'richmond', 'college station', 'league city', 'sugar land', 'lakeland',
-        'duluth', 'woodbridge', 'charleston'
+        'college station', 'league city', 'sugar land', 'lakeland',
+        'duluth', 'woodbridge'
     ];
     
-    // Check if city matches major US cities
     if (majorUSCities.some(usCity => cleanCity.includes(usCity))) {
         return true;
     }
     
-    // Handle remote jobs - assume US remote unless specified otherwise
     if (cleanCity.includes('remote') && !cleanCity.includes('-') && !cleanState.includes('-')) {
         return true;
     }
@@ -576,149 +682,25 @@ function isUSOnlyJob(job) {
         return true;
     }
     
-    // Handle "United States" variations in state field (main case since country info is in state)
     if (cleanState.includes('united states')) {
         return true;
     }
     
-    // If both city and state are empty, can't determine - exclude for safety
     if (!cleanCity && !cleanState) {
         return false;
     }
     
-    // Default to exclude if we can't determine (changed from include to be more selective)
     return false;
 }
 
-function getExperienceLevel(title, description = "") {
-  const text = `${title} ${description}`.toLowerCase();
-
-  // Senior level indicators
-  if (
-    text.includes("senior") ||
-    text.includes("sr.") ||
-    text.includes("lead") ||
-    text.includes("principal") ||
-    text.includes("staff") ||
-    text.includes("architect")
-  ) {
-    return "Senior";
-  }
-
-  // Entry level indicators
-  if (
-    text.includes("entry") ||
-    text.includes("junior") ||
-    text.includes("jr.") ||
-    text.includes("new grad") ||
-    text.includes("graduate") ||
-    text.includes("university grad") ||
-    text.includes("college grad") ||
-    text.includes(" grad ") ||
-    text.includes("recent grad") ||
-    text.includes("intern") ||
-    text.includes("associate") ||
-    text.includes("level 1") ||
-    text.includes("l1") ||
-    text.includes("campus") ||
-    text.includes("student") ||
-    text.includes("early career") ||
-    text.includes("0-2 years")
-  ) {
-    return "Entry-Level";
-  }
-
-  return "Mid-Level";
-}
-
-function getJobCategory(title, description = "") {
-  const text = `${title} ${description}`.toLowerCase();
-
-  if (
-    text.includes("ios") ||
-    text.includes("android") ||
-    text.includes("mobile") ||
-    text.includes("react native")
-  ) {
-    return "Mobile Development";
-  }
-  if (
-    text.includes("frontend") ||
-    text.includes("front-end") ||
-    text.includes("react") ||
-    text.includes("vue") ||
-    text.includes("ui")
-  ) {
-    return "Frontend Development";
-  }
-  if (
-    text.includes("backend") ||
-    text.includes("back-end") ||
-    text.includes("api") ||
-    text.includes("server")
-  ) {
-    return "Backend Development";
-  }
-  if (
-    text.includes("machine learning") ||
-    text.includes("ml ") ||
-    text.includes("ai ") ||
-    text.includes("artificial intelligence") ||
-    text.includes("deep learning")
-  ) {
-    return "Machine Learning & AI";
-  }
-  if (
-    text.includes("data scientist") ||
-    text.includes("data analyst") ||
-    text.includes("analytics") ||
-    text.includes("data engineer")
-  ) {
-    return "Data Science & Analytics";
-  }
-  if (
-    text.includes("devops") ||
-    text.includes("infrastructure") ||
-    text.includes("cloud") ||
-    text.includes("platform")
-  ) {
-    return "DevOps & Infrastructure";
-  }
-  if (
-    text.includes("security") ||
-    text.includes("cybersecurity") ||
-    text.includes("infosec")
-  ) {
-    return "Security Engineering";
-  }
-  if (
-    text.includes("product manager") ||
-    text.includes("product owner") ||
-    text.includes("pm ")
-  ) {
-    return "Product Management";
-  }
-  if (text.includes("design") || text.includes("ux") || text.includes("ui")) {
-    return "Design";
-  }
-  if (text.includes("full stack") || text.includes("fullstack")) {
-    return "Full Stack Development";
-  }
-
-  return "Software Engineering";
-}
-
 function formatLocation(city, state) {
-  // Normalize inputs
   let normalizedCity = city ? city.trim() : '';
   let normalizedState = state ? state.trim() : '';
 
-  // STEP 1: Handle remote
   if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
     return 'Remote 🏠';
   }
 
-  // STEP 2: Filter out generic/invalid state values
   const invalidStates = [
     'us', 'usa', 'u.s.', 'u.s.a', 'united states',
     'multiple locations', 'various locations', 'nationwide',
@@ -726,10 +708,9 @@ function formatLocation(city, state) {
   ];
   
   if (invalidStates.includes(normalizedState.toLowerCase())) {
-    normalizedState = ''; // Clear invalid state
+    normalizedState = '';
   }
 
-  // STEP 3: Clean city - remove job-level keywords if they got through
   const cityCleanupKeywords = [
     'internship', 'intern', 'entry level', 'entrylevel', 'entry',
     'senior', 'junior', 'multiple cities', 'various'
@@ -740,20 +721,16 @@ function formatLocation(city, state) {
     normalizedCity = normalizedCity.replace(regex, '').trim();
   });
 
-  // STEP 4: If city contains "United States", remove it
   normalizedCity = normalizedCity
     .replace(/,?\s*United States$/i, '')
     .replace(/,?\s*USA$/i, '')
     .replace(/,?\s*U\.S\.A?$/i, '')
     .trim();
 
-  // STEP 5: Handle state containing "United States"
   if (normalizedState.toLowerCase().includes('united states')) {
-    // If state is "United States" or contains it, clear it unless there's specific info
     if (normalizedState.toLowerCase() === 'united states') {
       normalizedState = '';
     } else {
-      // Extract actual state if format is like "California, United States"
       normalizedState = normalizedState
         .replace(/,?\s*United States$/i, '')
         .replace(/,?\s*USA$/i, '')
@@ -761,18 +738,14 @@ function formatLocation(city, state) {
     }
   }
 
-  // STEP 6: Handle patterns like "California - San Francisco"
-  // This means state came first, so swap them
   if (normalizedCity.includes(' - ')) {
     const parts = normalizedCity.split(' - ').map(p => p.trim());
     if (parts.length === 2) {
-      // First part is likely state, second is city
       normalizedState = normalizedState || parts[0];
       normalizedCity = parts[1];
     }
   }
 
-  // STEP 7: Final validation - filter out if city or state are too short or invalid
   if (normalizedCity && normalizedCity.length < 2) {
     normalizedCity = '';
   }
@@ -780,38 +753,30 @@ function formatLocation(city, state) {
     normalizedState = '';
   }
 
-  // STEP 8: Check if city is actually just numbers or special characters
   if (normalizedCity && /^[\d\s,\-._]+$/.test(normalizedCity)) {
     normalizedCity = '';
   }
 
-  // STEP 9: Return formatted location based on what we have
-  // Both city and state
   if (normalizedCity && normalizedState) {
     return `${normalizedCity}, ${normalizedState}`;
   }
   
-  // Only state
   if (!normalizedCity && normalizedState) {
     return normalizedState;
   }
   
-  // Only city
   if (normalizedCity && !normalizedState) {
     return normalizedCity;
   }
 
-  // Neither (should be filtered out in stats)
-  return null; // Return null instead of a string so it can be filtered
+  return null;
 }
 
-// Fetch internship data from popular sources
 async function fetchInternshipData() {
   console.log("🎓 Fetching 2025/2026 internship opportunities...");
 
   const internships = [];
 
-  // Popular internship tracking repositories and sources
   const internshipSources = [
     {
       name: "AngelList Internships",
@@ -830,7 +795,7 @@ async function fetchInternshipData() {
     {
       name: "Indeed Internships",
       emogi: "🔵",
-      url: "https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72",
+      url: "https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete",
       type: "Job Board",
       description: "Comprehensive internship search engine",
     },
@@ -850,7 +815,6 @@ async function fetchInternshipData() {
     },
   ];
 
-  // Add company-specific internship programs
   const companyInternshipPrograms = [
     {
       company: "Google",
@@ -875,7 +839,7 @@ async function fetchInternshipData() {
     },
     {
       company: "Amazon",
-       emogi: "📦",
+      emogi: "📦",
       program: "SDE Internship",
       url: "https://www.amazon.jobs/en/teams/internships-for-students",
       deadline: "Various",
@@ -903,7 +867,7 @@ async function fetchInternshipData() {
     },
     {
       company: "Nvidia",
-       emogi: "🎮",
+      emogi: "🎮",
       program: "Software Engineering Internship",
       url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=software+intern&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
       deadline: "Various",
@@ -912,7 +876,7 @@ async function fetchInternshipData() {
       company: "Stripe",
       emogi: "💳",
       program: "Software Engineering Internship",
-      url: "https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC",
+      url: "https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote",
       deadline: "Various",
     },
     {
@@ -947,9 +911,8 @@ module.exports = {
   getCompanyCareerUrl,
   isJobOlderThanWeek,
   isUSOnlyJob,
-  getExperienceLevel,
-  getJobCategory,
   formatLocation,
   filterJobsByLevel,
+  filterSoftwareEngineeringJobs, // NEW EXPORT
   fetchInternshipData,
 };
