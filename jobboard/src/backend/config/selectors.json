@@ -147,7 +147,7 @@
     "applyLinkSelector": "a.stretched-link.js-view-job",
     "linkAttribute": "href",
     "locationSelector": "ul.list-inline.locations li.list-inline-item",
-    "postedType": "next-page",
+    
     "postedSelector": "time",
     "descriptionType": "next-page",
 
@@ -435,7 +435,7 @@
     "linkAttribute": "href",
     "locationSelector": "span.location",
     "categorySelector": "span.category",
-    "postedType": "next-page",
+    
     "postedSelector": "#ajd-header > div > div > div.ajd_header__job-heading.fs-m-7.fs-l-5.pb-l-1.pb-xl-0 > span.job-date.job-info",
     "descriptionType": "next-page",
     "descriptionSelector": "span",
