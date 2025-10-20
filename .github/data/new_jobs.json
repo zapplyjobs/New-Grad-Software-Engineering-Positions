@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Mainframe Software Engineer",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problemsCreates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systemsProduces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code developmentGathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systemsProactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architectureContributes to software engineering communities of practice and events that explore new and emerging technologies Formal training or certification on software engineering concepts and 3+ years applied experienceHands-on practical experience in system design, application development, testing, and operational stabilityProficient in coding in one or more languages (e.\n• , Mainframe technologies – JCL , COBOL, VSAM, DB2 ,CICS along with messaging MQ)Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languagesOverall knowledge of the Software Development Life CycleSolid understanding of agile methodologies such as CI/CD, Applicant Resiliency, and SecurityKnowledge in scheduling tool CA-7Knowledge of version and revision control practices and procedures, using Endeavor Knowledge in Mainframe utilities, such as File-Aid, Expeditor, SORT, REXX, and SAS is a plusKnowledge in CICS web services and Rest API is a plusKnowledge and exposure to one or more multiple languages: Python, Java, Unix Shell Scripting & Oracle is a Plus.\n• )This role may require evening or weekend hours during production deployment times as-needed.\n• Exposure to cloud technologiesDemonstrated knowledge of software applications and technical processes within a technical discipline (e.\n• , cloud, artificial intelligence, machine learning, mobile, etc.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677796/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753",
+    "id": "jpmorgan-chase-mainframe-software-engineer-plano"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Software Engineer III (E3)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer III (E3)",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312551126?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-software-engineer-iii-e3-santa-clara"
+  }
+]
