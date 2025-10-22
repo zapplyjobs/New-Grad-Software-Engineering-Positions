@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer, Kuiper",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "18h",
+    "job_description": "software engineering job for the role Software Engineer, Kuiper",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113737/software-engineer-kuiper",
+    "id": "amazon-software-engineer-kuiper-redmond"
+  }
+]
