@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Machine Learning Platform Engineer",
-    "job_city": "",
-    "job_state": "NY",
-    "job_posted_at": "1d",
-    "job_description": "• Security & Compliance: Participate in security reviews and ensure all platform components adhere to security best practices and compliance requirements.\n• Proven experience as a Platform Engineer, Software Engineer, or ML Infrastructure Engineer.\n• Strong software engineering skills, particularly with Python, for building scalable tools, automation scripts, and platform components.\n• Extensive experience with CI/CD tools, especially GitHub Actions and ArgoCDProficiency in infrastructure-as-code principles and tools (e.\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• , Istio)Experience with MLOps concepts and tools.\n• Experience with monitoring and alerting systems (Grafana, PagerDuty).\n• Experience with tenant and project onboarding processes in a multi-tenant environment.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer/",
-    "id": "salesforce-machine-learning-platform-engineer-"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Engineering Productivity",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Engineering Productivity",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103819616148431558-software-engineer-iii-engineering-productivity?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-engineering-productivity-seattle"
   }
 ]
