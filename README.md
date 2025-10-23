@@ -355,7 +355,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 70 positions
-- **🏢 Companies**: 19 companies  
+- **🏢 Companies**: 18 companies  
 - **⭐ FAANG+ Jobs & Internships**: 16 roles
 
 ### ⭐ **FAANG+** (16 positions)
