@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineering",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "1h",
-    "job_description": "• Executes standard software solutions, design, development, and technical troubleshooting Writes secure and high-quality code using the syntax of at least one programming language with limited guidance Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications Applies knowledge of tools within the Software Development Life Cycle toolchain to improve the value realized by automation Applies technical troubleshooting to break down solutions and solve technical problems of basic complexity Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision-making in service of secure, stable application development Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems Adds to team culture of diversity, opportunity, inclusion, and respect Formal training or certification on software engineering concepts and 3+ years applied experience Hands-on experience on core Java, Spring and REST services Strong Java, J2EE and Micro services development experience.\n• Strong experience in RDBMS(Oracle) Strong technical development experience on effectively writing code, code reviews, best practices code refactoring Hands-on knowledge on cloud Technology.\n• Containers and Kafka or any streaming technology Experience with various source control tools like GIT Good understanding of Jenkins CI/CD, Maven/Gradle Excellent knowledge in developing resilient and high quality deliverables.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680372/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753",
-    "id": "jpmorgan-chase-software-engineering-atlanta"
-  }
-]
+[]
