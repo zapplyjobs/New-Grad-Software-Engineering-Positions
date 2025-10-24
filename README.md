@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 19+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 minutes with 107+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 19+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 minutes with 99+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -23,10 +23,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 107 hot software engineering jobs  
+🔥 **Current Positions:** 99 hot software engineering jobs  
 🏢 **Top Companies:** 19 elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** 36 premium opportunities  
-📅 **Last Updated:** October 23, 2025  
+⭐ **FAANG+ Jobs & Internships:** 34 premium opportunities  
+📅 **Last Updated:** October 24, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Developer Jobs:** 70 (older than 1 week)
 
@@ -34,15 +34,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
 
-### ⭐ **FAANG+** (36 positions)
+### ⭐ **FAANG+** (34 positions)
 
-#### 📦 **Amazon** (3 positions)
+#### 📦 **Amazon** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer, Kuiper | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113737/software-engineer-kuiper) | 1d |
-| Software Development Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3111739/software-development-engineer) | 6d |
-| Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113974/software-engineer-ii) | 1d |
+| Software Engineer, Kuiper | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113737/software-engineer-kuiper) | 2d |
+| Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3113974/software-engineer-ii) | 2d |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (31 positions)</h4></summary>
@@ -83,12 +82,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| HomeKit Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200561206-0836/homekit-software-engineer?team=SFTWR) | 6d |
-| ML Software Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628040-3337/ml-software-engineer?team=MLAI) | 23h |
+| ML Software Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628040-3337/ml-software-engineer?team=MLAI) | 1d |
 
 ### 🏢 **Top Tech** (25 positions)
 
@@ -96,7 +94,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Developer II - EO/IR (Exton, PA) | Exton, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/exton/software-developer-ii-eo-ir-exton-pa/44408/87085298624) | 6d |
+| Software Engineer - User Interface (Exton, PA) | Exton, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/exton/software-engineer-user-interface-exton-pa/44408/87085294864) | 1d |
 
 #### 🎮 **NVIDIA** (1 position)
 
@@ -130,8 +128,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineering LMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304562/software-engineering-lmts/) | 1d |
-| LMTS Backend Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | 1d |
 | Software Engineering LMTS | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312351/software-engineering-lmts/) | 1d |
+| LMTS Backend Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | 1d |
 | Software Engineering SMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313479/software-engineering-smts/) | 1d |
 | Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr312311/software-engineering-lmtssmts-entsectech-autonomous-iam/) | 1d |
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | 1d |
@@ -147,14 +145,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Associate Quality Engineer - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65759&source=WEB_Search_NA) | 1d |
 | Associate Application Developer - Entry Level (Baton Rouge, LA) | BATON ROUGE | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65755&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (4 positions)
+### 💻 **Enterprise Software** (3 positions)
 
-#### 🖥️ **Hewlett Packard Enterprise** (2 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Thermal Design Engineer | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Thermal-Design-Engineer_1193488-1?q=software+engineering&locations=e459dee6bf0a01f51082fd2708240d5c&locations=3950c424ea1c01d5b87223aa442cc958&locations=e69f9781661b10219199635d840babb5&locations=bb84e32ded880145afe5d2d0dd2b5c62&locations=f607629c2aa1010d124a5599402c703f&locations=e69f9781661b102191a28884e0f0b85f&locations=e459dee6bf0a01607d49d56409244b64&locations=e69f9781661b1021919815e9ca32a9ee&locations=bb84e32ded88013ee847c281d92b6745&locations=90058e87ba0e1001d2f4d7e27b0d0000&locations=47385449f64a017d4c903202dc2b5657&locations=98cbd30d374e10330ceffda6d7a4fc41&locations=2e0d9cc9554b01deafe88869442cb356&locations=acac3e510b17018644380803dc2b7f55&locations=bb84e32ded88017f2a05da01dc2b4656&locations=2e0d9cc9554b01761ed1696d442cbe56&locations=62b0c47c914b015d3c97fb6707248955&locations=acac3e510b1701630be274ffdb2b6d55&locations=98cbd30d374e10330cf05e491004fc5f&locations=cc3bff87cf8101bded44c0f2dc00e375&locations=f607629c2aa10196b908a08e462c0567) | 2d |
-| Consulting Systems Engineer | All, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-California-United-States-of-America/Consulting-Systems-Engineer_1196174-1?q=software+engineering&locations=e459dee6bf0a01f51082fd2708240d5c&locations=3950c424ea1c01d5b87223aa442cc958&locations=e69f9781661b10219199635d840babb5&locations=bb84e32ded880145afe5d2d0dd2b5c62&locations=f607629c2aa1010d124a5599402c703f&locations=e69f9781661b102191a28884e0f0b85f&locations=e459dee6bf0a01607d49d56409244b64&locations=e69f9781661b1021919815e9ca32a9ee&locations=bb84e32ded88013ee847c281d92b6745&locations=90058e87ba0e1001d2f4d7e27b0d0000&locations=47385449f64a017d4c903202dc2b5657&locations=98cbd30d374e10330ceffda6d7a4fc41&locations=2e0d9cc9554b01deafe88869442cb356&locations=acac3e510b17018644380803dc2b7f55&locations=bb84e32ded88017f2a05da01dc2b4656&locations=2e0d9cc9554b01761ed1696d442cbe56&locations=62b0c47c914b015d3c97fb6707248955&locations=acac3e510b1701630be274ffdb2b6d55&locations=98cbd30d374e10330cf05e491004fc5f&locations=cc3bff87cf8101bded44c0f2dc00e375&locations=f607629c2aa10196b908a08e462c0567) | 1d |
 
 #### 📅 **Workday** (2 positions)
 
@@ -191,7 +188,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer III - React | Jersey City, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678192/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 2d |
 | Software Engineer [Multiple Positions Available] | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678186/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 2d |
 | Software Engineer [Multiple Positions Available] | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677257/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 1d |
-| Software Engineer III (Java/AWS) | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665268/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 1h |
+| Software Engineer III (Java/AWS) | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665268/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 2h |
 | Software Engineer III - Data Engineer | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672757/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 4h |
 | Software Engineer | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678448/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 4d |
 | Software Engineer III - DevOps | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662205/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 3d |
@@ -217,7 +214,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, C++ Edge Computers | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) | 1d |
 | Android Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/android-engineer-mountain-view-california-united-states-san-francisco) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (14 positions)
+### 🏭 **Manufacturing & Industrial** (9 positions)
 
 #### ⚗️ **Applied Materials** (1 position)
 
@@ -232,7 +229,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | CPU Performance – Emulation/Benchmarking Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/cpu-performance-emulation-benchmarking-engineer/33099/86449897680) | 1d |
 | Design Automation Engineer - Front-End Methodologies & Design Flows | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-diego/design-automation-engineer-front-end-methodologies-and-design-flows/33099/87112637216) | 1d |
 
-#### 💾 **Micron Technology** (5 positions)
+#### 💾 **Micron Technology** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -240,18 +237,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Site Reliability Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30854300) | 1d |
 | Process Integration Semiconductor Fab Engineer | nassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38271376) | 1d |
 | Global Front End Modeling Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38572408) | 2d |
-| Applications Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38572276) | 3d |
 
-#### ⚡ **ABB** (6 positions)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | R&D HW Engineer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
-| Process Quality Engineer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00001821/Process-Quality-Engineer) | 1h |
-| Quality Engineer | Mount Juliet, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008605/Quality-Engineer) | 1h |
-| Proposal Engineer - Mobile Robotics | Auburn Hills, MI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007485/Proposal-Engineer-Mobile-Robotics) | 1h |
-| Application Engineer | Westerville, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96186465/Application-Engineer) | 1h |
-| DCS Application Engineer | Westerville, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96186417/DCS-Application-Engineer) | 1h |
+| Field Service Engineer - Drives | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012229/Field-Service-Engineer-Drives) | 1h |
 
 
 
@@ -262,7 +254,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (31 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (31 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -270,34 +262,34 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### ☁️ **Enterprise & Cloud** (8 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (2) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (8) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (10) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (2)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 📅 **[Workday](https://workday.wd5.myworkdayjobs.com/Workday)** (2) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔷 **[Intel](https://intel.wd1.myworkdayjobs.com/External)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (8) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (10) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (2)
 
 ---
 ### 📈 **Experience Breakdown**
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 24 | 22% | No or minimal experience |
-| 🟡 Beginner & Early Career | 53 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 30 | 28% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 17 | 17% | No or minimal experience |
+| 🟡 Beginner & Early Career | 51 | 52% | 1-2 years of experience |
+| 🔴 Manager         | 31 | 31% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 22 positions
 - **San Francisco, CA**: 8 positions
-- **Seattle, WA**: 6 positions
 - **Sunnyvale, CA**: 6 positions
+- **Seattle, WA**: 5 positions
 - **Plano, TX**: 4 positions
 - **Atlanta, GA**: 4 positions
 - **NY**: 4 positions
-- **Boise, ID**: 4 positions
+- **Kirkland, WA**: 3 positions
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 107+ verified CS internships and entry-level software roles from 19 elite tech companies.
+✅ **100% Real Jobs:** 99+ verified CS internships and entry-level software roles from 19 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 minutes automatically.
 
@@ -355,7 +347,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### **Archived Job Stats**
 - **📁 Total Jobs**: 70 positions
-- **🏢 Companies**: 18 companies  
+- **🏢 Companies**: 19 companies  
 - **⭐ FAANG+ Jobs & Internships**: 16 roles
 
 ### ⭐ **FAANG+** (16 positions)
@@ -364,12 +356,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3092174/software-engineer) | 4w |
 | Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094973/software-engineer-embedded-flight-software-kuiper-flight-systems-software) | 3w |
 | Software Development Engineer, GNC Software, Project Kuiper | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3105445/software-development-engineer-gnc-software-project-kuiper) | 2w |
+| Software Development Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3111739/software-development-engineer) | 1w |
+| Software Development Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094858/software-development-engineer) | 4w |
 | Software Engineer | Irvine, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3104730/software-engineer-ii) | 2w |
-| Software Development Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094858/software-development-engineer) | 3w |
-| Software Development Engineer | San Luis Obispo, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer) | 1w |
+| Software Development Engineer | San Luis Obispo, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer) | 2w |
 
 #### 🟦 **Microsoft** (4 positions)
 
@@ -386,10 +378,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Software Development Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625839-0836/software-development-engineer?team=HRDWR) | 1w |
 | Software Development Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625564-0157/software-development-engineer?team=HRDWR) | 1w |
+| HomeKit Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200561206-0836/homekit-software-engineer?team=SFTWR) | 1w |
 | Software Development Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625623-3543/software-development-engineer?team=SFTWR) | 1w |
-| Localization Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622832-0836/localization-software-engineer?team=SFTWR) | 4w |
-| Embedded Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624275-0836/embedded-software-engineer?team=SFTWR) | 2w |
-| SoC Systems Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623267-0836/soc-systems-software-engineer?team=HRDWR) | 3w |
+| Embedded Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624275-0836/embedded-software-engineer?team=SFTWR) | 3w |
+| Bluetooth Software Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624315-3543/bluetooth-software-engineer?team=SFTWR) | 2w |
 
 ### 🏢 **Top Tech** (4 positions)
 
@@ -524,7 +516,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <div align="center">
 
-**🎯 107 current opportunities from 19 elite companies.**
+**🎯 99 current opportunities from 19 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
@@ -532,6 +524,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ---
 
-**Last Updated:** October 23, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** October 24, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
