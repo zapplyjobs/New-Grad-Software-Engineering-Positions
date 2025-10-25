@@ -401,8 +401,12 @@ function parseLocation(locationText) {
 
 /**
  * Convert date string to relative format
+ * Returns null if no valid date information is available
  */
 function convertDateToRelative(postedDate) {
+  // Return null if input is empty, null, or undefined
+  if (!postedDate || String(postedDate).trim() === '') return null;
+  
   const dateStr = String(postedDate);
   const desiredFormatRegex = /^\d+[hdwmo]+$/i;
   if (desiredFormatRegex.test(dateStr.trim())) return dateStr.trim();
@@ -413,6 +417,19 @@ function convertDateToRelative(postedDate) {
     .replace(/^on\s+/i, '')
     .trim()
     .toLowerCase();
+
+  // Return null for generic/vague terms that don't indicate a specific time
+  if (!cleanedDate || 
+      cleanedDate === 'not specified' || 
+      cleanedDate === 'n/a' || 
+      cleanedDate === 'none' ||
+      cleanedDate === 'unknown' ||
+      cleanedDate === 'null' ||
+      cleanedDate === 'undefined' ||
+      cleanedDate === 'tbd' ||
+      cleanedDate === 'tba') {
+    return null;
+  }
 
   if (cleanedDate === 'today' || cleanedDate === 'yesterday') return '1d';
   if (cleanedDate.includes('just') || cleanedDate.includes('recently') || cleanedDate.includes('now')) return '1h';
@@ -443,8 +460,12 @@ function convertDateToRelative(postedDate) {
     if ((unit === 'm' || unit.startsWith('month')) && unit !== 'min') return `${number}mo`;
   }
 
+  // Try to parse as a date
   const parsedDate = new Date(dateStr);
-  if (isNaN(parsedDate.getTime())) return '1d';
+  if (isNaN(parsedDate.getTime())) {
+    // If parsing fails, return null instead of defaulting
+    return null;
+  }
 
   const now = new Date();
   const diffTime = Math.abs(now - parsedDate);
@@ -459,11 +480,17 @@ function convertDateToRelative(postedDate) {
 
 /**
  * Check if job is older than one month
+ * Returns false if posted date is null (unknown dates are kept)
  */
 function isJobOlderThanOneMonth(postedDate) {
   const relativeDate = convertDateToRelative(postedDate);
+  
+  // If no date information is available, don't filter it out
+  if (relativeDate === null) return false;
+  
   const match = relativeDate.match(/^(\d+)([hdwmo])$/i);
   if (!match) return true;
+  
   const value = parseInt(match[1]);
   const unit = match[2].toLowerCase();
   return unit === 'mo' && value >= 1;
@@ -487,7 +514,7 @@ function transformJobs(jobs, searchQuery) {
         job_title: cleanJobTitle(job.title),
         job_city: city || '',
         job_state: state || '',
-        job_posted_at: postedRelative || 'Recently',
+        job_posted_at: postedRelative, // Will be null if no date info available
         job_description: job_description || `${searchQuery} job for the role ${job.title}`,
         job_apply_link: applyLink,
       };

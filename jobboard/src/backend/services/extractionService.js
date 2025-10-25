@@ -203,13 +203,13 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
         location = getText(sel.locationSelector);
       }
 
-      let posted = 'Recently';
+      let posted = 'null';
       if (sel.postedType !== 'next-page') {
-        posted = sel.postedSelector ? getText(sel.postedSelector) : 'Recently';
+        posted = sel.postedSelector ? getText(sel.postedSelector) : 'null';
 
         if (sel.name === '10x Genomics' && sel.postedSelector) {
           const dateElements = el.querySelectorAll(sel.postedSelector);
-          posted = 'Recently';
+          posted = 'null';
           for (const div of dateElements) {
             const text = div.textContent.trim();
             if (
@@ -367,7 +367,7 @@ async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
  * @param {string} fallbackPosted - Fallback posted date if extraction fails
  * @returns {Object} Object with description and posted date
  */
-async function extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber, fallbackPosted = 'Recently') {
+async function extractFromNextPage(page, applyLink, selector, originalUrl, jobNumber, fallbackPosted = 'null') {
   let retries = 2;
   
   while (retries > 0) {

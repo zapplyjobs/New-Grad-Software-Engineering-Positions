@@ -49,7 +49,7 @@ const SPECIAL_COMPANIES = {
  * Default job data structure
  */
 const JOB_DEFAULTS = {
-  POSTED_DATE: 'Recently',
+  POSTED_DATE: '',
   EMPTY_STRING: '',
 };
 

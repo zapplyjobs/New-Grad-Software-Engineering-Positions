@@ -5,7 +5,7 @@ const { filterJobsByLevel } = require("./job-fetcher/utils");
 const { filterSoftwareEngineeringJobs } = require("./job-fetcher/utils.js"); // NEW IMPORT
 const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { transformJobs, convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
+const { transformJobs } = require('../../jobboard/src/backend/output/jobTransformer.js');
 
 // Load company database
 const companies = JSON.parse(
@@ -22,37 +22,9 @@ const BATCH_CONFIG = {
   enableDetailedLogging: true      // Enable detailed logging for each scraper
 };
 
-function safeISOString(dateValue) {
-    console.log("Input dateValue:", dateValue);
-    if (!dateValue) return new Date().toISOString();
-    
-    try {
-        const date = new Date(dateValue);
-        console.log("Parsed date:", date);
-        console.log("Is valid:", !isNaN(date.getTime()));
-        if (isNaN(date.getTime())) {
-            console.log("Invalid date, returning current date");
-            return new Date().toISOString();
-        }
-        return date.toISOString();
-    } catch (error) {
-        console.log("Error:", error);
-        return new Date().toISOString();
-    }
-}
+
 
 // Function to create custom batch configuration
-function createBatchConfig(options = {}) {
-  return {
-    ...BATCH_CONFIG,
-    ...options
-  };
-}
-
-// Utility functions
-function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
 
 // Fetch jobs from all companies with real career API
 async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 3, batchConfig = BATCH_CONFIG) {
