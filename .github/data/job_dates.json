@@ -1,0 +1,434 @@
+{
+  "amd-software-development-engineer-san-jose-san-jose,-california-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-software-development-engineer-bellevue-2002-156th-avenue-bellevue,-washington-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-software-development-engineer---graphics-orlando-orlando,-florida-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Software Development Engineer - Graphics",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-system-software-engineer-for-ml-platform-santa-clara-santa-clara,-california-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "System Software Engineer for ML Platform",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-product-development-engineer-austin-austin,-texas-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Product Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-ai-software-engineer,-rocm-and-opensource-san-jose-san-jose,-california-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "AI Software Engineer, ROCm and Opensource",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-linux-kernel-software-engineer-austin-austin,-texas-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Linux Kernel Software Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "amd-c++-software-engineer,-ai-open-source-software-santa-clara-santa-clara,-california-us": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "C++ Software Engineer, AI Open-Source Software",
+    "company": "AMD",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "abb-r&d-associate-engineer-cleveland": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "R&D Associate Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "abb-application-engineer-westerville": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "Application Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "abb-dcs-application-engineer-westerville": {
+    "assigned_date": "2025-10-25T14:41:14.049Z",
+    "job_title": "DCS Application Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T14:41:14.049Z"
+  },
+  "arm-graduate-gpu-modeling-engineer-austin": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Graduate GPU Modeling Engineer",
+    "company": "Arm",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "arm-cpu-performance-–-emulation/benchmarking-engineer-austin": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "CPU Performance – Emulation/Benchmarking Engineer",
+    "company": "Arm",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "arm-design-automation-engineer---front-end-methodologies-&-design-flows-san-diego": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Design Automation Engineer - Front-End Methodologies & Design Flows",
+    "company": "Arm",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-ro-performance-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, RO Performance",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-ml-data-infrastructure-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, ML Data Infrastructure",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-planner,-route-and-motion-generation-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Planner, Route and Motion Generation",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-router-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Router",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-mapping-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Mapping",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-ml-compiler-engineer,-compute-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "ML Compiler Engineer, Compute",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-onboard-evaluation-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Onboard Evaluation",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-c++-edge-computers-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, C++ Edge Computers",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-software-engineer,-planner-vehicle-dynamics-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Planner Vehicle Dynamics",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "waymo-android-engineer-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Android Engineer",
+    "company": "Waymo",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-search-box-and-suggest,-android,-ios-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Search Box and Suggest, Android, iOS",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-search,-box-and-suggest-ios-los-angeles": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Search, Box and Suggest iOS",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-google-kubernetes-engine,-cloud-security-seattle": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Google Kubernetes Engine, Cloud Security",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-play-recommendation-and-ml-infrastructure-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Play Recommendation and ML Infrastructure",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-pixel-video-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Pixel Video",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-computational-photography,-video-and-generative-ai-": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Computational Photography, Video and Generative AI",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-full-stack,-guided-support-experience-sunnyvale": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Full Stack, Guided Support Experience",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-android-updatability-cambridge": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Android Updatability",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-mobile-threat-analysis-platform-atlanta": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Mobile Threat Analysis Platform",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-high-performance-computing-kirkland": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, High Performance Computing",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-machine-learning,-jules-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Machine Learning, Jules",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-biometrics,-imaging,-silicon-kirkland": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Biometrics, Imaging, Silicon",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-google-ads-auction-mechanisms-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Google Ads Auction Mechanisms",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-full-stack,-retail-ads-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Full Stack, Retail Ads",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-android-text-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Android Text",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-biglake,-iceberg-rest-catalog-kirkland": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, BigLake, Iceberg REST Catalog",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-engineering-productivity,-pixel-wearables-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Engineering Productivity, Pixel Wearables",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-embedded-systems,-firmware,-ambient-platform-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Embedded Systems, Firmware, Ambient Platform",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-sustainability-data-and-tech-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Sustainability Data and Tech",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-google-ads-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Google Ads",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-bigquery-metadata-kirkland": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, BigQuery Metadata",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-embedded-systems/firmware,-platforms-infrastructure-engineering-sunnyvale": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Embedded Systems/Firmware, Platforms Infrastructure Engineering",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-google-home-engineering-excellence-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Google Home Engineering Excellence",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-infrastructure,-platforms-infrastructure-engineering-sunnyvale": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Infrastructure, Platforms Infrastructure Engineering",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-biglake,-hybrid-streams-seattle": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, BigLake, Hybrid Streams",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-front-end,-google-store-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Front End, Google Store",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-google-cloud-business-platforms-seattle": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Google Cloud Business Platforms",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-infrastructure,-google-cloud-storage-raleigh": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Storage",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-phd,-early-career,-ai/machine-learning,-2026-start-sunnyvale": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer-iii,-engineering-productivity-seattle": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer III, Engineering Productivity",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "google-software-engineer,-embedded-systems,-firmware,-pixel-audio-mountain-view": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineer, Embedded Systems, Firmware, Pixel Audio",
+    "company": "Google",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "ibm-associate-quality-engineer---entry-level-(baton-rouge,-la)-baton-rouge": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Associate Quality Engineer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "ibm-associate-application-developer---entry-level-(baton-rouge,-la)-baton-rouge": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Associate Application Developer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-pmts-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering PMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-lmts-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-lmts-bellevue": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-smts-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering SMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-lmts/smts,-entsectech,-autonomous-iam-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-lmts-(service-mesh,-ingress-gateway)-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering LMTS (Service Mesh, Ingress Gateway)",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering,-frontend-(slack---multiple-levels)-atlanta": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering, Frontend (Slack - Multiple levels)",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-software-engineering-developer-ci-infrastructure-pmts-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Software Engineering Developer CI Infrastructure PMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-machine-learning-platform-engineer-": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Machine Learning Platform Engineer",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-lmts-platform-engineer---data-cloud-platform-san-francisco": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "LMTS Platform Engineer - Data Cloud Platform",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "salesforce-missionforce---associate-forward-deployed-engineer-(fde),-public-sector-herndon": {
+    "assigned_date": "2025-10-25T14:41:14.050Z",
+    "job_title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
+    "company": "Salesforce",
+    "first_seen": "2025-10-25T14:41:14.050Z"
+  },
+  "abb-proposal-engineer---mobile-robotics-auburn-hills": {
+    "assigned_date": "2025-10-25T15:02:38.573Z",
+    "job_title": "Proposal Engineer - Mobile Robotics",
+    "company": "ABB",
+    "first_seen": "2025-10-25T15:02:38.573Z"
+  },
+  "abb-quality-engineer-mount-juliet": {
+    "assigned_date": "2025-10-25T15:02:38.573Z",
+    "job_title": "Quality Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T15:02:38.573Z"
+  },
+  "abb-associate-application-engineer-alpharetta": {
+    "assigned_date": "2025-10-25T15:19:55.723Z",
+    "job_title": "Associate Application Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T15:19:55.723Z"
+  },
+  "micron-technology-dram-product-engineer-nassas": {
+    "assigned_date": "2025-10-25T15:36:47.667Z",
+    "job_title": "DRAM Product Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2025-10-25T15:36:47.667Z"
+  }
+}
