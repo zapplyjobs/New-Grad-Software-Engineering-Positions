@@ -152,11 +152,6 @@ function removeAddressComponents(text) {
  * Returns format: { city: string, state: string (abbreviation) }
  * Remote positions will have city: 'US - Remote', state: ''
  */
-/**
- * Parse and clean location text to extract city and state
- * Returns format: { city: string, state: string (abbreviation) }
- * Remote positions will have city: 'US - Remote', state: ''
- */
 function parseLocation(locationText) {
   // Handle null/empty cases
   if (!locationText || 
@@ -412,6 +407,7 @@ function parseLocation(locationText) {
 /**
  * Convert date string to relative format
  * Returns null if no valid date information is available
+ * Format: 1h, 2h, 3h...24h, 1d, 2d...6d, 1w, 2w...3w, 1mo, 2mo...
  */
 function convertDateToRelative(postedDate) {
   // Return null if input is empty, null, or undefined
@@ -441,8 +437,10 @@ function convertDateToRelative(postedDate) {
     return null;
   }
 
-  if (cleanedDate === 'today' || cleanedDate === 'yesterday') return '1d';
-  if (cleanedDate.includes('just') || cleanedDate.includes('recently') || cleanedDate.includes('now')) return '1h';
+  if (cleanedDate === 'today') return '1h';
+  if (cleanedDate === 'yesterday') return '1d';
+  if (cleanedDate.includes('just') || cleanedDate.includes('now')) return '1h';
+  if (cleanedDate.includes('recently')) return '1h';
 
   const daysPlusMatch = cleanedDate.match(/(\d+)\+?\s*days?/i);
   if (daysPlusMatch) {
@@ -463,11 +461,32 @@ function convertDateToRelative(postedDate) {
   if (match) {
     const number = parseInt(match[1]);
     const unit = match[2].toLowerCase();
-    if (unit.startsWith('h') || unit.includes('hour')) return `${number}h`;
-    if (unit.startsWith('min') || unit.includes('minute')) return number >= 60 ? `${Math.floor(number / 60)}h` : '1h';
-    if (unit.startsWith('d') || unit.includes('day')) return `${number}d`;
-    if (unit.startsWith('w') || unit.includes('week')) return `${number}w`;
-    if ((unit === 'm' || unit.startsWith('month')) && unit !== 'min') return `${number}mo`;
+    
+    if (unit.startsWith('h') || unit.includes('hour')) {
+      // Return hour by hour: 1h, 2h, 3h...24h
+      return `${Math.min(number, 24)}h`;
+    }
+    
+    if (unit.startsWith('min') || unit.includes('minute')) {
+      // Convert minutes to hours (rounded up)
+      const hours = Math.ceil(number / 60);
+      return `${Math.min(hours, 24)}h`;
+    }
+    
+    if (unit.startsWith('d') || unit.includes('day')) {
+      // Return day by day: 1d, 2d, 3d...
+      return `${number}d`;
+    }
+    
+    if (unit.startsWith('w') || unit.includes('week')) {
+      // Return week by week: 1w, 2w, 3w...
+      return `${number}w`;
+    }
+    
+    if ((unit === 'm' || unit.startsWith('month')) && unit !== 'min') {
+      // Return month by month: 1mo, 2mo, 3mo...
+      return `${number}mo`;
+    }
   }
 
   // Try to parse as a date
@@ -482,9 +501,22 @@ function convertDateToRelative(postedDate) {
   const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
-  if (diffHours < 24) return diffHours === 0 ? '1h' : `${diffHours}h`;
-  if (diffDays < 7) return `${diffDays}d`;
-  if (diffDays < 30) return `${Math.floor(diffDays / 7)}w`;
+  // Hour by hour for first 24 hours: 1h, 2h, 3h...24h
+  if (diffHours < 24) {
+    return diffHours === 0 ? '1h' : `${diffHours}h`;
+  }
+  
+  // Day by day for first week: 1d, 2d, 3d, 4d, 5d, 6d
+  if (diffDays < 7) {
+    return `${diffDays}d`;
+  }
+  
+  // Week by week for first month: 1w, 2w, 3w, 4w
+  if (diffDays < 30) {
+    return `${Math.floor(diffDays / 7)}w`;
+  }
+  
+  // Month by month after that: 1mo, 2mo, 3mo...
   return `${Math.floor(diffDays / 30)}mo`;
 }
 
@@ -498,12 +530,14 @@ function isJobOlderThanOneMonth(postedDate) {
   // If no date information is available, don't filter it out
   if (relativeDate === null) return false;
   
-  const match = relativeDate.match(/^(\d+)([hdwmo])$/i);
+  const match = relativeDate.match(/^(\d+)([hdwmo]+)$/i);
   if (!match) return true;
   
   const value = parseInt(match[1]);
   const unit = match[2].toLowerCase();
-  return unit === 'mo' && value >= 1;
+  
+  // Only filter out if it's months old
+  return unit.includes('mo') && value >= 1;
 }
 
 /**
