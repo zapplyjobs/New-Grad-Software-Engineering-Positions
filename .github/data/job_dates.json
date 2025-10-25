@@ -580,5 +580,17 @@
     "job_title": "Process Quality Engineer",
     "company": "ABB",
     "first_seen": "2025-10-25T16:32:38.886Z"
+  },
+  "abb-commissioning-engineer-remote": {
+    "assigned_date": "2025-10-25T17:58:02.425Z",
+    "job_title": "Commissioning Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T17:58:02.425Z"
+  },
+  "abb-is-software-developer-remote": {
+    "assigned_date": "2025-10-25T17:58:02.425Z",
+    "job_title": "IS Software Developer",
+    "company": "ABB",
+    "first_seen": "2025-10-25T17:58:02.425Z"
   }
 }
