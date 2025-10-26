@@ -646,5 +646,11 @@
     "job_title": "Field Service Engineer",
     "company": "ABB",
     "first_seen": "2025-10-26T15:43:49.839Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---dba,-oracle,-postgres,-java,-spring,-aws-plano": {
+    "assigned_date": "2025-10-26T21:15:12.660Z",
+    "job_title": "Software Engineer III - DBA, Oracle, Postgres, Java, Spring, AWS",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-10-26T21:15:12.660Z"
   }
 }
