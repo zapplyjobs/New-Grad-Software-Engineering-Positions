@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "ML Frameworks Software Development Engineer - vLLM",
+    "job_city": "Austin  Austin, Texas US",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Ability to work independently, define project goals and scope, and lead your own development effortDeep Learning experience or knowledge - Natural Language Processing, Vision, Audio, Recommendation systemsProgramming in High-Performance Domain-Specific Languages for GPU or ML ASIC Computing (HIP, CUDA, OpenCL, Triton, KNYFE, Mojo)Using debuggers (LLDB, GDB) and profilers on heterogeneous hardwarePyTorch or TensorFlowFamiliarity with ML Graph Compilers (Glow, FX, XLA) is a plusKnowledge of the lower levels of typical ML workflows from MLIR to LLVM all the way down to assembly language(s) is a plus Develop and finetune inference and serving engines for large language modelsCollaborate with AMD’s architecture specialists to improve future productsCollaborate with operator libraries team to analyze and optimize training and inference for deep learningWork in a distributed computing setting to optimize for both scale-up (multi-accelerator) and scale-out (multi-node) systemsOptimize the entire deep learning pipeline including graph compiler integrationParticipate in new ASIC and hardware bring upsApply your knowledge of software engineering best practices Functionality Cookies Switch Label labelThese cookies are used to recognize you when you return to the Sites.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• These cookies store data such as online identifiers (including IP address and device identifiers) along with the information used to provide the function.\n• AMD Partner Hub Authorized Distributors AMD University Program Master’s or PhD in Computer Science, Computer Engineering or related fields Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• The information is used to try to make the Sites, emails, and newsletters, and the advertising displayed on them and other websites more relevant to your interests.\n• For instance, when you visit the Sites, these targeting cookies are used by third party providers for remarketing purposes to allow them to show you advertisements for our products when you visit other websites on the internet.\n• Our third party providers may collect and combine information collected through the Sites, emails, and newsletters with other information about your visits to other websites and apps over time, if those websites and apps also use the same providers.\n• Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70926/login",
+    "id": "amd-ml-frameworks-software-development-engineer-vllm-austin-austin-texas-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Post-Silicon Software Tools Engineer",
+    "job_city": "Austin  Austin, Texas US",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "• Experience in creating, enhancing, and maintaining diagnostic tools for server stress testing.\n• Strong interpersonal and communication skills to collaborate with cross-functional teams, external vendors, and users.\n• Good technical writing and communication skills for creating documentation and training materials.\n• Project management skills to plan, prioritize, and execute tasks effectively, especially when working on multiple projects.\n• Support these tools with education and training.\n• Experience in clocking, reset, power-up sequences and power management.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Software development experience programming in C++ and assembly in a Linux based environment.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71909/login",
+    "id": "amd-post-silicon-software-tools-engineer-austin-austin-texas-us"
+  }
+]
