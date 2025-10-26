@@ -628,5 +628,23 @@
     "job_title": "Post-Silicon Software Tools Engineer",
     "company": "AMD",
     "first_seen": "2025-10-26T12:19:35.531Z"
+  },
+  "abb-field-service-engineer,-propulsion-miramar": {
+    "assigned_date": "2025-10-26T15:43:49.839Z",
+    "job_title": "Field Service Engineer, Propulsion",
+    "company": "ABB",
+    "first_seen": "2025-10-26T15:43:49.839Z"
+  },
+  "abb-field-service-engineer---drives-miramar": {
+    "assigned_date": "2025-10-26T15:43:49.839Z",
+    "job_title": "Field Service Engineer - Drives",
+    "company": "ABB",
+    "first_seen": "2025-10-26T15:43:49.839Z"
+  },
+  "abb-field-service-engineer-miramar": {
+    "assigned_date": "2025-10-26T15:43:49.839Z",
+    "job_title": "Field Service Engineer",
+    "company": "ABB",
+    "first_seen": "2025-10-26T15:43:49.839Z"
   }
 }
