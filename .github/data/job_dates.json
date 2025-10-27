@@ -736,5 +736,17 @@
     "job_title": "R2R Engineer",
     "company": "Micron Technology",
     "first_seen": "2025-10-27T21:42:39.171Z"
+  },
+  "jpmorgan-chase-software-engineer-wilmington": {
+    "assigned_date": "2025-10-27T21:57:39.890Z",
+    "job_title": "Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-10-27T21:57:39.890Z"
+  },
+  "micron-technology-mts-memory-sustaining-design-engineer,-hbm-richardson": {
+    "assigned_date": "2025-10-27T21:57:39.890Z",
+    "job_title": "MTS Memory Sustaining Design Engineer, HBM",
+    "company": "Micron Technology",
+    "first_seen": "2025-10-27T21:57:39.890Z"
   }
 }
