@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Remote Software Developer",
-    "job_city": "Any / Remote",
-    "job_state": "",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, Observability Platform (SMTS, LMTS)",
+    "job_city": "Bellevue",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Remote-Software-Developer_RQ208498?q=software+engineering",
-    "id": "general-dynamics-remote-software-developer-any-remote"
+    "job_description": "• A related technical degree required.\n• 5+ years of proven experience with supporting a codebase for distributed services implemented in Java and/or PythoExperience with automation of systems services and processes.\n• Excellent analytical and problem-solving skillsA long-standing practice of using Source Control (e.\n• Git) and unit testingExperience in publishing and consuming REST APIsCI/CD experience with JenkinsKnowledge of Linux (RedHat) including configuration, packages, services, daemons, shells, and troubleshootingExperience with configuration automation tools such as Ansible, Puppet, and/or Chef.\n• Experience in fast-paced, technical environments experiencing rapid growth and changeAbility to adapt, to be flexible, and to learn quickly in a dynamic environmentExcellent organizational skills including ability to prioritize tasks efficiently with high level of attention to detailAbility to work under tight deadlines while coordinating several projects at a time and responding to changing business and technical conditions Development experience in Clojure.\n• Experience with the monitoring and alerting of network infrastructure - routers, switches, load balancers, etc.\n• - in a high-availability, always-on datacenter environmentExperience with the monitoring and alerting of storage infrastructure - switches, arrays, etc - in a high-availability, always-on data center environmentExperience with container orchestration systems, i.\n• , Docker and KubernetesExperience with Terraform, Helm, and Spinnaker.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300816/software-engineer-observability-platform-smts-lmts/",
+    "id": "salesforce-software-engineer-observability-platform-smts-lmts-bellevue"
   }
 ]
