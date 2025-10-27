@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineer, Observability Platform (SMTS, LMTS)",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "• A related technical degree required.\n• 5+ years of proven experience with supporting a codebase for distributed services implemented in Java and/or PythoExperience with automation of systems services and processes.\n• Excellent analytical and problem-solving skillsA long-standing practice of using Source Control (e.\n• Git) and unit testingExperience in publishing and consuming REST APIsCI/CD experience with JenkinsKnowledge of Linux (RedHat) including configuration, packages, services, daemons, shells, and troubleshootingExperience with configuration automation tools such as Ansible, Puppet, and/or Chef.\n• Experience in fast-paced, technical environments experiencing rapid growth and changeAbility to adapt, to be flexible, and to learn quickly in a dynamic environmentExcellent organizational skills including ability to prioritize tasks efficiently with high level of attention to detailAbility to work under tight deadlines while coordinating several projects at a time and responding to changing business and technical conditions Development experience in Clojure.\n• Experience with the monitoring and alerting of network infrastructure - routers, switches, load balancers, etc.\n• - in a high-availability, always-on datacenter environmentExperience with the monitoring and alerting of storage infrastructure - switches, arrays, etc - in a high-availability, always-on data center environmentExperience with container orchestration systems, i.\n• , Docker and KubernetesExperience with Terraform, Helm, and Spinnaker.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300816/software-engineer-observability-platform-smts-lmts/",
-    "id": "salesforce-software-engineer-observability-platform-smts-lmts-bellevue"
-  }
-]
+[]
