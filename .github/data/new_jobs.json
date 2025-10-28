@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Commerce + Ecosystems",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer - Commerce + Ecosystems",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-commerce-ecosystems-redmond"
+  }
+]
