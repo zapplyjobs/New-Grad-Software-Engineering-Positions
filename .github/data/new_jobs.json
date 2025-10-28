@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Machine Learning Platform Engineer, LMTS",
-    "job_city": "",
-    "job_state": "NY",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
     "job_posted_at": "1h",
-    "job_description": "• Security & Compliance: Participate in security reviews and ensure all platform components adhere to security best practices and compliance requirements.\n• Proven experience as a Platform Engineer, Software Engineer, or ML Infrastructure Engineer.\n• Strong software engineering skills, particularly with Python, for building scalable tools, automation scripts, and platform components.\n• Extensive experience with CI/CD tools, especially GitHub Actions and ArgoCDProficiency in infrastructure-as-code principles and tools (e.\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• , Istio)Experience with MLOps concepts and tools.\n• Experience with monitoring and alerting systems (Grafana, PagerDuty).\n• Experience with tenant and project onboarding processes in a multi-tenant environment.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer-lmts/",
-    "id": "salesforce-machine-learning-platform-engineer-lmts-"
+    "job_description": "• ‘Wherever Computing Happens’, we need to enable Arm by providing software solutions that interface higher-level software stacks with the hardware itself.\n• Experience in development and maintenance of product quality firmware with good knowledge of bootloaders and device drivers.\n• Experience in providing support and maintenance of production quality firmware in server segment.\n• Expert in C programming for embedded systems with excellent debugging skills.\n• Server firmware development experience.\n• “Nice To Have” Skills and Experience: Required Skills and Experience: Experienced Professionals.\n• Technology built on Arm is all around us, from industrial and automotive applications, to the IoT, to the desktop and data center.\n• Familiarity with technologies such as RAS, hypervisors, CXL, power management and security.",
+    "job_apply_link": "https://careers.arm.com/job/austin/software-engineer/33099/77745466144",
+    "id": "arm-software-engineer-austin"
   }
 ]
