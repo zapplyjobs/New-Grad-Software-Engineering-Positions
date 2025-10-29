@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering SMTS",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "• You have experience developing high-scale, highly-available services in cloud-hosted environments.\n• Familiarity with both Linux and Windows environments is preferred, along with an understanding of AI concepts such as large language models (LLMs), agentic AI, and associated tooling.\n• Demonstrates an understanding of AI concepts such as large language models (LLMs) and agentic AI, with experience leveraging AI tools in both design and development workflows.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• You are well-versed in modern DevOps practices for supporting services in production and in techniques for building robust, fault-tolerant distributed systems.\n• Technical: You are proficient in C++ and JAVA, and comfortable working with complex, multithreaded codebases.\n• You bring strong expertise in API design and data modeling.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296451/software-engineering-smts/",
+    "id": "salesforce-software-engineering-smts-seattle"
+  }
+]
