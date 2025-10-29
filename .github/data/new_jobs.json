@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Driver Development Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science or related field.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628891-0836/software-driver-development-engineer?team=SFTWR",
+    "id": "apple-software-driver-development-engineer-cupertino"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer - Windows + Devices, Windows Cloud Experience (WCX)",
+    "job_apply_link": "https://jobs.careers.microsoft.com",
+    "id": "microsoft-software-engineer-windows-devices-windows-cloud-experience-wcx-redmond"
+  }
+]
