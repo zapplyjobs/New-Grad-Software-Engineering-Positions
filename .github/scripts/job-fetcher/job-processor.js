@@ -542,6 +542,27 @@ async function processJobs() {
         // Filter for truly new jobs (not previously seen)
         const freshJobs = currentJobs.filter(job => !seenIds.has(job.id));
         
+        // Sort fresh jobs by recency (most recent first)
+        freshJobs.sort((a, b) => {
+            // Parse relative dates to approximate timestamps
+            const getTimestamp = (posted) => {
+                if (!posted) return 0;
+                const match = posted.match(/^(\d+)([hdwmo])$/i);
+                if (!match) return 0;
+                const value = parseInt(match[1]);
+                const unit = match[2].toLowerCase();
+                const now = Date.now();
+                switch (unit) {
+                    case 'h': return now - (value * 60 * 60 * 1000);
+                    case 'd': return now - (value * 24 * 60 * 60 * 1000);
+                    case 'w': return now - (value * 7 * 24 * 60 * 60 * 1000);
+                    case 'mo': return now - (value * 30 * 24 * 60 * 60 * 1000);
+                    default: return now;
+                }
+            };
+            return getTimestamp(b.job_posted_at) - getTimestamp(a.job_posted_at);
+        });
+        
         if (freshJobs.length === 0) {
             console.log('ℹ️ No new jobs found - all current openings already processed');
             // Write empty array to clear stale data
