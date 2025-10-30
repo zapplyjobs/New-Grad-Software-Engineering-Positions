@@ -51,6 +51,7 @@ const CITY_TO_STATE = {
   'garland': 'TX', 'lubbock': 'TX', 'amarillo': 'TX', 'grand prairie': 'TX',
   'round rock': 'TX', 'richardson': 'TX', 'spring': 'TX', 'sugar land': 'TX',
   'pearland': 'TX', 'the woodlands': 'TX', 'league city': 'TX', 'waco': 'TX',
+  'addison': 'TX',
   
   // New York
   'new york': 'NY', 'brooklyn': 'NY', 'queens': 'NY', 'manhattan': 'NY',
@@ -62,7 +63,7 @@ const CITY_TO_STATE = {
   'boston': 'MA', 'cambridge': 'MA', 'somerville': 'MA', 'worcester': 'MA',
   'lowell': 'MA', 'springfield': 'MA', 'newton': 'MA', 'quincy': 'MA',
   'lynn': 'MA', 'framingham': 'MA', 'waltham': 'MA', 'brookline': 'MA',
-  'wilmington': 'MA',
+  'wilmington': 'MA', 'chelmsford': 'MA', 'hopkinton': 'MA',
   
   // Illinois
   'chicago': 'IL', 'naperville': 'IL', 'peoria': 'IL', 'springfield': 'IL',
@@ -77,7 +78,7 @@ const CITY_TO_STATE = {
   // Colorado
   'denver': 'CO', 'boulder': 'CO', 'colorado springs': 'CO', 'aurora': 'CO',
   'fort collins': 'CO', 'lakewood': 'CO', 'thornton': 'CO', 'arvada': 'CO',
-  'westminster': 'CO', 'centennial': 'CO', 'highlands ranch': 'CO',
+  'westminster': 'CO', 'centennial': 'CO', 'highlands ranch': 'CO', 'longmont': 'CO',
   
   // Arizona
   'phoenix': 'AZ', 'tucson': 'AZ', 'mesa': 'AZ', 'chandler': 'AZ', 'scottsdale': 'AZ',
@@ -104,7 +105,7 @@ const CITY_TO_STATE = {
   
   // Michigan
   'detroit': 'MI', 'ann arbor': 'MI', 'grand rapids': 'MI', 'lansing': 'MI',
-  'warren': 'MI', 'sterling heights': 'MI', 'flint': 'MI', 'dearborn': 'MI',
+  'warren': 'MI', 'sterling heights': 'MI', 'flint': 'MI', 'dearborn': 'MI', 'novi': 'MI',
   
   // Minnesota
   'minneapolis': 'MN', 'st paul': 'MN', 'saint paul': 'MN', 'duluth': 'MN',
@@ -121,6 +122,7 @@ const CITY_TO_STATE = {
   // North Carolina
   'raleigh': 'NC', 'charlotte': 'NC', 'durham': 'NC', 'cary': 'NC', 'greensboro': 'NC',
   'winston-salem': 'NC', 'fayetteville': 'NC', 'wilmington': 'NC', 'asheville': 'NC',
+  'research triangle park': 'NC',
   
   // Indiana
   'indianapolis': 'IN', 'fort wayne': 'IN', 'evansville': 'IN', 'south bend': 'IN',
@@ -144,6 +146,7 @@ const CITY_TO_STATE = {
   
   // Oklahoma
   'oklahoma city': 'OK', 'tulsa': 'OK', 'norman': 'OK', 'broken arrow': 'OK',
+  'bartlesville': 'OK',
   
   // New Mexico
   'albuquerque': 'NM', 'santa fe': 'NM', 'las cruces': 'NM', 'rio rancho': 'NM',
@@ -167,6 +170,7 @@ const CITY_TO_STATE = {
   
   // Nebraska
   'omaha': 'NE', 'lincoln': 'NE', 'bellevue': 'NE', 'grand island': 'NE',
+  'offutt afb': 'NE',
   
   // Hawaii
   'honolulu': 'HI', 'hilo': 'HI', 'kailua': 'HI', 'kapolei': 'HI',
@@ -230,7 +234,6 @@ const CITY_TO_STATE = {
  */
 function cleanJobTitle(title) {
   if (!title) return title;
-
   return title
     .replace(/\|/g, ' - ')
     .replace(/\n/g, ' ')
@@ -272,7 +275,7 @@ function normalizeState(state) {
  */
 function removeAddressComponents(text) {
   return text
-    // Remove street numbers and street types
+    // Remove complete street addresses with numbers
     .replace(/\b\d+\s+[A-Za-z]+\s+(Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Boulevard|Blvd|Lane|Ln|Court|Ct|Circle|Cir|Parkway|Pkwy|Way)\b/gi, '')
     // Remove suite/unit numbers
     .replace(/\b(Suite|Ste|Unit|Apt|#)\s*\d+\w*/gi, '')
@@ -285,25 +288,20 @@ function removeAddressComponents(text) {
 
 /**
  * CRITICAL: Remove ALL duplicate city patterns
- * Handles: "Orlando Orlando", "San Jose  San Jose", "Austin, Austin"
  */
 function removeDuplicateCities(text) {
   if (!text) return text;
   
-  // Remove duplicate words with multiple spaces between them
-  // Matches: "San Jose  San Jose" -> "San Jose"
+  // Remove duplicate words with multiple spaces
   text = text.replace(/\b([A-Za-z]+(?:\s+[A-Za-z]+)?)\s{2,}\1\b/gi, '$1');
   
-  // Remove duplicate words with single space between them
-  // Matches: "Orlando Orlando" -> "Orlando"
+  // Remove duplicate words with single space
   text = text.replace(/\b([A-Za-z]+(?:\s+[A-Za-z]+)?)\s+\1\b/gi, '$1');
   
   // Remove duplicates across comma boundaries
-  // Matches: "Austin, Austin" -> "Austin"
   text = text.replace(/\b([A-Za-z]+(?:\s+[A-Za-z]+)?)\s*,\s*\1\b/gi, '$1');
   
   // Remove duplicate multi-word cities at the beginning
-  // Matches: "San Jose San Jose, CA" -> "San Jose, CA"
   text = text.replace(/^([A-Za-z]+\s+[A-Za-z]+)\s+\1\b/gi, '$1');
   
   return text.trim();
@@ -311,9 +309,6 @@ function removeDuplicateCities(text) {
 
 /**
  * Clean city name by removing state names and country identifiers
- * Handles: "San Jose, California US" -> "San Jose"
- *          "Orlando, Florida US" -> "Orlando"
- *          "Bellevue 2002 156th Avenue Bellevue, Washington US" -> "Bellevue"
  */
 function cleanCityName(cityText) {
   if (!cityText) return cityText;
@@ -323,28 +318,26 @@ function cleanCityName(cityText) {
   // Remove complete parenthetical phrases
   cleaned = cleaned.replace(/\s*\([^)]*\)/g, '').trim();
   
-  // NEW: Handle incomplete parentheses by removing from '(' to end
+  // Handle incomplete parentheses
   cleaned = cleaned.replace(/\s*\(.*$/g, '').trim();
   
-  // Remove "US" or "USA" at the end (only when they appear as separate words)
+  // Remove "US" or "USA" at the end
   cleaned = cleaned.replace(/,?\s*\b(US|USA|U\.S\.A?)\b\s*$/i, '');
   
   // Remove state names (full names) at the end - only when preceded by comma
   Object.keys(STATE_ABBREVIATIONS).forEach(stateName => {
     const escapedState = stateName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // Only match state names when they are separate words after a comma
     const statePattern = new RegExp(`,\\s*\\b${escapedState}\\b\\s*$`, 'gi');
     cleaned = cleaned.replace(statePattern, '');
   });
   
   // Remove state abbreviations at the end - only when preceded by comma
   VALID_STATE_ABBREVS.forEach(abbrev => {
-    // Only match state abbreviations when they are separate words after a comma
     const abbrevPattern = new RegExp(`,\\s*\\b${abbrev}\\b\\s*$`, 'gi');
     cleaned = cleaned.replace(abbrevPattern, '');
   });
   
-  // Clean up any trailing commas or spaces
+  // Clean up trailing commas or spaces
   cleaned = cleaned.replace(/[,\s]+$/, '').trim();
   
   return cleaned;
@@ -357,16 +350,18 @@ function cleanCityName(cityText) {
  */
 function parseLocation(locationText) {
   // Handle null/empty cases
-  if (!locationText || 
-      locationText === 'null' || 
-      locationText.trim() === '' || 
+  if (!locationText ||
+      locationText === 'null' ||
+      locationText.trim() === '' ||
       locationText.toLowerCase().trim() === 'null') {
     return { city: 'US - Remote', state: '' };
   }
 
-  // Enhanced initial cleaning to handle scraped data with prefixes/suffixes
+  // Enhanced initial cleaning - remove common prefixes and noise
   let cleanLocation = locationText
-    .replace(/locations?/gi, ' ')  // Remove "locations" or "location" even without space after
+    .replace(/__/g, '') // Remove markdown underscores
+    .replace(/\*/g, '') // Remove asterisks
+    .replace(/locations?/gi, ' ')
     .replace(/Location\s*/gi, '')
     .replace(/posted\s+on/gi, '')
     .replace(/posted\s+/gi, '')
@@ -381,10 +376,9 @@ function parseLocation(locationText) {
 
   // STEP 1: Remove ALL duplicate city patterns EARLY
   cleanLocation = removeDuplicateCities(cleanLocation);
-
   const lowerText = cleanLocation.toLowerCase().trim();
 
-  // Check for remote patterns FIRST - enhanced for various "US - Remote" variations
+  // Check for remote patterns FIRST
   const remotePatterns = [
     /^remote$/i,
     /^remote[,\s]*$/i,
@@ -396,18 +390,19 @@ function parseLocation(locationText) {
     /^remote\s*-?\s*usa$/i,
     /^work\s*from\s*home$/i,
     /^wfh$/i,
+    /^off-?site$/i,
     /🏠/,
     /remote.*any location/i,
     /remote.*any state/i,
     /remote\s*\(.*any.*location.*/i,
-    // NEW: General match for "US - Remote" regardless of suffix
     /^us\s*-\s*remote/i,
     /us\s*-\s*remote\s*\(.*location.*/i,
     /remote\s*\(any location\)/i,
-    // Additional for incomplete or varied formats
-    /remote\s*\(.*any.*/i
+    /remote\s*\(.*any.*/i,
+    /any\s*location\s*\/\s*remote/i,
+    /california.*remote/i,
   ];
-  
+
   for (const pattern of remotePatterns) {
     if (pattern.test(cleanLocation)) {
       return { city: 'US - Remote', state: '' };
@@ -418,18 +413,29 @@ function parseLocation(locationText) {
   const multipleLocationPatterns = [
     /multiple\s+(cities|locations|sites|position)/i,
     /various\s+(cities|locations)/i,
+    /various\s+locations\s+within/i,
     /all\s+locations/i,
     /nationwide/i,
     /\bmulti-location\b/i,
     /several\s+(cities|locations)/i,
-    /\d+\s+(locations|cities|sites|offices)/i,
-    /(locations|cities|sites|offices)\s+\d+/i
+    /^\d+\s+(locations|cities|sites|offices)$/i,
+    /^(locations|cities|sites|offices)\s+\d+$/i,
+    /^\d+\s+locations?$/i,
+    /^multiple\s+locations?$/i,
+    /^multiple$/i,
+    /within\s+(united\s+states|us|usa)$/i,
+    /^(professional|entry\s+level|internship)\s+/i,
   ];
-  
+
   for (const pattern of multipleLocationPatterns) {
     if (pattern.test(lowerText)) {
       return { city: 'Multiple Cities', state: '' };
     }
+  }
+
+  // Handle "X Locations" format
+  if (/^\d+\s+locations?$/i.test(cleanLocation)) {
+    return { city: 'Multiple Cities', state: '' };
   }
 
   // STEP 2: Remove address components
@@ -467,6 +473,31 @@ function parseLocation(locationText) {
     return { city: 'Multiple Cities', state: '' };
   }
 
+  // Handle "State - City" format (e.g., "California - San Francisco")
+  const stateDashCityMatch = cleanLocation.match(/^([A-Za-z\s]+?)\s*-\s*(.+)$/i);
+  if (stateDashCityMatch) {
+    const part1 = stateDashCityMatch[1].trim();
+    const part2 = stateDashCityMatch[2].trim();
+    
+    const state1 = normalizeState(part1);
+    
+    // If first part is a state, second part is city
+    if (state1) {
+      const city = removeDuplicateCities(part2);
+      return { city, state: state1 };
+    }
+  }
+
+  // Handle "State/State - City" format
+  const multiStateMatch = cleanLocation.match(/^([A-Za-z\s]+)\/([A-Za-z\s]+)\s*-\s*([A-Za-z\s]+)$/i);
+  if (multiStateMatch) {
+    const state1 = normalizeState(multiStateMatch[1].trim());
+    const city = removeDuplicateCities(multiStateMatch[3].trim());
+    if (state1) {
+      return { city, state: state1 };
+    }
+  }
+
   // NON-LOCATION KEYWORDS
   const nonLocationKeywords = [
     'full time', 'full-time', 'fulltime', 'part time', 'part-time', 'parttime',
@@ -479,7 +510,8 @@ function parseLocation(locationText) {
     'role', 'roles', 'job', 'jobs', 'opportunity', 'opportunities', 'opening', 'openings',
     'posting', 'postings', 'vacancy', 'vacancies',
     'entry level', 'entrylevel', 'entry-level', 'junior', 'mid level', 'mid-level', 'midlevel',
-    'senior', 'sr', 'lead', 'principal', 'staff', 'architect', 'fellow', 'intern', 'internship'
+    'senior', 'sr', 'lead', 'principal', 'staff', 'architect', 'fellow', 'intern', 'internship',
+    'professional', 'hq'
   ];
 
   // Remove non-location keywords
@@ -495,7 +527,43 @@ function parseLocation(locationText) {
     });
   });
 
-  // Handle "US/USA, State, City" or "US/USA, City, State" patterns
+  // Handle compact format with no spaces: "WashingtonBellevue" -> extract using city mapping
+  if (!/[,\s]/.test(cleanLocation) && cleanLocation.length > 15) {
+    // Try to find known cities in the string
+    const lowerLoc = cleanLocation.toLowerCase();
+    for (const [city, state] of Object.entries(CITY_TO_STATE)) {
+      if (lowerLoc.includes(city.replace(/\s/g, ''))) {
+        return { city: city.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '), state };
+      }
+    }
+  }
+
+  // Handle "USA-State-City-Address" format
+  const usaStateCity = cleanLocation.match(/^USA[,\s-]+([A-Z]{2})[,\s-]+([^,]+?)(?:[,\s-]+.*)?$/i);
+  if (usaStateCity) {
+    const state = normalizeState(usaStateCity[1]);
+    const city = removeDuplicateCities(usaStateCity[2].trim());
+    if (state) {
+      return { city, state };
+    }
+  }
+
+  // Handle "USA State City" format (space separated)
+  const usaSpaceFormat = cleanLocation.match(/^USA\s+([A-Z]{2})\s+(.+)$/i);
+  if (usaSpaceFormat) {
+    const state = normalizeState(usaSpaceFormat[1]);
+    let cityPart = usaSpaceFormat[2].trim();
+    
+    // Remove any trailing address-like components
+    cityPart = cityPart.split(/\s+\d+\s+/)[0].trim();
+    
+    const city = removeDuplicateCities(cityPart);
+    if (state) {
+      return { city, state };
+    }
+  }
+
+  // Handle "US, State, City" format
   const usStateCityMatch = cleanLocation.match(/^(US|USA)[,\s]+([^,]+)[,\s]+(.+)$/i);
   if (usStateCityMatch) {
     const part1 = removeDuplicateCities(usStateCityMatch[2].trim());
@@ -521,7 +589,7 @@ function parseLocation(locationText) {
     return { city: part2, state: state2 || part1 };
   }
 
-  // Handle "US/USA, State" pattern
+  // Handle "US, State" format
   const usStateMatch = cleanLocation.match(/^(US|USA)[,\s]+(.+)$/i);
   if (usStateMatch) {
     const statePart = removeDuplicateCities(usStateMatch[2].trim());
@@ -539,6 +607,16 @@ function parseLocation(locationText) {
     return { city: statePart, state: '' };
   }
 
+  // Handle "US - State, City" format
+  const usDashStateCity = cleanLocation.match(/^(US|USA)\s*-\s*([A-Z]{2}),\s*(.+)$/i);
+  if (usDashStateCity) {
+    const state = normalizeState(usDashStateCity[2]);
+    const city = removeDuplicateCities(usDashStateCity[3].trim());
+    if (state) {
+      return { city, state };
+    }
+  }
+
   // Handle "United States + N more" patterns
   cleanLocation = cleanLocation
     .replace(/United States\s*\+\s*\d+\s*more[,\s]*/gi, '')
@@ -548,25 +626,30 @@ function parseLocation(locationText) {
 
   // Remove country identifiers
   cleanLocation = cleanLocation
+    .replace(/,?\s*United States\s*of\s*America\s*$/i, '')
     .replace(/,?\s*United States\s*$/i, '')
     .replace(/,?\s*USA\s*$/i, '')
     .replace(/,?\s*U\.S\.A\.?\s*$/i, '')
     .replace(/,?\s*\bUS\b\s*$/i, '')
     .trim();
 
-  // Final cleaning - but skip the dash to comma replace to avoid breaking "US - Remote"
+  // Handle "+ N locations" or "+ N more" or "+ N other locations"
+  cleanLocation = cleanLocation
+    .replace(/\s*\+\s*\d+\s*(more|locations?|other\s+locations?)$/i, '')
+    .trim();
+
+  // Final cleaning
   cleanLocation = cleanLocation
     .replace(/\s+/g, ' ')
     .replace(/,+/g, ',')
     .replace(/\s*,\s*/g, ', ')
     .replace(/^[,\s\-:;|]+|[,\s\-:;|]+$/g, '')
-    // COMMENTED OUT TO AVOID BREAKING "US - Remote": .replace(/\s+-\s+/g, ', ')
     .trim();
 
   // STEP 6: Final duplicate removal after all cleaning
   cleanLocation = removeDuplicateCities(cleanLocation);
 
-  // Re-check remote and multiple after all cleaning (in case cleaning helped)
+  // Re-check remote and multiple after all cleaning
   for (const pattern of remotePatterns) {
     if (pattern.test(cleanLocation)) {
       return { city: 'US - Remote', state: '' };
@@ -579,16 +662,10 @@ function parseLocation(locationText) {
     }
   }
 
-  // Handle dash separated locations (State - City)
-  const dashMatch = cleanLocation.match(/^(.+?)\s*-\s*(.+)$/i);
-  if (dashMatch) {
-    const stateFull = dashMatch[1].trim();
-    const cityCandidate = dashMatch[2].trim();
-    const stateAbbrev = normalizeState(stateFull);
-    if (stateAbbrev) {
-      const city = removeDuplicateCities(cityCandidate);
-      return { city, state: stateAbbrev };
-    }
+  // Handle multiple cities in one string: "City1, State1; City2, State2" - return first
+  if (cleanLocation.includes(';')) {
+    const firstLocation = cleanLocation.split(';')[0].trim();
+    return parseLocation(firstLocation); // Recursive call for first location
   }
 
   // Check if too short or invalid
@@ -597,10 +674,10 @@ function parseLocation(locationText) {
   }
 
   // Check for generic/multiple terms
-  const genericTerms = ['us', 'usa', 'u.s.', 'u.s.a', 'united states', 'tbd', 'tba', 'n/a', 'na'];
+  const genericTerms = ['us', 'usa', 'u.s.', 'u.s.a', 'united states', 'tbd', 'tba', 'n/a', 'na', 'city'];
   const multipleTerms = ['multiple', 'various', 'all', 'any', 'nationwide', 'national'];
   
-  if (multipleTerms.includes(cleanLocation.toLowerCase()) || 
+  if (multipleTerms.includes(cleanLocation.toLowerCase()) ||
       genericTerms.includes(cleanLocation.toLowerCase())) {
     return { city: 'Multiple Cities', state: '' };
   }
@@ -652,7 +729,7 @@ function parseLocation(locationText) {
         return { city: part2, state: autoState2 };
       }
       
-      // If duplicates (e.g., "Austin, Austin"), just use once
+      // If duplicates, just use once
       if (part1.toLowerCase() === part2.toLowerCase()) {
         const autoState = getStateForCity(part1);
         return { city: part1, state: autoState || '' };
@@ -709,7 +786,7 @@ function convertDateToRelative(postedDate) {
 
   // Return null for generic/vague terms
   const invalidTerms = [
-    'not specified', 'n/a', 'na', 'none', 'unknown', 
+    'not specified', 'n/a', 'na', 'none', 'unknown',
     'null', 'undefined', 'tbd', 'tba', ''
   ];
   
@@ -873,8 +950,8 @@ function transformJobs(jobs, searchQuery, saveToFile = true, outputPath = null) 
 
     try {
       fs.writeFileSync(
-        finalOutputPath, 
-        JSON.stringify(transformedJobs, null, 2), 
+        finalOutputPath,
+        JSON.stringify(transformedJobs, null, 2),
         'utf8'
       );
       console.log(`✓ Saved ${transformedJobs.length} transformed jobs to ${finalOutputPath}`);
