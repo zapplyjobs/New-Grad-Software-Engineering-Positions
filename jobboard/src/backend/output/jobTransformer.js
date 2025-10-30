@@ -579,6 +579,18 @@ function parseLocation(locationText) {
     }
   }
 
+  // Handle dash separated locations (State - City)
+  const dashMatch = cleanLocation.match(/^(.+?)\s*-\s*(.+)$/i);
+  if (dashMatch) {
+    const stateFull = dashMatch[1].trim();
+    const cityCandidate = dashMatch[2].trim();
+    const stateAbbrev = normalizeState(stateFull);
+    if (stateAbbrev) {
+      const city = removeDuplicateCities(cityCandidate);
+      return { city, state: stateAbbrev };
+    }
+  }
+
   // Check if too short or invalid
   if (!cleanLocation || cleanLocation.length < 2) {
     return { city: 'Multiple Cities', state: '' };
