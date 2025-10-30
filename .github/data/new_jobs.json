@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Cloud AI Security and Compliance",
-    "job_city": "Sunnyvale",
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Test Infrastructure",
+    "job_city": "San Diego",
     "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Cloud AI Security and Compliance",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89840807564976838-software-engineer-iii-cloud-ai-security-and-compliance?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-cloud-ai-security-and-compliance-sunnyvale"
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsStrong understanding of software development lifecycles, methodologies, and best practices.\n• Advanced programming skills in a language like Swift, Python, Go, or Objective-C.\n• 2 plus years of industry experience building automation frameworks, test infrastructure, or backend services.\n• Excellent communication and collaboration skills.\n• Bachelor's degree in Computer Science or equivalent experience building software.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628824-3543/software-engineer-test-infrastructure?team=SFTWR",
+    "id": "apple-software-engineer-test-infrastructure-san-diego"
   }
 ]
