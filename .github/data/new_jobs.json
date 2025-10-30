@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Test Infrastructure",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsStrong understanding of software development lifecycles, methodologies, and best practices.\n• Advanced programming skills in a language like Swift, Python, Go, or Objective-C.\n• 2 plus years of industry experience building automation frameworks, test infrastructure, or backend services.\n• Excellent communication and collaboration skills.\n• Bachelor's degree in Computer Science or equivalent experience building software.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628824-3543/software-engineer-test-infrastructure?team=SFTWR",
+    "id": "apple-software-engineer-test-infrastructure-san-diego"
+  }
+]
