@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Machine Learning Platform Engineer, LMTS",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "• Security & Compliance: Participate in security reviews and ensure all platform components adhere to security best practices and compliance requirements.\n• Proven experience as a Platform Engineer, Software Engineer, or ML Infrastructure Engineer.\n• Strong software engineering skills, particularly with Python, for building scalable tools, automation scripts, and platform components.\n• Extensive experience with CI/CD tools, especially GitHub Actions and ArgoCDProficiency in infrastructure-as-code principles and tools (e.\n• Experience with containerization technologies (Docker) and orchestration (Kubernetes).\n• , Istio)Experience with MLOps concepts and tools.\n• Experience with monitoring and alerting systems (Grafana, PagerDuty).\n• Experience with tenant and project onboarding processes in a multi-tenant environment.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer-lmts/",
+    "id": "salesforce-machine-learning-platform-engineer-lmts-new-york"
+  }
+]
