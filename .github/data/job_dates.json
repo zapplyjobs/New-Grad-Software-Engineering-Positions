@@ -1084,5 +1084,59 @@
     "job_title": "Graduate - Analog Engineer",
     "company": "Infineon Technologies",
     "first_seen": "2025-10-30T17:45:23.743Z"
+  },
+  "amd-software-development-engineer-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-software-development-engineer---graphics-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Software Development Engineer - Graphics",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-system-software-engineer-for-ml-platform-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "System Software Engineer for ML Platform",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-product-development-engineer-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Product Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-ai-software-engineer,-rocm-and-opensource-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "AI Software Engineer, ROCm and Opensource",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-linux-kernel-software-engineer-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Linux Kernel Software Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "amd-c++-software-engineer,-ai-open-source-software-": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "C++ Software Engineer, AI Open-Source Software",
+    "company": "AMD",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "google-software-engineer,-chrome,-macos-new-york": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Software Engineer, Chrome, macOS",
+    "company": "Google",
+    "first_seen": "2025-10-30T18:40:00.958Z"
+  },
+  "google-software-engineer,-geo-data-new-york": {
+    "assigned_date": "2025-10-30T18:40:00.958Z",
+    "job_title": "Software Engineer, Geo Data",
+    "company": "Google",
+    "first_seen": "2025-10-30T18:40:00.958Z"
   }
 }
