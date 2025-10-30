@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer",
+    "job_city": "Beaverton",
+    "job_state": "OR",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum Qualifications10+ years of Software development experienceProficiency in a modern programming language like Swift, Objective-C, C++, Python.\n• With a proven track record of delivering high-quality software5+ years of Devops experience, with focus on integrated development/deployment toolchains.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200628813-0505/software-development-engineer?team=HRDWR",
+    "id": "apple-software-development-engineer-beaverton"
+  }
+]
