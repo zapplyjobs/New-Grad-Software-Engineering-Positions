@@ -307,7 +307,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 21 positions
-- **San Francisco, CA**: 9 positions
+- **San Francisco, CA**: 8 positions
 - **Seattle, WA**: 6 positions
 - **Austin, TX**: 5 positions
 - **Plano, TX**: 5 positions
