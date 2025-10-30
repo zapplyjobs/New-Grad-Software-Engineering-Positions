@@ -1060,5 +1060,29 @@
     "job_title": "AWS/Scala/Python Software Engineer",
     "company": "JPMorgan Chase",
     "first_seen": "2025-10-30T17:05:42.266Z"
+  },
+  "ibm-software-engineer-apprentince-research-triangle-park": {
+    "assigned_date": "2025-10-30T17:45:23.742Z",
+    "job_title": "Software Engineer Apprentince",
+    "company": "IBM",
+    "first_seen": "2025-10-30T17:45:23.742Z"
+  },
+  "salesforce-software-engineering-lmts-burlington": {
+    "assigned_date": "2025-10-30T17:45:23.743Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T17:45:23.743Z"
+  },
+  "salesforce-localization-engineer-mts-burlington": {
+    "assigned_date": "2025-10-30T17:45:23.743Z",
+    "job_title": "Localization Engineer MTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T17:45:23.743Z"
+  },
+  "infineon-technologies-graduate---analog-engineer-warwick": {
+    "assigned_date": "2025-10-30T17:45:23.743Z",
+    "job_title": "Graduate - Analog Engineer",
+    "company": "Infineon Technologies",
+    "first_seen": "2025-10-30T17:45:23.743Z"
   }
 }
