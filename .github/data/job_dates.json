@@ -892,5 +892,143 @@
     "job_title": "Software Engineer, Vertex Model Garden",
     "company": "Google",
     "first_seen": "2025-10-30T07:52:54.588Z"
+  },
+  "amd-software-development-engineer-san-jose": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-software-development-engineer-bellevue-2002-156th-avenue-bellevue": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-software-development-engineer---graphics-orlando": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Software Development Engineer - Graphics",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-system-software-engineer-for-ml-platform-santa-clara": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "System Software Engineer for ML Platform",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-product-development-engineer-austin": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Product Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-ai-software-engineer,-rocm-and-opensource-san-jose": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "AI Software Engineer, ROCm and Opensource",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-linux-kernel-software-engineer-austin": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Linux Kernel Software Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "amd-c++-software-engineer,-ai-open-source-software-santa-clara": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "C++ Software Engineer, AI Open-Source Software",
+    "company": "AMD",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "rivian-security-firmware-engineer-palo-alto": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "Security Firmware Engineer",
+    "company": "RIVIAN",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "rivian-ml-compiler-engineer-palo-alto": {
+    "assigned_date": "2025-10-30T12:14:07.466Z",
+    "job_title": "ML Compiler Engineer",
+    "company": "RIVIAN",
+    "first_seen": "2025-10-30T12:14:07.466Z"
+  },
+  "ibm-associate-quality-engineer--entry-level-(lansing,-mi)-lansing": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Associate Quality Engineer- Entry Level (Lansing, MI)",
+    "company": "IBM",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "ibm-associate-application-developer---entry-level-(lansing,-mi)-lansing": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Associate Application Developer - Entry Level (Lansing, MI)",
+    "company": "IBM",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-smts-washington---seattle": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering SMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-mts-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering MTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-pmts-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering PMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-lmts-(service-mesh,-ingress-gateway)-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering LMTS (Service Mesh, Ingress Gateway)",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineer,-observability-platform-(smts,-lmts)-washington---bellevue": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineer, Observability Platform (SMTS, LMTS)",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-lmts-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-lmts-washington---bellevue": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-smts-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering SMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering-lmts/smts,-entsectech,-autonomous-iam-california---san-francisco": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering LMTS/SMTS, EntSecTech, Autonomous IAM",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-software-engineering,-frontend-(slack---multiple-levels)-georgia---atlanta": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Software Engineering, Frontend (Slack - Multiple levels)",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
+  },
+  "salesforce-machine-learning-platform-engineer,-lmts-new-york---new-york": {
+    "assigned_date": "2025-10-30T12:14:07.467Z",
+    "job_title": "Machine Learning Platform Engineer, LMTS",
+    "company": "Salesforce",
+    "first_seen": "2025-10-30T12:14:07.467Z"
   }
 }
