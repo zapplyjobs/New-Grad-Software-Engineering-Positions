@@ -54,13 +54,12 @@ const CITY_TO_STATE = {
   'addison': 'TX',
   
   // Other major cities (abbreviated for brevity - include all from original)
-   'brooklyn': 'NY', 'boston': 'MA', 'chicago': 'IL',
+  'new york': 'NY', 'brooklyn': 'NY', 'boston': 'MA', 'chicago': 'IL',
   'atlanta': 'GA', 'denver': 'CO', 'phoenix': 'AZ', 'portland': 'OR',
   'miami': 'FL', 'nashville': 'TN', 'philadelphia': 'PA', 'detroit': 'MI',
   'minneapolis': 'MN', 'las vegas': 'NV', 'salt lake city': 'UT',
   'raleigh': 'NC', 'charlotte': 'NC', 'indianapolis': 'IN', 'columbus': 'OH',
   'milwaukee': 'WI', 'baltimore': 'MD', 'kansas city': 'MO', 'oklahoma city': 'OK',
-    // New York
   'new york': 'NY', 'brooklyn': 'NY', 'queens': 'NY', 'manhattan': 'NY',
   'buffalo': 'NY', 'rochester': 'NY', 'albany': 'NY', 'syracuse': 'NY',
   'yonkers': 'NY', 'new rochelle': 'NY', 'mount vernon': 'NY', 'white plains': 'NY',
@@ -234,6 +233,8 @@ const CITY_TO_STATE = {
   // DC/New Jersey
   'washington': 'DC', 'jersey city': 'NJ', 'newark': 'NJ', 'paterson': 'NJ',
   'elizabeth': 'NJ', 'edison': 'NJ', 'trenton': 'NJ', 'princeton': 'NJ',
+
+  // Add remaining cities from your original mapping
 };
 
 /**
@@ -464,6 +465,24 @@ function parseLocation(locationText) {
   if (usStateCityMatch) {
     const state = normalizeState(usStateCityMatch[2].trim());
     let city = usStateCityMatch[3].trim();
+    
+    // Remove any trailing numbers or addresses
+    city = city.replace(/\s+\d+.*$/, '').trim();
+    
+    if (state && city) {
+      return { city, state };
+    }
+  }
+
+  // ENHANCED: Handle "USA-State-City-Address" format (e.g., "USA-Colorado-Fort Collins-4380 Ziegler Road")
+  const usaDashPattern = /^(USA|US)-([A-Za-z\s]+?)-([A-Za-z\s]+?)(?:-\d+|-[A-Z])/i;
+  const usaDashMatch = cleanLocation.match(usaDashPattern);
+  
+  if (usaDashMatch) {
+    const statePart = usaDashMatch[2].trim();
+    let city = usaDashMatch[3].trim();
+    
+    const state = normalizeState(statePart);
     
     // Remove any trailing numbers or addresses
     city = city.replace(/\s+\d+.*$/, '').trim();
