@@ -1606,5 +1606,17 @@
     "job_title": "Software Developer, Mid - Active Top Secret required",
     "company": "General Dynamics",
     "first_seen": "2025-10-31T12:41:22.964Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---aws-cloud-engineer-plano": {
+    "assigned_date": "2025-10-31T15:32:05.882Z",
+    "job_title": "Software Engineer III - AWS Cloud Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-10-31T15:32:05.882Z"
+  },
+  "salesforce-data-engineer,-finance-data-office-indianapolis": {
+    "assigned_date": "2025-10-31T15:32:05.882Z",
+    "job_title": "Data Engineer, Finance Data Office",
+    "company": "Salesforce",
+    "first_seen": "2025-10-31T15:32:05.882Z"
   }
 }
