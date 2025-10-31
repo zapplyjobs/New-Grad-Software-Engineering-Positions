@@ -731,7 +731,7 @@ function filterSoftwareEngineeringJobs(jobs) {
     'business analyst', 'business intelligence', 'bi analyst',
     'machine learning engineer', 'ml engineer', 'ai engineer',
     'research scientist', 'applied scientist', 'quantitative analyst',
-    
+    'R&D HW Engineer',"HW Engineer",
     // Hardware & Electrical Engineering
     'hardware engineer', 'hardware', 'electrical engineer', 'electronics engineer',
     'circuit design', 'pcb design', 'fpga', 'asic', 'vlsi',
