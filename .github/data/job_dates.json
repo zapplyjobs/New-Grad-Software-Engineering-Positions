@@ -1174,5 +1174,425 @@
     "job_title": "Software Engineer II .Net C#",
     "company": "JPMorgan Chase",
     "first_seen": "2025-10-31T10:32:42.782Z"
+  },
+  "amd-software-development-engineer-bellevue": {
+    "assigned_date": "2025-10-31T12:21:24.340Z",
+    "job_title": "Software Development Engineer",
+    "company": "AMD",
+    "first_seen": "2025-10-31T12:21:24.340Z"
+  },
+  "google-software-engineer,-chrome-ios-washington-d.c.": {
+    "assigned_date": "2025-10-31T12:21:24.340Z",
+    "job_title": "Software Engineer, Chrome iOS",
+    "company": "Google",
+    "first_seen": "2025-10-31T12:21:24.340Z"
+  },
+  "microsoft-software-engineer---commerce-+-ecosystems-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - Commerce + Ecosystems",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer---azure-data-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - Azure Data",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer---fullstack,-redmond-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - Fullstack, Redmond",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer---systems,-multiple-locations-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - Systems, Multiple Locations",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer---security,-multiple-locations-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - Security, Multiple Locations",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer---ai/ml,-multiple-locations-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - AI/ML, Multiple Locations",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "microsoft-software-engineer-ii-–-ai-platform-development-(azure-postgresql)-redmond": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer II – AI Platform Development (Azure PostgreSQL)",
+    "company": "Microsoft",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "ibm-associate-quality-engineer---entry-level-(baton-rouge,-la)-entry-levelbaton-rouge": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Associate Quality Engineer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "ibm-associate-application-developer---entry-level-(baton-rouge,-la)-entry-levelbaton-rouge": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Associate Application Developer - Entry Level (Baton Rouge, LA)",
+    "company": "IBM",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "dell-firmware-engineer-(bios-embedded-controller)-austin": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Firmware Engineer (BIOS Embedded Controller)",
+    "company": "Dell",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "micron-technology-o&m-chemical-systems-engineer-boise": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "O&M Chemical Systems Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "micron-technology-change-management-engineer-manassas": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Change Management Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "analog-devices-computational-sensing-research-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Computational Sensing Research Engineer",
+    "company": "Analog Devices",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-st-inigoes": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-fort-meade": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-albuquerque": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-lexington": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-beavercreek": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer,-mid-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-software-engineer,-mid-herndon": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer, Mid",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-product-software-engineer-mclean": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Product Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-python-software-engineer-ashburn": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Python Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-back-end-software-engineer-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Back-End Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-full-stack-software-engineer-washington": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Full Stack Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-front-end-software-engineer-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Front End Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-full-stack-software-engineer-fayetteville": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Full Stack Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-agentic-ai-software-engineer-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Agentic AI Software Engineer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-back-end-software-developer-clearfield": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Back End Software Developer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "bae-systems-full-stack-software-developer-chantilly": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Full Stack Software Developer",
+    "company": "BAE Systems",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "broadcom-ate-test-development-engineer-fort-collins": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "ATE Test Development Engineer",
+    "company": "Broadcom",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "broadcom-data-systems-engineer-fort-collins": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Data Systems Engineer",
+    "company": "Broadcom",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "general-dynamics-software-developer---active-top-secret-required-usa-dc-washington": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Developer - Active Top Secret required",
+    "company": "General Dynamics",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "general-dynamics-software-engineer-(tactical-networks---canes)---active-secret-clearance-usa-ca-san-diego": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer (Tactical Networks - CANES) - Active Secret clearance",
+    "company": "General Dynamics",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-software-engineer-san-jose": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-software-engineer-cloud-security-san-jose": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer Cloud Security",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-software-engineer---sase-cloud-services-san-jose": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer - SASE Cloud Services",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-telco-enablement-systems-engineer-ft.-collins": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Telco Enablement Systems Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-resident-engineer-all": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Resident Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-thermal-design-engineer-spring": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Thermal Design Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "hewlett-packard-enterprise-consulting-systems-engineer-all": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Consulting Systems Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "intel-gpu-software-development-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "GPU Software Development Engineer",
+    "company": "Intel",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "intel-system-software-development-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "System Software Development Engineer",
+    "company": "Intel",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "intel-foundry-automation-software-application-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Foundry Automation Software Application Engineer",
+    "company": "Intel",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "intel-automation-software-development-integration-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Automation Software Development Integration Engineer",
+    "company": "Intel",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "intel-software-application-development-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Application Development Engineer",
+    "company": "Intel",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-software-engineer,-industrial-iot-troy": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer, Industrial IOT",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-software-engineer-i---thermal-camera-goleta": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer I - Thermal Camera",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-devops-engineer-lowell": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "DevOps Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-qa-engineer-lowell": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "QA Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-tooling-engineer-ethridge": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Tooling Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-product-engineer-novi": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Product Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-controls-engineer-highland-park": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Controls Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-controls-engineer-sheffield": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Controls Engineer",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "magna-international-student---engineering-object-fusion-auburn-hills": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Student - Engineering Object Fusion",
+    "company": "Magna International",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "nvidia-system-software-engineer---dfx-software-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "System Software Engineer - DFX Software",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "nvidia-backend-python-software-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Backend Python Software Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "nvidia-system-software-engineer---gpu-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "System Software Engineer - GPU",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "nvidia-verification-software-engineer---networking-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Verification Software Engineer - Networking",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "nvidia-ai-accelerated-system-software-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "AI-Accelerated System Software Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-engineer,-dbaas---us-federal-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Engineer, DBaas - US Federal",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer-(backend),-flowise-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer (Backend), Flowise",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-full-stack-software-development-engineer-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Full Stack Software Development Engineer",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer--professional-services(python)-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer- Professional Services(Python)",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer-(front-end),-flowise-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer (Front End), Flowise",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer-(full-stack),-flowise-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer (Full Stack), Flowise",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer,-devops-(us-federal)-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer, DevOps (US Federal)",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
+  },
+  "workday-software-development-engineer,-devops---lifecycle-platform-(us-federal)-": {
+    "assigned_date": "2025-10-31T12:21:24.341Z",
+    "job_title": "Software Development Engineer, DevOps - Lifecycle Platform (US Federal)",
+    "company": "Workday",
+    "first_seen": "2025-10-31T12:21:24.341Z"
   }
 }
