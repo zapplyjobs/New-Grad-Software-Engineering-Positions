@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Machine Learning, Android AI Experiences",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Machine Learning, Android AI Experiences",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121971266780308166-software-engineer-iii-machine-learning-android-ai-experiences?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
-    "id": "google-software-engineer-iii-machine-learning-android-ai-experiences-mountain-view"
+    "employer_name": "General Dynamics",
+    "job_title": "Software Developer",
+    "job_city": "Bossier City",
+    "job_state": "LA",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/Software-Developer_RQ209828-1?q=software+engineering",
+    "id": "general-dynamics-software-developer-bossier-city"
+  },
+  {
+    "employer_name": "Magna International",
+    "job_title": "Systems Engineering Student",
+    "job_city": "Troy",
+    "job_state": "MI",
+    "job_posted_at": "1d",
+    "job_description": "• Systems Engineering StudentlocationsTroy, Michigan, USposted onPosted TodayR00218232Deployment Engineer-AMRlocationsTroy, Michigan, USposted onPosted TodayR00217971Manufacturing Engineer, EquipmentlocationsMesa, Arizona, USposted onPosted 4 Days AgoR00218006Student - Engineering Object FusionlocationsAuburn Hills, Michigan, USposted onPosted 30+ Days AgoR00207379Senior Electrical Hardware EngineerlocationsGrand Rapids, Michigan, USposted onPosted 30+ Days AgoR00210039Testing and Validation EngineerlocationsTroy, Michigan, USposted onPosted 11 Days AgoR00216769Senior Systems Test Engineer, Autonomous Mobile RobotslocationsLowell, Massachusetts, USposted onPosted 20 Days AgoR00164195Technical Project LeadlocationsSouthfield, Michigan, USposted onPosted 19 Days AgoR00213784Metallurgical Lab TechnicianlocationsSterling Heights, Michigan, USposted onPosted 30+ Days AgoR00213749.",
+    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Systems-Engineering-Student_R00218232?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=5aaaed564f430127348455ca250345df",
+    "id": "magna-international-systems-engineering-student-troy"
   }
 ]
