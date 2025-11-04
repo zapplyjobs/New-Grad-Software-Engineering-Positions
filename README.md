@@ -296,6 +296,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **San Jose, CA**: 5 positions
 - **Redmond, WA**: 5 positions
 - **Sunnyvale, CA**: 4 positions
+- **Cupertino, CA**: 4 positions
 - **San Francisco, CA**: 3 positions
 - **Santa Clara, CA**: 3 positions
 - **Austin, TX**: 3 positions
