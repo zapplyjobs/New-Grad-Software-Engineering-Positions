@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Freeform",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_posted_at": "21h",
+    "job_description": "• Minimum QualificationsProficiency with Swift or Objective-CSkilled with object-oriented designDemonstrated experience planning and delivering software projects with cross-functional teamsAbility to communicate clearly—both verbally and in writing—and build trust across business linesBachelor’s degree in Computer Science, Computer Engineering, Physics, Math, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630215-2926/software-engineer-freeform?team=SFTWR",
+    "id": "apple-software-engineer-freeform-pittsburgh"
+  }
+]
