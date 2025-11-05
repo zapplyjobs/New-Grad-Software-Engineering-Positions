@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Graphics Software Engineer",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Minimum QualificationsBS in Computer Science, Computer Graphics, or a related fieldProgramming skills and knowledge of a C Style language (C, C++, Obj-c, or Swift)Familiar with 3D graphics API ( Metal, OpenGL, DirectX, CUDA, CG, or Vulkan)Proficient in mathematics for 3D games (linear algebra).",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200630200-3956/graphics-software-engineer?team=SFTWR",
-    "id": "apple-graphics-software-engineer-sunnyvale"
-  }
-]
+[]
