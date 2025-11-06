@@ -172,7 +172,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineering [Multiple Positions Available] | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682289/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 2d |
 | Software Engineer [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677325/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 3d |
 
-### 🏭 **Manufacturing & Industrial** (11 positions)
+### 🏭 **Manufacturing & Industrial** (10 positions)
 
 #### 💾 **Micron Technology** (8 positions)
 
@@ -186,12 +186,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | New College Grad - Change Management Engineer | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38653795) | 19h |
 | Yield Analysis Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38760180) | 19h |
 | New College Grad - IT Software Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38534503) | 2d |
-
-#### 🔧 **Texas Instruments** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Resolution Enhancement Techniques Process Development Engineer | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007379/?keyword=software+engineering&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 3d |
 
 #### 🚗 **Magna International** (2 positions)
 
@@ -404,7 +398,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineering LMTS (Service Mesh, Ingress Gateway) | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr304216/software-engineering-lmts-service-mesh-ingress-gateway/) | 1w |
 | Software Engineering, Frontend (Slack - Multiple levels) | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr310106/software-engineering-frontend-slack-multiple-levels/) | 1w |
 | Software Engineering Developer CI Infrastructure PMTS | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/) | 1w |
-| Localization Engineer MTS | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr315401/localization-engineer-mts/) | 1w |
 | Machine Learning Platform Engineer, LMTS | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313747/machine-learning-platform-engineer-lmts/) | 1w |
 
 #### 🔵 **IBM** (5 positions)
@@ -516,11 +509,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineer, Mapping | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-mapping-mountain-view-california-united-states-3e66c32b-0a2b-4e46-8bbd-bdcf8f7e4200) | 1w |
 | ML Compiler Engineer, Compute | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/ml-compiler-engineer-compute-new-york-city-new-york-united-states-mountain-view-california) | 1w |
 | Software Engineer, Onboard Evaluation | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-onboard-evaluation-mountain-view-california-united-states) | 1w |
-| Software Engineer, C++ Edge Computers | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) | 1w |
 | Software Engineer, Planner Vehicle Dynamics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-planner-vehicle-dynamics-mountain-view-california-united-states-san-francisco-pittsburgh-pennsylvania) | 1w |
+| Software Engineer, C++ Edge Computers | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/software-engineer-c-edge-computers-mountain-view-california-united-states) | 1w |
 | Android Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/android-engineer-mountain-view-california-united-states-san-francisco) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (4 positions)
+### 🏭 **Manufacturing & Industrial** (7 positions)
 
 #### 💪 **Arm** (2 positions)
 
@@ -529,7 +522,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Graduate GPU Modeling Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/graduate-gpu-modeling-engineer/33099/70199981248) | 1w |
 | Design Automation Engineer - Front-End Methodologies & Design Flows | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-diego/design-automation-engineer-front-end-methodologies-and-design-flows/33099/87112637216) | 1w |
 
-#### ⚡ **ABB** (1 position)
+#### ⚡ **ABB** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
