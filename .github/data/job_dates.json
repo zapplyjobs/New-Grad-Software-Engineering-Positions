@@ -1906,5 +1906,17 @@
     "job_title": "Software Engineer III - Data Engineer, Spark, Databricks, SQL",
     "company": "JPMorgan Chase",
     "first_seen": "2025-11-07T00:52:11.082Z"
+  },
+  "arm-firmware-engineer-austin": {
+    "assigned_date": "2025-11-07T01:20:57.253Z",
+    "job_title": "Firmware Engineer",
+    "company": "Arm",
+    "first_seen": "2025-11-07T01:20:57.253Z"
+  },
+  "jpmorgan-chase-software-engineer-iii---react-engineer-": {
+    "assigned_date": "2025-11-07T01:20:57.253Z",
+    "job_title": "Software Engineer III - React Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-11-07T01:20:57.253Z"
   }
 }
