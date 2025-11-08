@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Software Engineering Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 14</em></p>
+<p><em>Real-time job opportunities from 13</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-14-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-53-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-18-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -41,7 +41,7 @@
   
   # 💻 Software Engineering Jobs 2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 14+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 54+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 53+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -64,12 +64,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 54 hot software engineering jobs  
-🏢 **Top Companies:** 14 elite tech including Tesla, NVIDIA, Raytheon  
+🔥 **Current Positions:** 53 hot software engineering jobs  
+🏢 **Top Companies:** 13 elite tech including Tesla, NVIDIA, Raytheon  
 ⭐ **FAANG+ Jobs & Internships:** 18 premium opportunities  
 📅 **Last Updated:** November 8, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** 123 (older than 1 week)
+📁 **Archived Developer Jobs:** 124 (older than 1 week)
 
 ---
 
@@ -170,13 +170,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Software Engineering [Multiple Positions Available] | Columbus, OH | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682289/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 4d |
 | Software Engineer [Multiple Positions Available] | Chicago, IL | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677325/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753) | 5d |
 
-### 🏭 **Manufacturing & Industrial** (14 positions)
+### 🏭 **Manufacturing & Industrial** (13 positions)
 
 #### 💪 **Arm** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FYE26 US Graduate Network Performance Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/fye26-us-graduate-network-performance-engineer/33099/87916449264) | 23h |
+| FYE26 US Graduate Network Performance Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/fye26-us-graduate-network-performance-engineer/33099/87916449264) | 1d |
 
 #### 💾 **Micron Technology** (9 positions)
 
@@ -191,12 +191,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Yield Analysis Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38760180) | 3d |
 | New College Grad - Change Management Engineer | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38653795) | 3d |
 | New College Grad - IT Software Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38534503) | 4d |
-
-#### ⚡ **ABB** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Line Product Engineer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014523/Line-Product-Engineer) | 1d |
 
 #### 🔧 **Texas Instruments** (1 position)
 
@@ -235,9 +229,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 9 | 17% | No or minimal experience |
-| 🟡 Beginner & Early Career | 18 | 33% | 1-2 years of experience |
-| 🔴 Manager         | 27 | 50% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 8 | 15% | No or minimal experience |
+| 🟡 Beginner & Early Career | 18 | 34% | 1-2 years of experience |
+| 🔴 Manager         | 27 | 51% | 2+ years of experience |
 
 ---
 
@@ -255,7 +249,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 54+ verified CS internships and entry-level software roles from 14 elite tech companies.
+✅ **100% Real Jobs:** 53+ verified CS internships and entry-level software roles from 13 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 15 minutes automatically.
 
@@ -307,16 +301,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 123 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 124 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 123 positions
-- **🏢 Companies**: 14 companies  
-- **⭐ FAANG+ Jobs & Internships**: 45 roles
+- **📁 Total Jobs**: 124 positions
+- **🏢 Companies**: 13 companies  
+- **⭐ FAANG+ Jobs & Internships**: 46 roles
 
-### ⭐ **FAANG+** (45 positions)
+### ⭐ **FAANG+** (46 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -370,7 +364,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-#### 🍎 **Apple** (11 positions)
+#### 🍎 **Apple** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -384,6 +378,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Embedded Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628129-0836/embedded-software-engineer?team=HRDWR) | 2w |
 | ML Software Engineer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200628040-3337/ml-software-engineer?team=MLAI) | 2w |
 | HomeKit Software Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200561206-0836/homekit-software-engineer?team=SFTWR) | 3w |
+| Software Development Engineer | Beaverton, OR | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626766-0505/software-development-engineer?team=HRDWR) | 3w |
 | Content Software Engineer, Apps | Pittsburgh, PA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626421-2926/content-software-engineer-apps?team=SFTWR) | 3w |
 
 ### 🏢 **Top Tech** (26 positions)
@@ -550,7 +545,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Process Quality Engineer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00001821/Process-Quality-Engineer) | 2w |
+| Field Service Engineer - Drives | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012229/Field-Service-Engineer-Drives) | 2w |
 
 #### 🚗 **Magna International** (1 position)
 
@@ -569,7 +564,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <div align="center">
 
-**🎯 54 current opportunities from 14 elite companies.**
+**🎯 53 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
