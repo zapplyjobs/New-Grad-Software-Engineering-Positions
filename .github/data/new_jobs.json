@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Incident Commander SRE",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "• 8+ years in IT operations, incident management, or site reliability work.\n• Proven experience in a 24x7 high availability environment with enterprise systems.\n• Establish impact, evaluate solutions with subject matter experts, and make decisions that balance technical and business needs.\n• Excellent verbal and written communication skills for technical and executive audiences.\n• Experience leading or mentoring technical teams in incident response or operations roles.\n• Experience with cloud platforms (e.\n• Industry certifications from public cloud platforms like AWS/Azure/Google, CCNA, RHCE or Microsoft associateA related technical degree required.\n• Use your technical skills to diagnose complex problems across multiple platforms and vendors before they impact users.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313957/incident-commander-sre/",
+    "id": "salesforce-incident-commander-sre-seattle"
+  }
+]

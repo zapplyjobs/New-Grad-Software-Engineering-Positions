@@ -1990,5 +1990,11 @@
     "job_title": "New College Grad - Engineer, Shift Equipment",
     "company": "Micron Technology",
     "first_seen": "2025-11-07T22:56:06.139Z"
+  },
+  "salesforce-incident-commander-sre-seattle": {
+    "assigned_date": "2025-11-08T09:00:10.362Z",
+    "job_title": "Incident Commander SRE",
+    "company": "Salesforce",
+    "first_seen": "2025-11-08T09:00:10.362Z"
   }
 }
