@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Payments",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsA commitment to continuous learning and improvement, and curiosity for new technologies, techniques and patterns in pursuit of engineering excellence.\n• No formal degree is required.\n• What matters most is your mindset, your initiative, and your ability to apply your skills to real-world applications.\n• A solid understanding of distributed systems fundamentals.\n• An ability to communicate thoughtfully and clearly, both verbally and in writing, to discuss complex technical concepts with diverse audiences, including global teams and external partners.\n• A track record of building and sustaining healthy long-term relationships within your team, and beyond its boundaries.\n• The tenacity and perseverance to drive a complex project all the way from conception to production.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630986-0836/software-engineer-payments?team=SFTWR",
+    "id": "apple-software-engineer-payments-cupertino"
+  }
+]
