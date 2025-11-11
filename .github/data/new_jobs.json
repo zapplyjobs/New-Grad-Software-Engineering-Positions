@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "System Software Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum Qualifications4+ years of software engineering experienceProficiency in one of C/C++, Obj-C, SwiftStrong knowledge of OS architecture, and low-level system components.\n• Passion for software architecture, APIs, and high performance extensible softwareExcellent communication skillsCreative, collaborative, and product-focusedSolid understanding of Linux or Apple OS system programming, including process management, IPC, signals, and daemon lifecycle.\n• Bachelors or Masters in Computer Science, Computer Engineering, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631589-3337/system-software-engineer?team=SFTWR",
+    "id": "apple-system-software-engineer-seattle"
+  }
+]
