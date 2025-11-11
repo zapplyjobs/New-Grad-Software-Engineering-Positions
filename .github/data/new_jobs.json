@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AMD",
+    "job_title": "3D Graphics Software Engineer",
+    "job_city": "Boxborough",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "• In-depth knowledge and experience with Direct3D 12 (D3D12) and/or Vulkan APIs.\n• Experience with graphics debuggers such as PIX and RenderDoc.\n• Experience with game development or real-time rendering applications.\n• Excellent communication skills and ability to work collaboratively in a team environment.\n• This enables us to remember your preferences (for example, your choice of language or region) or when you register on areas of the Sites, such as our web programs or extranets.\n• Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Targeting Cookies Switch Label labelThese cookies record online identifiers (including IP address and device identifiers), information about your web browser and operating system, website usage activity information (such as information about your visit to the Sites, the pages you have visited, content you have viewed, and the links you have followed), and content-related activity (including the email and newsletter content you view and click on).\n• Design and develop graphics tools that analyze and process D3D12 & Vulkan workloads.\n• Develop techniques for analyzing how different game engines leverage graphics APIs.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/73427/login",
+    "id": "amd-3d-graphics-software-engineer-boxborough"
+  }
+]
