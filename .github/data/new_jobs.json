@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Linux Platform Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsExperience in infrastructure automation, with a focus on configuration management tools.\n• Experience with configuration management tools (e.\n• Experience with build systems such as Jenkins or Rio.\n• Understanding of software development principles and the software development lifecycle.\n• Familiarity with release engineering principles and practices, including GitFlow branching.\n• Proficiency in at least one object orientated scripting language, such as Python or Go.\n• , Puppet, Ansible, Chef)Understanding of Linux system administration and networking concepts.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625128-3956/linux-platform-software-engineer?team=SFTWR",
+    "id": "apple-linux-platform-software-engineer-sunnyvale"
+  }
+]
