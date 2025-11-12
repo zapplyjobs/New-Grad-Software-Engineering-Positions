@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software QA Automation Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Minimum QualificationsMinimum of 2 years experience in Software QA.\n• In Computer Science, Computer Engineering, or a related subject area, or we may consider an equivalent industry experience.\n• Hands-on experience integrating automation into CI/CD pipelines, performing code reviews, and managing test code check-ins for seamless release cycles using platforms such as GitHub.\n• Hands-on experience designing, developing, and maintaining automated test frameworks for mobile, tablet, and desktop applications to ensure fast, reliable, and scalable testing coverage using an object-oriented language (e.\n• Skill in debugging and refactoring automation scripts, resolving flaky tests, and optimizing test suites to reduce false positives and execution time.\n• Experience synchronizing automation across multiple device types and OS versions, improving overall product quality and reliability.\n• Demonstrated collaboration with QA and development teams to identify high-value test cases, enhance test stability, and align testing strategies with product goals.\n• Awareness of emerging trends in cloud-based and AI/ML-driven quality assurance, with the ability to incorporate relevant innovations into QA processes.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631522-0836/software-qa-automation-engineer?team=SFTWR",
+    "id": "apple-software-qa-automation-engineer-cupertino"
+  }
+]
