@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Mainframe Application Developer, DB2, Cobol",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "1h",
+    "job_description": "• Strong Java, DB, cloud, and automation skills.\n• Experience and certifications preferred.\n• Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Senior Lead Software Engineer- COMMODITIES, Python NY, United States TechnologySoftware Engineering Senior Software Engineering Lead for cross commodities transformation projects on JPMC Athena Platform Lead Software Engineer Bengaluru, Karnataka, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Principal Software Engineer NY, United States TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer II Bengaluru, Karnataka, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Director of Software Engineering LONDON, LONDON, United Kingdom TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Lead Software Engineer - Java, AWS Hyderabad, Telangana, India TechnologySoftware Engineering Tech software engineer leading a scrum team up to 7 people to work on micrservice development in Java and AWS.\n• Java Software Engineer Metro Manila, National Capital Region, Philippines TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Manager of Software Engineering Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III - React Jersey City, NJ, United States TechnologySoftware Engineering Push the limits of what’s possible with us as an experienced member of our Software Engineering team Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer - Python/AWS/Databricks LONDON, LONDON, United Kingdom TechnologySoftware Engineering Software Engineer with experience in building data pipelines and software solutions in Financial services across Python, Java, AWS.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Engineer III - IOS Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager of Software Engineering- ServiceNow Bengaluru, Karnataka, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer II - Python GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Grow your software engineering skills by developing impactful Python applications with our collaborative Capital Team.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Python Software Engineer for Commodities LONDON, United Kingdom TechnologySoftware Engineering s a Software Engineer III at JPMorganChase within the Commodities team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682034/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location&selectedCategoriesFacet=300000086152753",
+    "id": "jpmorgan-chase-software-engineer-iii-mainframe-application-developer-db2-cobol-jersey-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer - Poughkeepsie NY",
+    "job_city": "",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Entry Level Software Developer - Poughkeepsie NY",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73808&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-poughkeepsie-ny-"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer Austin:",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Entry Level Software Developer Austin: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73771&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-austin-austin"
+  }
+]
