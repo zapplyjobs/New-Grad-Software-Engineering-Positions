@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "File Systems Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsExcellent C and C++ programming skills, experience with software debuggers (e.\n• GDB, LLDB), compilers and linkersSolid understanding of storage specific data structures, operating systems internals, storage performance evaluationGenuine passion for file systems technology, data security, privacy, and strong commitment towards developing testability, reliabilityBachelors in Computer Science/Electrical Engineering or equivalent experience/skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200631962-0836/file-systems-software-engineer?team=SFTWR",
+    "id": "apple-file-systems-software-engineer-cupertino"
+  }
+]
