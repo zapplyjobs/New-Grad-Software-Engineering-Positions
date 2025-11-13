@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Process Control Engineer (Fault Detection)",
-    "job_city": "Boise",
-    "job_state": "ID",
+    "employer_name": "Salesforce",
+    "job_title": "LMTS, Software Engineering",
+    "job_city": "Dallas",
+    "job_state": "TX",
     "job_posted_at": "1h",
-    "job_description": "• Experience in other PCS subjects is a plus.\n• Fault Detection and Classification (FDC), Run-to-Run Control (R2R), Scheduling or Sampling, Process Metrology, and semiconductor process equipment interfaces A BS degree in Engineering, Computer Science, Physics, or a related field, or an equivalent Micron job standing of Engineer or higher is required.\n• 1-2 years of experience with analytical problem-solving and data analysis skills 1-2 years of experience developing, teaching, and presenting technical subjects 1-2 years of exposure to SPC through either academia or direct work experience Identify process requirements to design and deliver decision logic Experience in software testing/verification is a plus Semiconductor industry experience/knowledge Less than 2 years Global Quality Process Control System (PCS) Senior EngineerTaichung City, Taichung City, Taiwan + 2 morePosted 2 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38857889",
-    "id": "micron-technology-process-control-engineer-fault-detection-boise"
+    "job_description": "• 8+ years of Salesforce Developer experience, with a proven track record of designing and implementing complex enterprise-level solutions.\n• Experience with integrating Salesforce.\n• Hands-on experience in working with a Version Control System (Git/GitHub preferred) and SFDX from Visual Studio Code IDE.\n• Experience with migration from sandboxes to production and administering a production system.\n• Demonstrated ability to meet deadlines, handle and prioritize simultaneous requests, and manage laterally and upwardsExperience working in a SCRUM or agile environmentExperienced in configuring and managing Jenkins-based CI/CD pipelines to automate build and deployment workflows.\n• Excellent problem-solving and communication skillsA related technical degree required Translate functional requirements into technical requirementsDesign agents, custom objects, custom fields, picklists, page layouts, workflow, approval processes, validation rules, custom tabs, reports, Lightning pages, and dashboardsDevelop, test and deploy custom capabilities within Salesforce instances using Apex and Lightning technologies.\n• Should work as a strong individual contributor with minimal technical support from team membersWork with a cross-functional team, business analysts, and product owners for product deliveryDocument and present implementation designs to peers, stakeholders and review boardWrite, execute and maintain automated unit testsWork with project managers to provide timely status and feedback to stakeholdersAlign to Agile Methodology Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Salesforce Platform Developer I and Platform Developer II certifications are highly preferred.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr316850/lmts-software-engineering/",
+    "id": "salesforce-lmts-software-engineering-dallas"
   }
 ]
