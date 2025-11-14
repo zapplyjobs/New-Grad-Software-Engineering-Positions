@@ -2278,5 +2278,17 @@
     "job_title": "US Expansion Capital Engineer",
     "company": "Micron Technology",
     "first_seen": "2025-11-14T22:31:45.976Z"
+  },
+  "jpmorgan-chase-mainframe-software-engineer-wilmington": {
+    "assigned_date": "2025-11-14T22:46:38.810Z",
+    "job_title": "Mainframe Software Engineer",
+    "company": "JPMorgan Chase",
+    "first_seen": "2025-11-14T22:46:38.810Z"
+  },
+  "micron-technology-product-quality-engineer-boise": {
+    "assigned_date": "2025-11-14T22:46:38.810Z",
+    "job_title": "Product Quality Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2025-11-14T22:46:38.810Z"
   }
 }
