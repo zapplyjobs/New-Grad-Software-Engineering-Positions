@@ -2320,5 +2320,17 @@
     "job_title": "Software Engineer III - Mobile Development",
     "company": "JPMorgan Chase",
     "first_seen": "2025-11-15T07:15:40.945Z"
+  },
+  "arm-3dic-integration-engineer-san-diego": {
+    "assigned_date": "2025-11-16T01:21:53.317Z",
+    "job_title": "3DIC Integration Engineer",
+    "company": "Arm",
+    "first_seen": "2025-11-16T01:21:53.317Z"
+  },
+  "arm-full-stack-developer-cambridge": {
+    "assigned_date": "2025-11-16T01:21:53.318Z",
+    "job_title": "Full Stack Developer",
+    "company": "Arm",
+    "first_seen": "2025-11-16T01:21:53.318Z"
   }
 }
