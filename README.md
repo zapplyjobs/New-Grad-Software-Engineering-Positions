@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42365-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38584-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-893-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-42345-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38568-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-892-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Dialpad** | Software Engineer (Integrations) | London, UK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8636221002) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
 | **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
@@ -149,7 +150,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wellmark, Inc.** | Platform Engineer - Digital Workforce... | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000138201250) |
 | **Capco** | Front-End - React - COM INGLÊS - Remoto | Sao Paulo | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8070326) |
 | **Capco** | Backend Developer (Python) - COM INGL... | Sao Paulo | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8070277) |
-| **Capco** | Contractor - Web Software Developer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7762099) |
 | **Roblox** | Software Engineer, Ads Platform | San Mateo, CA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) |
 | **Duolingo** | Software Engineer II, Backend | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002) |
 | **Duolingo** | Software Engineer II, Backend | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42365 current opportunities from 893 companies**
+**🎯 42345 current opportunities from 892 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
