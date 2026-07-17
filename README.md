@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42366-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38590-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-42360-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38585-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-893-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Astronomer** | Sales Engineer | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/astronomer/08d23092-f04f-42ab-a6e9-96e14cb7f035/application) |
 | **Capco** | Product Manager | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045191) |
 | **TD Synnex** | Technical Presales Consultant - HPE n... | Bucharest, Romania | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bucharest-Romania/Technical-Presales-Consultant---HPE-networking_R53843) |
 | **TD Synnex** | Junior Technical Presales Google Chrome | Alcobendas, Spain | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Technical-Presales-Specialist-Google-Chrome_R52927) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Visa** | Technical Program Manager | Bogota, Colombia, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/CO---Bogota-Colombia/Technical-Program-Manager_REF083399W-1) |
 | **RELX** | Product Manager I | Shanghai + 4 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Shanghai/Product-Manager-I_R115444-1) |
 | **TD Synnex** | IBM Technical Software Pre-Sales | Solna, Sweden | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Solna-Sweden/IBM-Technical-Software-Pre-Sales_R53841) |
-| **SS&C Technologies** | Product Manager IV | Missouri US + 4 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Missouri-US/Product-Manager-IV_R43080) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42366 current opportunities from 893 companies**
+**🎯 42360 current opportunities from 893 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
