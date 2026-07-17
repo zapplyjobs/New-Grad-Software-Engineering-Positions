@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42427-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38607-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-41949-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38165-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-892-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,13 +66,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Software Engineer/ SRE (Linux) | Basingstoke, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W) |
-| **Booz Allen Hamilton** | Software Engineer | Arlington, VA + 3... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Software-Engineer_R0244654) |
-| **Booz Allen Hamilton** | Software Engineer | McLean, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0244653) |
 | **ResMed** | Associate Software Engineer | San Diego, CA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1) |
 | **ResMed** | Software Engineer | San Diego, CA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Engineer_JR_052274-1) |
+| **Booz Allen Hamilton** | Software Engineer | Arlington, VA + 3... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Software-Engineer_R0244654) |
+| **Booz Allen Hamilton** | Software Engineer | McLean, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0244653) |
+| **Visa** | Software Engineer/ SRE (Linux) | Basingstoke, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W) |
 | **NVIDIA** | Software Engineer, DOCA SDK | Israel, Yokneam | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Israel-Yokneam/Software-Engineer--DOCA-SDK_JR2021303) |
-| **Wells Fargo** | Software Engineer | Bengaluru, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/Bengaluru-India/AI-Engineer_R-542094-1) |
+| **Manulife** | Back-end Software Engineer (Kotlin) | 2 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec-Montreal-900-Boulevard-de-Maisonneuve-Ouest/Back-end-Software-Engineer_JR26050821) |
+| **Mastercard** | Software Engineer II | O'Fallon, Missouri | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-279240) |
+| **Mastercard** | Manager Software Engineering | O'Fallon, Missouri | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager-Software-Engineering--QA-Automation-_R-278637) |
+| **Mastercard** | Director, Platform Engineering | O'Fallon, Missouri | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Platform-Engineering_R-273321) |
 | **Warner Bros. Discovery** | Software Developer II, iOS | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/Staff-Software-Engineer_R000088067) |
 | **Johnson Controls** | Application Engineer | Singapore | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Application-Engineer_WD30273754) |
 | **Johnson Controls** | Fire Application Engineer I | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Fire-Application-Engineer-I_WD30274360) |
@@ -112,7 +115,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **USAA** | Salesforce CRM Software Engineer-Mid-... | San Antonio + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Salesforce-CRM-Software-Engineer-Mid--Level_R0118845-1) |
 | **Viavi Solutions** | Software Development Manager | Chennai, IND | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chennai-IND/Software-Development-Manager_260004907) |
 | **CIBC** | Full Stack Developer (.NET, C#, SQL, ... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--NET--C---SQL--React--and-Azure-Databricks-_2614323-1) |
-| **Manulife** | Back-end Software Engineer (Kotlin) | 2 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec-Montreal-900-Boulevard-de-Maisonneuve-Ouest/Back-end-Software-Engineer_JR26050821) |
 | **Symbotic** | Software Engineer | VNM Ho Chi Minh | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer_R7199-1) |
 | **RELX** | Software Engineer III | Johannesburg HB S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Johannesburg-HB-South-Africa/Software-Engineer-III_R110517-1) |
 | **Red Hat** | Software Engineer - GCP Hosted Contro... | US, NC + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Software-Engineer---GCP-Hosted-Control-Planes_R-053111) |
@@ -122,8 +124,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nike** | Director, Software Engineering, Self-... | Karnataka, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Karnataka-India/Director--Software-Engineering--Self-service-Operational-Analytics-and-Reporting---ITC_R-88056) |
 | **Nike** | Software Engineer II, ITC | Karnataka, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Karnataka-India/Software-Engineer-II--ITC_R-88046) |
 | **LSEG** | Associate Software Engineer | BLR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Associate-Software-Engineer_R0121488-1) |
-| **Mastercard** | Software Engineer II | O'Fallon, Missouri | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-279240) |
-| **Mastercard** | Manager Software Engineering | O'Fallon, Missouri | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager-Software-Engineering--QA-Automation-_R-278637) |
 | **Micron Technology** | OMT Metrology Application Engineer | Fab 11, Taiwan | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Taoyuan---Fab-11-Taiwan/OMT-Metrology-Application-Engineer_JR90573) |
 | **Micron** | OMT Metrology Application Engineer | Fab 11, Taiwan | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/OMT-Metrology-Application-Engineer_JR90573) |
 | **Micron** | RDA Application Engineer | Tongluo, Taiwan | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Miaoli---Tongluo-Taiwan/RDA-Application-Engineer_JR95893) |
@@ -177,9 +177,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Data Science Analyst | Paris, France, FR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/FR---Paris-France/Data-Science-Analyst_REF083101W) |
 | **Booz Allen Hamilton** | Data Engineer | Stuttgart, Baden-... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0244660) |
 | **Wex** | Fraud / Credit Data Scientist, Risk S... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Fraud---Credit-Data-Scientist--Risk-Solutions_R21716) |
+| **Mastercard** | Manager, Data Science | Pune, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Data-Science_R-284407) |
+| **Mastercard** | Managing Consultant, Strategy and Tra... | St. Leonards, Aus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Associate-Managing-Consultant--Strategy-and-Transformation---Generative-AI-Engineer---Generative-AI-Data-Scientist_R-275419) |
+| **Mastercard** | Data Scientist I | Gurgaon, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-I_R-278127) |
+| **Thermo Fisher Scientific** | AI Engineer | São Paulo, Brazil | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/AI-Engineer_R-01357884) |
+| **Thermo Fisher Scientific** | Sr AI Engineer | São Paulo, Brazil | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/Sr-AI-Engineer_R-01357883) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
@@ -241,8 +245,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | AI Engineering Program Manager, WW Sa... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671777/ai-engineering-program-manager-ww-sales-enablement-and-transformation) |
 | **WPP Media** | Data Scientist Geo Holdout & Incremen... | London, United Ki... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5342761008) |
 | **Illumina** | Associate Director, Data Engineering ... | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Associate-Director--Data-Engineering---Analytics_43082-JOB-1) |
-| **Visa** | Data Science Manager | Frankfurt, German... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/DE---Frankfurt-Germany/Data-Science-Manager_REF084928W) |
-| **Visa** | Data Scientist - Managed Services | Tel Aviv, Israel, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/IL---Tel-Aviv-Israel/Data-Scientist---Managed-Services_REF082780W) |
 | **Trimble** | Machine Learning Engineer | Vilnius | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Lithuania---Vilnius/Machine-Learning-Engineer_R55832-1) |
 | **AllianceBernstein** | Data Engineer | Nashville, Tennessee | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Senior-Associate--Data-Engineering_R0018416-2) |
 | **Uline** | Data Analyst | Pleasant Prairie,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R265549-1) |
@@ -275,8 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leland** | Data Science Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/ce339c97-5d8d-44c5-9fd3-93ad205f541d/application) |
 | **Cape** | Data Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cape/4b93114b-59c0-4f15-91f8-843083b28c3c/application) |
 | **OpenAI** | Founding Data Scientist, Pricing & Mo... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd/application) |
-| **Parsons** | AI Engineer | AL, Huntsville, R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---AL-Huntsville/AI-Engineer_R181671) |
-| **Microsoft** | Applied Scientist II | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938085) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -292,6 +292,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Information Security Risk Specialist | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Information-Security-Risk-Specialist_R0243579) |
 | **Booz Allen Hamilton** | Information Assurance Systems Adminis... | Leavenworth, KS | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Leavenworth-KS/Information-Assurance-Systems-Administrator_R0242261) |
 | **Booz Allen Hamilton** | Information Assurance Systems Adminis... | Leavenworth, KS | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Leavenworth-KS/Information-Assurance-Systems-Administrator_R0242273) |
+| **RTX** | DevOps Systems Engineer - (Onsite) | Largo, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/DevOps-Systems-Engineer----Onsite-_01860233-1) |
+| **Thermo Fisher Scientific** | Process Automation Engineer, Manufact... | St. Louis, Missou... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Process-Automation-Engineer--Manufacturing-Engineering_R-01359831) |
 | **ByteDance** | Security Engineering Project Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
 | **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
 | **ByteDance** | Site Reliability Engineer Intern (Dat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535646140345272584) |
@@ -315,9 +317,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Radiance Technologies** | Division Manager – Threat Vulnerabili... | Huntsville, AL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Division-Manager---Threat-Vulnerability-and-Triage-Division_HR102298-1) |
 | **Vanguard** | Technical Engineering Manager (API & ... | Malvern, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Technical-Engineering-Manager--API---Cloud-Engineering-_180523) |
 | **Uline** | ServiceNow System Administrator | Pleasant Prairie,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/ServiceNow-System-Administrator_R265630) |
-| **Thermo Fisher Scientific** | Process Automation Engineer, Manufact... | St. Louis, Missou... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Process-Automation-Engineer--Manufacturing-Engineering_R-01359831) |
 | **RELX** | Security Assurance Penetration Tester | Pennsylvania + 10... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Pennsylvania/Security-Assurance-Penetration-Tester_R115215-1) |
-| **RTX** | DevOps Systems Engineer - (Onsite) | Largo, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/DevOps-Systems-Engineer----Onsite-_01860233-1) |
 | **Pfizer** | Associate Manager - Quality Assurance | India Vizag + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Vizag/Associate-Manager---Quality-Assurance_4958270-1) |
 | **Pfizer** | Associate, Business Technology Qualit... | Thessaloniki Chor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Associate--Business-Technology-Quality-Assurance--BTQA-_4960586) |
 | **Motorola Solutions** | Global Category Manager - Cybersecuri... | Chicago, IL, More... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Global-Category-Manager---Cybersecurity-Software_R66718) |
@@ -370,12 +370,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Plaid** | Security Engineer, GRC | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/587e83dd-1d1b-4f31-812a-74fc67d67fbe/application) |
 | **ICF** | ServiceNow Test Engineer | Reston, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ServiceNow-Test-Engineer_R2602445) |
 | **ICF** | Salesforce QA Engineer (Public Trust) | Reston, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Salesforce-QA-Engineer--Public-Trust-_R2602432) |
-| **Visa** | Cybersecurity Engineer - Cloud | London, United Ki... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Cybersecurity-Engineer---Cloud_REF080470W) |
-| **Visa** | Cybersecurity Engineer - Cloud | Amsterdam, Nether... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/NL---Amsterdam-Netherlands/Cybersecurity-Engineer_REF082260W) |
 | **Unisys** | Field Network Engineer | London | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/London/Field-Network-Engineer_REQ574251) |
 | **Unisys** | Cybersecurity Analyst | Bangalore, KA, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Cybersecurity-Analyst_REQ574474) |
 | **iRhythm** | Financial Systems Administrator Support | Manila | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/Remote---Manila/Financial-Systems-Administrator-Support_JR1602) |
-| **BMO** | Physical Security Analyst | Toronto, ON, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Physical-Security-Analyst_R260019327) |
 | **Morningstar** | Quality Assurance Analyst | Mumbai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Quality-Assurance-Analyst_REQ-057086-1) |
 | **Thales** | Customer Service Reliability Engineer | Praha | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Customer-Service-Reliability-Engineer_R0334516) |
 | **Aerospace Corporation** | Linux Infrastructure-as-Code DevOps E... | Chantilly, VA + 2... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Linux-Infrastructure-as-Code-DevOps-Engineer_R013567) |
@@ -388,6 +385,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ultra Intelligence & Communications** | Systems Administrator | Tampa, FL, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Tampa-FL-United-States/Systems-Administrator_REQ-12212-1) |
 | **USAA** | Quality Assurance Advisor - Mid Level | San Antonio + 6 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quality-Assurance-Advisor---Mid-Level_R0119104) |
 | **CIBC** | Consultant, IT Quality Assurance | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--IT-Quality-Assurance_2614401) |
+| **Symbotic** | New Grad- Robotics Reliability Engineer | USA Wilmington,  ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Reliability-Engineer_R7179) |
+| **Symbotic** | System Reliability Test Engineer | USA Remote & Travel | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/System-Reliability-Test-Engineer_R6749) |
+| **Symbotic** | Manager, Bot Reliability Engineering | USA Wilmington,  ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Robot-Reliability_R6668) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -401,7 +401,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Visa** | Workstation Support Associate (IT Sup... | Warsaw, Poland, PL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/PL---Warsaw-Poland/Warsaw-Workstation-Associate_REF080292W) |
 | **NVIDIA** | Technical Project Manager - Data Cent... | CA Santa Clara + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Project-Manager---Data-Center-Construction_JR2021251) |
-| **Wells Fargo** | Data Center Security Shift Manager | GARLAND, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/GARLAND-TX/Data-Center-Security-Shift-Manager_R-559619) |
+| **RTX** | Sr Systems Engineer - Onsite | Aurora, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Sr-Systems-Engineer---Onsite_01821851-1) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
@@ -434,8 +434,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Symbotic** | Advanced Industrial Controls Engineer | USA Remote & Travel | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Advanced-Industrial-Controls-Engineer_R7578) |
 | **RELX** | Systems Engineer | Gainesville FL 4t... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Gainesville-FL-4th-Avenue/Systems-Engineer_R115269-1) |
 | **RELX** | Systems Engineer III | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Bengaluru/Systems-Engineer-III_R115270-1) |
-| **RTX** | Sr Systems Engineer - Onsite | Aurora, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Sr-Systems-Engineer---Onsite_01821851-1) |
-| **RTX** | FPGA ENGINEER II | Mckinney, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-ENGINEER-II_01859994-1) |
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030142) |
 | **Sierra Nevada Corporation** | Systems Engineer III | Lone Tree, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-III_R0030129) |
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030150) |
@@ -499,6 +497,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AMD** | AI Cluster & Data Center Design Engr | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88067/login) |
 | **SpaceX** | Quality Systems Engineer (Starlink) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8633640002?gh_jid=8633640002) |
 | **Cox** | Full Time Driver (Manheim) | Manheim PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Manheim-PA/Full-Time-Driver--Manheim-_R202680024) |
+| **Aerospace Corporation** | Classified Linux Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Classified-Linux-Engineer_R013612) |
+| **Abbott** | Quality Systems Engineer - Queretaro ... | Queretaro | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Mexico---Queretaro/Quality-Systems-Engineer---Queretaro-Site_31156121) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,8 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Manager, Visa Consulting and Analytic... | Guatemala City, G... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/GT---Guatemala-City-Guatemala/Manager--VCA-Implementation-Services--VIS-_REF085011W) |
 | **Cognex** | Account Sales Engineer | Field | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cognex.wd1.myworkdayjobs.com/External_Career_Site/job/Hungary---Field/Account-Sales-Engineer_R0012206) |
+| **Visa** | Manager, Visa Consulting and Analytic... | Guatemala City, G... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/GT---Guatemala-City-Guatemala/Manager--VCA-Implementation-Services--VIS-_REF085011W) |
 | **FIS** | Pre-Sales Solution Specialist, Treasu... | Jax, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Pre-Sales-Representative-Sr-Lead--Solutions-Specialist_JR0306837) |
 | **Google** | Technical Program Manager, NPI, AI/ML... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89198739750560454) |
 | **Google** | Technical Program Manager III, Toolin... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93435362063327942) |
@@ -575,11 +575,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **iCapital Network** | Product Manager, Evergreen Private Fu... | Greenwich,  Conne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8633871002) |
 | **iCapital Network** | Product Manager, Evergreen Private Fu... | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8633870002) |
 | **Vanta** | Manager, Solutions Engineering - EMEA | London, UK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vanta/2daebe8c-69af-44f3-a81f-38fb17da30a0/application) |
-| **Lambda** | Group Product Manager - Platform (Man... | Bellevue | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/d3cbe760-3c91-4cb1-accf-dca60f0406aa/application) |
 | **Bloomberg Industry Group** | Product Analyst | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Product-Analyst_142886) |
-| **Visa** | Technical Program Manager | Bogota, Colombia, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/CO---Bogota-Colombia/Technical-Program-Manager_REF083399W-1) |
-| **Wells Fargo** | Change Implementation Consultant | SAINT LOUIS, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/SAINT-LOUIS-MO/Change-Implementation-Consultant_R-555906) |
 | **SS&C Technologies** | Product Manager IV | Missouri US + 4 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Missouri-US/Product-Manager-IV_R43080) |
+| **Mastercard** | Manager, Product Manager – Technical | Oslo, Norway | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Oslo-Norway/Manager--Product-Manager---Technical_R-278575) |
+| **Lambda** | Group Product Manager - Platform (Man... | Bellevue | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lambda/d3cbe760-3c91-4cb1-accf-dca60f0406aa/application) |
 | **Avnet** | Sales Engineer - Nanjing | Nanjing, Jiangsu,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avnet.wd1.myworkdayjobs.com/external/job/Nanjing-Jiangsu-China/Sales-Engineer---Nanjing_JR-022849) |
 | **Cox** | Sr Solutions Engineer (RapidScale) | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/REMOTE---USA/Sr-Solutions-Engineer--RapidScale-_R202679928-1) |
 | **Workday Inc** | Sr Product Manager - Development Tools | USA, CA, Pleasanton | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Product-Manager---Development-Tools_JR-0107813) |
@@ -610,6 +609,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MatX** | Technical Program Manager- Silicon Ph... | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/matx/jobs/5356569008) |
 | **Parsons** | AI MADA Product Manager | MD (Field Locatio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Field-Location/AI-MADA-Product-Manager_R180131-1) |
 | **Parsons** | Administrative Project Coordinator | YT, Whitehorse, R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---YT-Whitehorse/Administrative-Project-Coordinator_R181384) |
+| **US Conec** | Associate Product Manager | Hickory, North Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/usconec/jobs/4314187009) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42427 current opportunities from 892 companies**
+**🎯 41949 current opportunities from 892 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
