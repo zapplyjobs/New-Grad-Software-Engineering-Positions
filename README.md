@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-43118-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-39234-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-43121-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-39237-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-901-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Full Stack Software Engineer (Applica... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002) |
 | **Persona** | Software Engineer, Security | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/persona/06ce6de8-8541-4dfd-9c09-3e467d5f91bb/application) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Riot Games** | Manager, Software Engineering, Core S... | Mercer Island, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.riotgames.com/en/work-with-us/job/8056379?gh_jid=8056379) |
 | **Booz Allen Hamilton** | Software Engineer | Arlington, VA + 3... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Software-Engineer_R0244654) |
 | **Booz Allen Hamilton** | Software Engineer | McLean, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Engineer_R0244653) |
-| **Cerebras Systems** | Full Stack Engineer - Console Team | Headquarters/Sunn... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/79eec4ee-8c02-407a-899c-3848f7c2a8b8/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 43118 current opportunities from 901 companies**
+**🎯 43121 current opportunities from 901 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
