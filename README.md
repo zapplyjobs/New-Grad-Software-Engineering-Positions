@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42774-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38961-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-901-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-42689-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38890-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-900-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -361,6 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Infrastructure Engineer III- Network ... | Hyderabad, Telang... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210763956) |
 | **onsemi** | Quality Assurance Engineer | Dong Nai, Viet Nam | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505729) |
 | **onsemi** | RELIABILITY ENGINEER | Carmona, Cavite, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505718) |
+| **Oracle** | Director, Core Infrastructure Enginee... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340246) |
 | **JP Morgan Chase** | Director of Infrastructure Engineerin... | Bengaluru, Karnat... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758971) |
 | **JP Morgan Chase** | Associate, Supplier Cybersecurity Con... | Bengaluru, Karnat... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761699) |
 | **JP Morgan Chase** | Infrastructure Engineer III- Network ... | Hyderabad, Telang... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763956) |
@@ -387,7 +388,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Comcast** | Engineer 3, Cyber Security Engineerin... | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-3--Cyber-Security-Engineering-0752_R440440) |
 | **Fiserv** | IaC Automation Engineer | Omaha, Nebraska | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/IaC-Automation-Engineer_R-10396634) |
 | **Boeing** | Flight Test Engineering Manager | Oklahoma City, OK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Flight-Test-Engineering-Manager_JR2026519193-1) |
-| **Autodesk** | DevOps Engineer | Serbia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Serbia---Novi-Sad---Zeleznicka-7/DevOps-Engineer_26WD99271) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -432,10 +432,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477969/commissioning-engineer-aws-data-center-commissioning) |
-| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477970/commissioning-engineer-aws-data-center-commissioning) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477968/commissioning-engineer-aws-data-center-commissioning) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Cummins** | Thermal and Fluid Systems Engineer | Milano, Lombardia... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431801) |
-| **Dell Technologies** | Mechanical Engineers-Data Center IT R... | Round Rock, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295765) |
 | **Fortinet** | Systems Engineer  - Morocco | Settat, Morocco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22782) |
 | **Fortinet** | Systems Engineer - Ivory Coast | Abidjan, Cote d'I... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23313) |
 | **Fortinet** | Systems Engineering Intern | São Paulo, SP, Br... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23585) |
@@ -499,6 +498,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Verizon** | IoT Connection Solution Sales | Basking Ridge New... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Business-Development-Sr-Mgr_R-1097768-1) |
 | **Wash U** | Community Health Van Mobile Driver (P... | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/St-Louis-MO/Community-Health-Van-Mobile-Driver--PRN-Remote----Cancer-Center-Community-Support_JR91025) |
 | **Wash U** | Research Nurse Coordinator II - Cardi... | Washington Univer... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Research-Nurse-Coordinator-II---Cardiothoracic-Surgery_JR95880) |
+| **Nidec** | Embedded Firmware Engineer (Level II)... | Europe/GRE/Markop... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/EuropeGREMarkopoulo---Roboteq-Greece-IKE/Embedded-Firmware-Engineer--Level-II--Motion-Control---Robotic-Systems_R0015366) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42774 current opportunities from 901 companies**
+**🎯 42689 current opportunities from 900 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
