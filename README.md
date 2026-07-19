@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-40913-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-37218-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-40914-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-37219-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-900-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 40913 current opportunities from 900 companies**
+**🎯 40914 current opportunities from 900 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
