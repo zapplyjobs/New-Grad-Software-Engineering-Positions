@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42173-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38406-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-902-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-42172-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38405-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-901-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -122,7 +122,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Appian** | Distinguished Software Engineer | McLean, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8067107) |
 | **Bosch Group** | Software Engineer (Base Software/ Dia... | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138338732) |
 | **Dialpad** | Software Engineer (Salesforce) | London, UK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8636221002) |
-| **Toast** | Software Engineer I | Dublin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8026602) |
 | **Citi** | Java/Frontend Developer | Pune Maharashtra ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Java-Frontend-Developer_26955531-1) |
 | **Visa** | Software Engineer/ Site Reliability E... | Singapore, SG | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/SG---Singapore/Software-Engineer--Site-Reliability-Engineer_REF085121W) |
 | **Takeda** | Web Developer_Drupal | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/IND---Bengaluru/Web-Developer-Drupal_R0183530) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ResMed** | Platform Engineering Manager | Bangalore, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Bangalore-India/Platform-Engineering-Manager_JR_052687) |
 | **Merck & Co.** | Spclst , Software Engineering | Telangana | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City-Inactive/Spclst---Software-Engineering_R403463-1) |
 | **KLA** | Technical Support Engineer (SWIFT) | Tainan City Taiwa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kla.wd1.myworkdayjobs.com/Search/job/Tainan-City-Taiwan/Technical-Support-Engineer--SWIFT-_2638653) |
+| **GlobalFoundries** | Experienced Field Application Engineer | München | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Mnchen/Experienced-Field-Application-Engineer_JR-2603192) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -438,7 +438,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lynk** | Electrical Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/6fbad635-7bb1-4049-805a-38fb4ec9d659/application) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, AWS Da... | Boardman, OR | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477731/data-center-controls-engineer-aws-data-center-controls-team) |
 | **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477969/commissioning-engineer-aws-data-center-commissioning) |
-| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477970/commissioning-engineer-aws-data-center-commissioning) |
+| **Amazon Data Services, Inc.** | Commissioning Engineer, AWS Data Cent... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477968/commissioning-engineer-aws-data-center-commissioning) |
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Cummins** | Thermal and Fluid Systems Engineer | Milano, Lombardia... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431801) |
 | **Dell Technologies** | Mechanical Engineers-Data Center IT R... | Round Rock, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295765) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42173 current opportunities from 902 companies**
+**🎯 42172 current opportunities from 901 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
