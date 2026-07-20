@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-42320-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38476-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-42313-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-38466-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-901-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -83,6 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ElevenLabs** | Forward Deployed Engineer - Software ... | Brazil | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/39d438fa-8070-4660-968b-055493860c4c/application) |
 | **ElevenLabs** | Forward Deployed Engineer - Software ... | India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa/application) |
 | **ElevenLabs** | Forward Deployed Engineer - Software ... | Brazil | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/6ce3306e-a546-4e11-83d6-3eaff5dd366b/application) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AFF... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478502/software-development-engineer-ii-affs-identity) |
 | **Citizens Financial Group** | Software Engineer II | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48178) |
 | **Dell Technologies** | Automation & AI Platform Engineer (Ne... | Limerick, Co. Lim... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/R288425) |
 | **Fortive** | Software Engineer | Bengaluru East, K... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10301) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HARMAN International** | Software Engineer - Audio | Karnataka, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Audio_R-54087-2026) |
 | **HARMAN International** | Software Engineer - Java Backend | Karnataka, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Software-Engineer---Java-Backend_R-54095-2026-1) |
 | **Allstate** | Software Engineer Consultant II | 2 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Full-Stack-Developer-Consultant-I-Consultant-II_R30908) |
-| **ASML** | GenAI Software Developer Internship | Shenzhen, China | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shenzhen-China/GenAI-Software-Developer-Internship_J-00347662) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,6 +177,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **TikTok** | Strategic Data Analyst - Global Busin... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663617537246415157) |
+| **TikTok** | Strategic Data Analyst - Global Busin... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663610893964921093) |
+| **TikTok** | Strategic Data Analyst - Global Busin... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663609313003407621) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Research Scientist Graduate (Video Qu... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629136672475040053) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
@@ -274,9 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Danaher** | Data Science Consultant - Precision M... | Tokyo, Japan | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Tokyo-Japan/Data-Science-Consultant---Precision-Medicine_R1315307) |
 | **CrowdStrike** | Detection Engineer - Machine Learning... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Detection-Engineer---Machine-Learning--Remote--East-Central-_R28832) |
 | **CACI** | AI Engineer - Application Development | 999 REMOTE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/999-REMOTE/AI-Engineer---Application-Development_328466) |
-| **CACI** | Data Scientist/Sustainment Engineer | Chantilly, VA, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Data-Scientist-Sustainment-Engineer_327207) |
-| **CACI** | Data Scientist - Security Automation | Linthicum, MD, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Linthicum-MD-US/Data-Scientist---Security-Automation_327930) |
-| **Applied Materials** | AI Engineer - (B5) | Austin,TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/AI-Engineer----B5-_R2624035) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Applied Intuition** | Technical Program Manager - Defense | Washington, D.C. | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/e1113490-4217-41c5-b223-4afb78673c54/application) |
 | **Airbnb** | Program Coordinator, Policy EMEA | Berlin, Germany | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8074303?gh_jid=8074303) |
 | **Twilio** | Presales Engineer | United Kingdom | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/8064090) |
 | **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Medtronic** | Project Coordinator II | Alajuela Coyol, A... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Project-Coordinator-II_R72165-1) |
 | **Blue Origin** | Sr Technical Product Manager | Greater Seattle A... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Sr-Technical-Product-Manager_R68762) |
 | **Blue Origin** | Embedded Software & Firmware Technica... | Greater Seattle Area | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software---Firmware-Technical-Program-Manager---Core-Avionics_R61670-1) |
-| **Comcast** | Technical Program Manager | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Technical-Program-Manager_R440969) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 42320 current opportunities from 901 companies**
+**🎯 42313 current opportunities from 901 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
