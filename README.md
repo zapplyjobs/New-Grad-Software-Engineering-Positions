@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38498-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-35032-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38505-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-35036-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-870-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Snowflake** | Software Engineer | Menlo Park, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c/application) |
 | **OpenAI** | Software Engineer, Compute Foundation... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/770d5c3f-4e72-4b49-aec4-d444e8ad7a64/application) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GardaWorld** | Software Engineer | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gardacp/jobs/6119018004) |
 | **AHEAD** | Software Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) |
 | **Anduril** | Production Software Engineer | Lexington, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5189877007?gh_jid=5189877007) |
-| **Leland** | Software Engineering Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/fac02e15-a819-4367-a381-add73324c793/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -188,8 +188,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Research Scientist - Human Alignment,... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
 | **Amazon.com Services LLC** | Applied Scientist, Amazon Selection a... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480254/applied-scientist-amazon-selection-and-catalog-systems-ascs) |
 | **Amazon.com Services LLC** | Applied Scientist, Price Perception a... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479986/applied-scientist-price-perception-and-evaluation-science) |
+| **Amazon.com Services LLC** | Applied Scientist, GenAI Catalog Inte... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480445/applied-scientist-genai-catalog-intelligence-prism) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
-| **Amazon.com Services LLC** | Data Scientist II, AMZL, Central Lear... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479689/data-scientist-ii-amzl-central-learning-solutions-science) |
 | **JPMorgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747306) |
 | **JP Morgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747306) |
 | **Red Bull** | Data Engineer | Santa Monica, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138741299) |
@@ -399,6 +399,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ALTEN Technology** | IT Support Analyst | Herndon, Virginia... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192454007) |
+| **ALTEN Technology** | IT Support Analyst | Mobile, Alabama, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192441007) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | Data Center Controls Engineer, Global... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119147112913871558) |
@@ -497,8 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NVIDIA** | Technical Project Manager - Data Cent... | CA Santa Clara + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Project-Manager---Data-Center-Construction_JR2021251) |
 | **NVIDIA** | ASIC Verification Engineer - GPU | CA Santa Clara + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---GPU_JR2019813) |
 | **Lowe's** | Full Time - CDL Delivery Driver | Las Cruces, NM 1158 | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Las-Cruces-NM-1158/Full-Time---CDL-Delivery-Driver_JR-02590061) |
-| **Lowe's** | Full Time - CDL Delivery Driver | Greensburg, PA 0180 | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Greensburg-PA-0180/Full-Time---CDL-Delivery-Driver_JR-02590024-1) |
-| **Lowe's** | Yard Truck Driver - Days | Lowe's Richmond, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Richmond-VA-BDC-3469/Yard-Truck-Driver---Days_JR-02589998) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -604,7 +604,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Product Manager - Microelectronics (W... | Boulder, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138173599) |
 | **Microsoft** | Technical Program Manager II - Financ... | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556934101) |
 | **Datadog** | Commercial Sales Engineer 2 (AMER - W... | Denver, Colorado,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714) |
-| **Roku** | Solutions Engineer, Platform Experiences | Santa Monica, Cal... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.weareroku.com/jobs/8069317?gh_jid=8069317) |
+| **Roku** | Solutions Engineer, Platform Experien... | Santa Monica, Cal... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.weareroku.com/jobs/8069317?gh_jid=8069317) |
 | **Bosch Group** | Customer Solutions Engineer | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138142955) |
 | **iCapital Network** | Product Manager, Evergreen Private Fu... | Greenwich,  Conne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8633871002) |
 | **iCapital Network** | Product Manager, Evergreen Private Fu... | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8633870002) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38498 current opportunities from 870 companies**
+**🎯 38505 current opportunities from 870 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
