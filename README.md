@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38762-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-35260-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-872-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38763-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-35261-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-871-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **OpenAI** | Software Engineer, Product Engineerin... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/aeeabb7a-f6e0-4e8d-a9ad-ae3464288125/application) |
 | **Accenture Federal Services** | Data Scientist/Application Developer ... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698847006?gh_jid=4698847006) |
 | **Auctor** | Software Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/auctor/45cd780b-30bd-4887-b1e8-0b4858aa8e63/application) |
 | **Sierra** | Software Engineer, Agent - Travel & H... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91/application) |
@@ -131,7 +132,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ServiceNow** | Software Engineering Manager - Build ... | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138740839) |
 | **Apple** | Swift Compiler Engineer | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673075/swift-compiler-engineer) |
 | **Zoox** | Software Engineer, ML Platform (ML Tr... | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/d4108968-e83d-4d87-a92c-e4cd1823801c/apply) |
-| **OpenAI** | Software Engineer, Ads Conversion Mea... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/1b86ec8e-fe34-452d-bbff-6619579e7385/application) |
 | **Stripe** | Software Engineer, Optimized Checkout... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8075469) |
 | **Lyft** | ML Software Engineer, ETA | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002) |
 | **Western Digital** | Summer 2027 - Software Engineering In... | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
@@ -288,6 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Accenture Federal Services** | Network Engineer | Chantilly, VA; Mc... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698851006?gh_jid=4698851006) |
 | **Aurora Innovation** | Automation Engineer II | Pittsburgh, Penns... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8642293002?gh_jid=8642293002) |
 | **Aurora Innovation** | Automation Engineer II | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8641734002?gh_jid=8641734002) |
 | **Neros Technologies** | Automation Engineer | Torrance, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/nerostechnologies/jobs/5189310007) |
@@ -350,7 +351,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ClickHouse** | Manager, Information Security | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6118983004) |
 | **Leland** | Site Reliability & Engineering Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/65051650-cb59-419e-969b-58028aec69bf/application) |
 | **Trace3** | Cybersecurity Engineer III | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8072162) |
-| **Accenture Federal Services** | Security Engineer | Hill AFB, UT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4696951006?gh_jid=4696951006) |
 | **Xsolla** | Site Reliability Engineer (Monetization) | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/9e094127-2bae-44bd-b144-49fb367aade5/apply) |
 | **Sezzle** | Revenue Systems Administrator | Brazil, Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7808009003) |
 | **Sezzle** | Revenue Systems Administrator | Mexico, Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7807961003) |
@@ -399,7 +399,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Sony Interactive Entertainment** | IT Support Coordinator (Contract Role) | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6117397004) |
 | **NBCUniversal** | Systems Engineer- NBC & Telemundo Was... | Washington, Distr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138957739) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
@@ -499,6 +498,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | Systems Engineer - Level 2/3 | Arizona | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Systems-Engineer---Level-2-3_R10240953) |
 | **RELX** | Systems Engineer III | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Bengaluru/Systems-Engineer-III_R115270-1) |
 | **RELX** | Systems Engineer | Gainesville FL 4t... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Gainesville-FL-4th-Avenue/Systems-Engineer_R115269-1) |
+| **TD Synnex** | Systems Engineer - LAC | San Jose, Costa Rica | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Jose-Costa-Rica/Systems-Engineer---LAC_R53434) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38762 current opportunities from 872 companies**
+**🎯 38763 current opportunities from 871 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
