@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-37387-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-33975-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-37392-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-33980-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-874-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Anduril** | Software Developer in Test, Air Defense | Irvine, Californi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191860007?gh_jid=5191860007) |
 | **Verkada** | Backend Engineer, Alarms | San Mateo, CA Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5191604007) |
 | **Confluent** | Distributed Systems Software Engineer... | Remote, United St... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff/application) |
 | **Snowflake** | Software Engineer | Menlo Park, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c/application) |
@@ -138,7 +139,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rivian and Volkswagen Group Technologies** | Software Engineer II - Streaming | Palo Alto, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/9a3114b1-4e3f-461c-91fc-2e1ea028f7b9/application) |
 | **Freedom Technology Solutions Group** | Junior Software Engineer 730 | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007) |
 | **Lynk** | Ground Systems Software Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/194cba01-5321-436d-b191-4867a4729645/application) |
-| **Whatnot** | Software Engineer, Ads | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/0ee9c599-58d6-4a9c-ba14-7a372ad4c920) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479425/software-development-engineer-aws-identity) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479416/software-development-engineer-aws-identity) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Id... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479412/software-development-engineer-aws-identity) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 37387 current opportunities from 874 companies**
+**🎯 37392 current opportunities from 874 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
