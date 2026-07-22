@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38496-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34970-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38552-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-35022-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-866-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -101,11 +101,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Core S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481467/software-development-engineer-core-shopping) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer, Neuron... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Da... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481518/software-development-engineer-aws-database-services) |
+| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **Amazon.com Services LLC** | Software Development Engineer,  Data ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481130/software-development-engineer-data-platform-prime-video-personalization-discovery) |
 | **Amazon Data Services, Inc.** | Software Development Engineer II, Dat... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480967/software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Manager, LLM Inf... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481437/software-development-manager-llm-inference-model-enablement-neuron-sdk) |
 | **Amazon Development Center U.S., Inc.** | Systems Development Engineer, Platfor... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481521/systems-development-engineer-platform-engineering-emerging-technology) |
-| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **ICD** | C++ Software Engineer | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301784) |
 | **JPMorgan Chase** | Software Engineer III - Java/React (F... | Columbus, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210730035) |
 | **JPMorgan Chase** | Manager of Software Engineering - Ful... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210744342) |
@@ -151,8 +151,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eventual** | Software Engineer | New York, NY ( | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eventual/1e33b756-04d9-47fa-be95-59bfcd810508/application) |
 | **Amazon Data Services, Inc.** | Software Development Engineer , Amazo... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480931/software-development-engineer-amazon-privacy) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer , Annap... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479630/software-development-engineer-annapurna-ml) |
-| **Amazon Web Services, Inc.** | Software Development Engineer, AWS Ma... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479999/software-development-engineer-aws-marketplace-partner-services) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, EC2 Ul... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480763/software-development-engineer-ec2-ultraserver-delivery-team) |
+| **Amazon Web Services, Inc.** | Software Development Engineer, AWS Ma... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479999/software-development-engineer-aws-marketplace-partner-services) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Ordering | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480008/software-development-engineer-ordering) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Ordering | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480005/software-development-engineer-ordering) |
 | **Oracle** | Software Development Director | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/336267) |
@@ -313,6 +313,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Integration Reliability Engineer, Pay... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8054241) |
 | **Amazon.com Services LLC** | Security Engineer II, Security Incide... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481118/security-engineer-ii-security-incident-response-team-sirt) |
 | **Amazon.com Services LLC** | Security Engineer I, Security Inciden... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481540/security-engineer-i-security-incident-response-team-sirt) |
+| **GM Financial** | Physical Security Systems Administrator | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260585) |
 | **The Trade Desk** | Sr Application Security Engineer | Bellevue; Ventura | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5192201007) |
 | **Accenture Federal Services** | Network Engineer | Chantilly, VA; Mc... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698851006?gh_jid=4698851006) |
 | **Aurora Innovation** | Automation Engineer II | Pittsburgh, Penns... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8642293002?gh_jid=8642293002) |
@@ -387,7 +388,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HARMAN International** | AI Test Engineer (m/f/d) | Bavaria, Germany | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/AI-Test-Engineer--m-f-d-_R-54774-2026) |
 | **Motorola Solutions** | Linux Automation Engineer | Krakow, Poland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Platform-Engineer_R65317) |
 | **Air Liquide** | QA Engineer (Fixed Term) | Malaysia, Nilai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Malaysia-Nilai/QA-Engineer--Fixed-Term-_R10096246) |
-| **Air Liquide** | Cyber Security & Compliance (Progetto... | Italy, Bovezzo | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Italy-Bovezzo/Cyber-Security---Compliance--Progetto-NIS2-_R10096529) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -529,9 +529,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Recruiting Solutions Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5290838008) |
 | **JPMorgan Chase** | Vice President Product Manager - Cust... | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210745465) |
 | **JPMorgan Chase** | Product Manager | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210754000) |
+| **JPMorgan Chase** | Product Manager | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773014) |
 | **WSP** | Project Coordinator | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91528) |
 | **JP Morgan Chase** | Vice President Product Manager - Cust... | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745465) |
 | **JP Morgan Chase** | Product Manager | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754000) |
+| **JP Morgan Chase** | Product Manager | Fort Worth, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773014) |
 | **Anthropic** | [Pipeline] Product Manager, Research ... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5324349008) |
 | **Scale AI** | Technical Program Manager, Public Sector | Columbia, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4716772005) |
 | **Scale AI** | Technical Program Manager (Gen AI Dat... | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4716784005) |
@@ -543,7 +545,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Attio** | Solutions Engineer [Pre and Post-Sale... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/eef50b66-c092-4018-bff5-08b81889a4f4/application) |
 | **ALTEN Technology** | Project Coordinator | Westminster, Colo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192562007) |
 | **Fivetran** | Sales Engineer Enterprise | Remote, Florida, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811982003) |
-| **Fivetran** | Sales Engineer Enterprise | Remote, South Car... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811980003) |
+| **Fivetran** | Sales Engineer Enterprise | Remote, Georgia, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811981003) |
 | **Anduril** | Technical Program Manager | Irvine, Californi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191862007?gh_jid=5191862007) |
 | **Abnormal Security** | Enterprise Sales Engineer - Northeast... | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7808075003?gh_jid=7808075003) |
 | **Anduril** | Technical Program Manager, Classified... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5192218007?gh_jid=5192218007) |
@@ -555,10 +557,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Box** | Solutions Engineer I | Chicago, Illinois... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/boxinc/jobs/8076927) |
 | **Veolia Environnement SA** | Commercial Project Structurer (Pre-Sa... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138881782) |
 | **Gotion** | Technical Program Manager, Battery | Irvine, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8641840002) |
-| **JPMorgan Chase** | Risk Management - Product Manager  - ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210741392) |
 | **Oracle** | Oracle ERP Pre-Sales Solution Enginee... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340493) |
 | **Oracle** | Retail Industry Presales Solution Con... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340494) |
-| **JP Morgan Chase** | Risk Management - Product Manager  - ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741392) |
 | **Stantec** | Project Coordinator | Atlanta, GA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006861) |
 | **NBCUniversal** | Product Manager - Salesforce | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138739584) |
 | **Gusto** | Security Technical Program Manager | Denver, CO;San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/8068218) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38496 current opportunities from 866 companies**
+**🎯 38552 current opportunities from 866 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
