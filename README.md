@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38495-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34972-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38496-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34970-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-866-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Anthropic** | People Research Scientist, Recruiting | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5362838008) |
 | **LinkedIn** | Marketing Data Scientist, Measurement... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000139128779) |
 | **Candid Health** | Data Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/88570d36-be12-4ab2-b25a-0e012dc669eb/application) |
 | **Accenture Federal Services** | Consumer Product Data Scientist | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698961006?gh_jid=4698961006) |
@@ -270,13 +271,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Web Services, Inc.** | Data Engineer II, GTPC Tech, Complian... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477449/data-engineer-ii-gtpc-tech-compliance-assurance-aws-security) |
 | **Amazon Development Centre Canada ULC** | Applied Scientist, Demand Tech Planning | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning) |
 | **Captivation** | Artificial Intelligence Machine Learn... | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5362330008) |
-| **Eurofins** | Machine Learning Engineer II | Saint Charles, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138205109) |
 | **SpaceX** | Data Engineer (Starlink Go-To-Market) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8637472002?gh_jid=8637472002) |
 | **Intuitive** | Sr Director, Translational Research S... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000138200530) |
-| **Anthropic** | Research Scientist, Life Sciences (Co... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5357739008) |
 | **ServiceNow** | Machine Learning Engineering Manager,... | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138179499) |
 | **LVT** | Data Analyst II | American Fork, Ut... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5324836008) |
 | **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138177390) |
+| **ServiceNow** | Machine Learning Engineer, GAI Search... | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138178124) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,6 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Axon** | Network Engineer, Axon 911 | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7730601003) |
 | **OpenAI** | Simulation Infrastructure Engineer | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b/application) |
 | **Lynk** | IT/Network System Administrator | Chevy Chase, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/e67f3b9f-021d-4c7b-b84b-20f4e8443e81/application) |
 | **LLNL** | Nuclear Facility Quality Assurance Ma... | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014227986) |
@@ -387,7 +388,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Motorola Solutions** | Linux Automation Engineer | Krakow, Poland | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Platform-Engineer_R65317) |
 | **Air Liquide** | QA Engineer (Fixed Term) | Malaysia, Nilai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Malaysia-Nilai/QA-Engineer--Fixed-Term-_R10096246) |
 | **Air Liquide** | Cyber Security & Compliance (Progetto... | Italy, Bovezzo | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Italy-Bovezzo/Cyber-Security---Compliance--Progetto-NIS2-_R10096529) |
-| **Unisys** | Network Security Engineer | Bangalore, KA, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Network-Security-Engineer_REQ573952) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -399,6 +399,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **NBCUniversal** | Systems Engineer- NBC Dallas | Fort Worth, TEXAS | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000139133344) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
 | **Google** | ASIC Design Verification Engineer, Pl... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142748636273353414) |
@@ -498,7 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Captivation** | Systems Engineer 2 | Augusta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5361930008) |
 | **Anthropic** | Finance Systems Engineer, Revenue | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5355526008) |
 | **LLNL** | Superblock Electrical Engineer | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014132176) |
-| **Redwood Materials** | Associate Controls Engineer | Ridgeville, South... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6116835004?gh_jid=6116835004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Navan** | Director, Client Experience (Pre-Sale... | Remote (USA) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=8030520) |
+| **Samsara** | Field Sales Engineer II | US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8068209?gh_jid=8068209) |
 | **Remote** | Product Manager, Billing Platform | EMEA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/remotecom/jobs/7813025003) |
 | **Harbinger Motors** | West Coast Sales Engineer | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5193649007) |
 | **Abnormal Security** | Outbound Product Manager — Identity F... | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7812768003?gh_jid=7812768003) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Project Coordinator Intern | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/India---Bengaluru/Project-Coordinator-Intern_2026-22307) |
 | **Yahoo** | Product Manager - App and Media Produ... | Taiwan | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/Taiwan/Product-Manager---TW-App-and-Media-Products--Yahoo-Taiwan_JR0027364-1) |
 | **TransUnion** | Product Manager – Decisioning | Leeds, United Kin... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Leeds-United-Kingdom/Product-Manager---Decisioning_19041312) |
-| **Monolithic Power Systems** | Sales Engineer | China | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Shanghai---China/Sales-Engineer_R-1737) |
-| **Live Nation** | Premium Product Manager | Live Nation Austr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Live-Nation-Australasia-Melbourne/Premium-Product-Manager_JR-91606) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38495 current opportunities from 866 companies**
+**🎯 38496 current opportunities from 866 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
