@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-28333-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25489-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-869-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-28337-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25494-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-870-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -160,12 +160,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Auctor** | Software Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/auctor/45cd780b-30bd-4887-b1e8-0b4858aa8e63/application) |
 | **Sierra** | Software Engineer, Agent - Travel & H... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91/application) |
 | **Apex Technology** | Software Engineer, DevSecOps | Los Angeles | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/apex-technology-inc/b726150a-c173-4638-a4bf-189e4965366f/application) |
-| **Uber** | Graduate 2026 PhD Software Engineer I... | Sunnyvale, Santa ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.uber.com/global/en/careers/list/302359/) |
 | **Experian** | Vice President, Software Engineering ... | UNITED STATES | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000138951109) |
 | **NBCUniversal** | Software Engineer | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138948229) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineer II - Streaming | Palo Alto, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/9a3114b1-4e3f-461c-91fc-2e1ea028f7b9/application) |
 | **LinkedIn** | Distinguished Software Engineer, Syst... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000138942179) |
 | **Esri** | C# Software Engineer II – Feature Ser... | Redlands, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5167707007?gh_jid=5167707007) |
+| **Torc Robotics** | Software Engineer II - Device Drivers | Ann Arbor, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8634991002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -399,6 +399,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Pure Storage** | PCIe Hardware Engineer, Systems | Santa Clara, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/7985259) |
 | **AMD** | SERDES Firmware Engineer | San Jose, CA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88608/login) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
 | **ByteDance** | ASIC Design Engineer Graduate (Video ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538953975011035400) |
@@ -414,6 +415,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Data Center Chief Engineer Night Role | Mesa, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482504/data-center-chief-engineer-night-role) |
 | **Amazon Data Services, Inc.** | Data Center Chief Engineer Night Role | Avondale, AZ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482503/data-center-chief-engineer-night-role) |
 | **Amazon Data Services, Inc.** | Electrical Engineer, Data Center, Col... | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482351/electrical-engineer-data-center-colocation-regional-engineering-amer) |
+| **Amazon Development Center U.S., Inc.** | FPGA Verification Engineer, Bespoke S... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482749/fpga-verification-engineer-bespoke-solutions) |
 | **Sherwin-Williams** | Delivery Driver II | Lawrenceville, GA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2614587) |
 | **Sherwin-Williams** | Delivery Driver II | Burlingame, CA, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2615581) |
 | **Sherwin-Williams** | Delivery Driver II | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616880) |
@@ -497,8 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boeing** | IT Systems Analyst | Brisbane, Australia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Systems-Analyst_JR2026518016-1) |
 | **Teledyne** | Hardware Engineer | Eindhoven | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Netherlands---Eindhoven-L91/Hardware-Engineer_REQ30429) |
 | **FLIR Systems** | Hardware Engineer | Eindhoven | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Netherlands---Eindhoven-L91/Hardware-Engineer_REQ30429) |
-| **Jabil** | Quality Systems Engineer II | Ho Chi Minh City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ho-Chi-Minh-City/Quality-Systems-Engineer-II_J2451598) |
-| **Danaher** | Forklift Driver - Shipping/Receiving ... | Logan, Utah, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Forklift-Driver---Shipping-Receiving-and-Distribution-Associate--2nd-shift-2pm-10-30pm-M-F-_R1315177) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Cresta** | Solutions Engineer, AI Agent | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5369032008) |
+| **Sierra** | Product Manager, Agent Development (S... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/9b94e279-5869-4a33-b50f-9aa01ff61a22/application) |
 | **Sift** | Customer Solutions Engineer | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sift/b5579ebe-e2fc-4666-9c60-edffb66f8e84/application) |
 | **Rubrik** | Sales Engineer – Public Sector | United Kingdom, R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.7949886?gh_jid=7949886) |
 | **Applied Intuition** | Product Manager - Defense | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/7a6cae81-64fe-432f-8af8-7449d916f0db/application) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Product Manager Project Intern (TikTo... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663349357178620165) |
 | **iSpot.tv** | Associate Technical Program Manager | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ispottv/jobs/4716089005) |
 | **Dandy** | Technical Project Manager, HR Operations | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/d1f90407-e541-4294-8788-c770970c7ce6/application) |
-| **Zscaler** | Commercial Sales Engineer - NY/NJ | New York City, Ne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5187339007) |
-| **Aurora Innovation** | Lidar Technical Program Manager | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8624950002?gh_jid=8624950002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 28333 current opportunities from 869 companies**
+**🎯 28337 current opportunities from 870 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
