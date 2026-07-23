@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38103-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34699-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38097-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34693-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-866-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Bosch Group** | Software Engineer (Base Software/ Dia... | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139296629) |
 | **Field AI** | Field Application Engineer - Abilene,... | Abilene, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/d7e484f9-325c-4a36-a7be-9fa52c509692/apply) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -128,13 +129,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Software Development Engineer, CloudF... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481664/software-development-engineer-cloudfront) |
 | **Amazon.com Services LLC** | Software Development Engineer, CreativeX | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481469/software-development-engineer-creativex) |
 | **Amazon.com Services LLC** | Software Development Engineer, Core S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481467/software-development-engineer-core-shopping) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer, RDS SQ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer, Neuron... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer, RDS SQ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Da... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481518/software-development-engineer-aws-database-services) |
+| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **Amazon Data Services, Inc.** | Software Development Engineer II, Dat... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480967/software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Manager, LLM Inf... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481437/software-development-manager-llm-inference-model-enablement-neuron-sdk) |
 | **Annapurna Labs (U.S.) Inc.** | EFA Network Software Engineer I, Anna... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) |
-| **Amazon Kuiper Manufacturing Enterprises LLC** | Software Development Engineer - Embed... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481042/software-development-engineer-embedded-flight-computer-software) |
 | **Emerson Electric** | Application Engineer I | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819) |
 | **Honeywell** | Advanced Software Engineer | Acton, MA, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153700) |
 | **ICD** | C++ Software Engineer | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301784) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Virtu Financial** | Internship - Software Engineer | Austin, TX; New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | **Sony Interactive Entertainment** | Software Development Engineer in Test... | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6120141004) |
 | **Zipline** | Autonomy Droid Perception SWE - Onboa... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7811676003) |
-| **MongoDB** | Software Engineer 3, Atlas Identity a... | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8069776) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38103 current opportunities from 866 companies**
+**🎯 38097 current opportunities from 866 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
