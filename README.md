@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38364-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34869-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-38143-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34656-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-864-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Rackner** | Frontend Software Engineer — Secure M... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rackner/jobs/4717783005) |
 | **Rackner** | Backend Software Engineer — Secure Mi... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rackner/jobs/4717774005) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
@@ -122,8 +123,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, CreativeX | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481469/software-development-engineer-creativex) |
 | **Amazon.com Services LLC** | Software Development Engineer, Core S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481467/software-development-engineer-core-shopping) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer, Neuron... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Da... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481518/software-development-engineer-aws-database-services) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, RDS SQ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Da... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481518/software-development-engineer-aws-database-services) |
 | **Amazon Data Services, Inc.** | Software Development Engineer II, Dat... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480967/software-development-engineer-ii-data-center-design-engineering-bim-ai-technologies) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Manager, LLM Inf... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481437/software-development-manager-llm-inference-model-enablement-neuron-sdk) |
 | **Annapurna Labs (U.S.) Inc.** | EFA Network Software Engineer I, Anna... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sony Interactive Entertainment** | Platform Engineer II | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6121289004) |
 | **Astronomer** | Software Engineer - Applications | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f/application) |
 | **LG Electronics** | Software Engineer II | Alpharetta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5365039008) |
-| **OpenAI** | Software Engineer, Ads Integrity | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38364 current opportunities from 864 companies**
+**🎯 38143 current opportunities from 864 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
