@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-38185-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-34690-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-864-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-36949-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-33513-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-863-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -136,9 +136,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Manager of Software Engineering - Ful... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210744342) |
 | **JPMorgan Chase** | Software Engineer- Backend | Columbus, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210760193) |
 | **Tradeweb** | C++ Software Engineer | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301784) |
-| **JP Morgan Chase** | J.P. Morgan Wealth Management – Priva... | Lake Oswego, OR, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666485) |
-| **JP Morgan Chase** | Manager of Software Engineering - Ful... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744342) |
-| **JP Morgan Chase** | Software Engineer- Backend | Columbus, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760193) |
 | **Glydways** | Software Engineer, Onboard Integration | Richmond, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/glydways/jobs/5192917007) |
 | **Sony Interactive Entertainment** | Sr Software Engineer (Audio) | CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6122115004) |
 | **Auctor** | Software Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/auctor/45cd780b-30bd-4887-b1e8-0b4858aa8e63/application) |
@@ -166,6 +163,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LG Electronics** | Software Engineer II | Alpharetta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5365039008) |
 | **OpenAI** | Software Engineer, Ads Integrity | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce/application) |
 | **Eventual** | Software Engineer | New York, NY ( | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eventual/1e33b756-04d9-47fa-be95-59bfcd810508/application) |
+| **Amazon Data Services, Inc.** | Software Development Engineer , Amazo... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480931/software-development-engineer-amazon-privacy) |
+| **Amazon Web Services, Inc.** | Software Development Engineer, AWS Ma... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479999/software-development-engineer-aws-marketplace-partner-services) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer, Ordering | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480008/software-development-engineer-ordering) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -223,9 +223,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Data Engineer III - Python / SQL | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210709366) |
 | **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210729407) |
 | **JPMorgan Chase** | Data Scientist [Multiple Positions Av... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210770939) |
-| **JP Morgan Chase** | Data Engineer III - Python / SQL | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709366) |
-| **JP Morgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729407) |
-| **JP Morgan Chase** | Data Scientist [Multiple Positions Av... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770939) |
 | **Anthropic** | Data Engineer, Safeguards | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5247446008) |
 | **Microsoft** | Applied Scientist II (Bing Places) | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556858338) |
 | **Anthropic** | Machine Learning Infrastructure Engin... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
@@ -277,6 +274,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron Technology** | MANAGER, DATA ENGINEERING, SMAI | Phoenix Aquila, I... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/external/job/Hyderabad---Phoenix-Aquila-India/MANAGER--DATA-ENGINEERING--SMAI_JR106402) |
 | **Micron** | DATA SCIENTIST, SMART MFG & AI | Fab 10A, Singapore | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST--SMART-MFG---AI_JR106488) |
 | **Micron** | MANAGER, DATA ENGINEERING, SMAI | Phoenix Aquila, I... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/MANAGER--DATA-ENGINEERING--SMAI_JR106402) |
+| **Pfizer** | Associate Data Manager, Clinical Data... | Chennai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Chennai/Associate-Data-Manager--Clinical-Data-Sciences_4960826) |
+| **Pfizer** | Manager, Clinical Data Scientist | Chennai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Chennai/Manager--Clinical-Data-Scientist_4960825) |
+| **CME Group** | AI Engineer | Bagmane Tridib | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Data-Scientist_34487-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -345,9 +345,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Cloud Infrastructure/DevOps Engineer | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210752544) |
 | **JPMorgan Chase** | Director of Security Engineering | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210767771) |
 | **JPMorgan Chase** | Site Reliability Engineer III | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210770691) |
-| **JP Morgan Chase** | Cloud Infrastructure/DevOps Engineer | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752544) |
-| **JP Morgan Chase** | Director of Security Engineering | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767771) |
-| **JP Morgan Chase** | Site Reliability Engineer III | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770691) |
 | **Accenture Federal Services** | Google Cloud Platform (GCP) Cloud Eng... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695151006?gh_jid=4695151006) |
 | **Eurofins** | Quality Assurance Coordinator | Fairfield, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138733235) |
 | **Freeform** | IT System Administrator | Los Angeles, CA (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7810360003) |
@@ -388,6 +385,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wolters Kluwer** | Associate Software Quality Assurance ... | Chennai, Neville ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Associate-Software-Quality-Assurance-Analyst_R0057578) |
 | **Takeda** | AWS Devops Developer | Bengaluru | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/IND---Bengaluru/AWS-Devops-Developer_R0183535) |
 | **SS&C Technologies** | Site Reliability Engineer (SRE) - PA2... | Hyderabad, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Site-Reliability-Engineer--SRE----PA2026PROTAPOFF1_R43012) |
+| **Philips** | Advanced SW Test Engineer - SDET | Shanghai | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Advanced-SW-Test-Engineer---SDET_587297) |
+| **State Street** | QA Automation Engineer - Assistant Ma... | Hyderabad, India | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/QA-Engineer-Senior-Associate_R-790165) |
+| **NVIDIA** | Cyber Security Analyst | India Bengaluru +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/India-Bengaluru/Cyber-Security-Analyst_JR2015853) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -431,8 +431,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sherwin-Williams** | Delivery Driver - DOT | Spokane, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616507) |
 | **Sherwin-Williams** | Delivery Driver | Gray, TN, United ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618197) |
 | **Sherwin-Williams** | Delivery Driver - DOT | Allentown, PA, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618347) |
-| **JP Morgan Chase** | Credit Support Analyst | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755089) |
-| **JP Morgan Chase** | Credit Support Analyst | Tempe, AZ, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771611) |
 | **Stantec** | Intermediate Electrical Engineer | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006872) |
 | **SpaceX** | Manager, Automation & Controls Engine... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8642058002?gh_jid=8642058002) |
 | **Anthropic** | IT Support Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5366138008) |
@@ -455,7 +453,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Controls Engineer | Delaware, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20261416) |
 | **WSP** | Early Professional, Electrical Engine... | Syracuse, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91540) |
 | **WSP** | Early Career Substation Electrical En... | Saint Louis, MO, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91552) |
-| **JP Morgan Chase** | US Equity Research - SMid Biotech - A... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758136) |
 | **Stantec** | Intermediate Electrical Engineer | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006752) |
 | **Bosch Group** | Electrical Engineer | Roseville, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138739709) |
 | **LVT** | CDL Driver | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5363371008) |
@@ -499,6 +496,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Manufacturing hardware engineer, Clou... | Cupertino, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477148/manufacturing-hardware-engineer-cloud-ai-ml-storage-server-teams) |
 | **Dell Technologies** | Mechanical Engineers-Data Center IT R... | Round Rock, TX, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/295765) |
 | **Honeywell** | Sr Advanced Electrical Engineer | Fort Washington, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153544) |
+| **Experian** | Manager, Application IT Support | UNITED STATES | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000138202510) |
+| **Match Group** | Operations Engineer - Data Center (Sy... | Dallas, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/matchgroup/f5172470-df74-4291-94b1-8da411c0ec66/apply) |
+| **Captivation** | Systems Engineer 2 - AI/ML/Jira/Confl... | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5362106008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -545,9 +545,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oracle** | AI Solutions Engineer — Customer Orch... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340781) |
 | **Vertiv** | Engineering Project Coordinator | Delaware, OH, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20272102) |
 | **WSP** | Project Coordinator | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91528) |
-| **JP Morgan Chase** | Product Manager, VP - Card Benefits E... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726429) |
-| **JP Morgan Chase** | Vice President Product Manager - Cust... | Plano, TX, United... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745465) |
-| **JP Morgan Chase** | Product Manager | Houston, TX, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754000) |
 | **Anthropic** | [Pipeline] Product Manager, Research ... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5324349008) |
 | **Scale AI** | Technical Program Manager, Public Sector | Columbia, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4716772005) |
 | **Scale AI** | Technical Program Manager (Gen AI Dat... | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4716784005) |
@@ -610,6 +607,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Remote** | Product Manager, Billing Platform | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/remotecom/jobs/7800935003) |
 | **Accenture Federal Services** | Oracle Scrum Master | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4697913006?gh_jid=4697913006) |
 | **Lila Sciences** | Research Product Manager, Post Training | Cambridge, MA USA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4310498009) |
+| **Astronomer** | Sales Engineer | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/astronomer/08d23092-f04f-42ab-a6e9-96e14cb7f035/application) |
+| **TD Synnex** | Technical Presales Consultant - HPE n... | Bucharest, Romania | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bucharest-Romania/Technical-Presales-Consultant---HPE-networking_R53843) |
+| **TD Synnex** | Junior Technical Presales Google Chrome | Alcobendas, Spain | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Technical-Presales-Specialist-Google-Chrome_R52927) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 38185 current opportunities from 864 companies**
+**🎯 36949 current opportunities from 863 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
