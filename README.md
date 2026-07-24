@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-26358-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-23663-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-26365-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-23670-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-871-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -142,8 +142,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Fauna | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Transi... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482848/software-development-engineer-transit-gateway) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Agenti... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482688/software-development-engineer-ii-aws-throttling) |
 | **Amazon.com Services LLC** | Software Development Engineer, EC2 Co... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482688/software-development-engineer-ii-aws-throttling) |
 | **Amazon Web Services Canada, Inc.** | Software Development Engineer, AWS Ma... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482917/software-development-engineer-aws-marketplace) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, AWS Tr... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482877/software-development-engineer-aws-transactional-services) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, S3 Ind... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482904/software-development-engineer-s3-index-control-plane) |
@@ -593,7 +593,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Attio** | Solutions Engineer [Pre and Post-Sale... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/eef50b66-c092-4018-bff5-08b81889a4f4/application) |
 | **ALTEN Technology** | Project Coordinator | Westminster, Colo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192562007) |
 | **Fivetran** | Sales Engineer Enterprise | Remote, Florida, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811982003) |
-| **Fivetran** | Sales Engineer Enterprise | Remote, South Car... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811980003) |
+| **Fivetran** | Sales Engineer Enterprise | Remote, Georgia, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fivetran.com/careers/job?gh_jid=7811981003) |
 | **Abnormal Security** | Enterprise Sales Engineer - Northeast... | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7808075003?gh_jid=7808075003) |
 | **Vultr** | GPU Solutions Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/899cdad9-5751-4ade-bc94-02eccaa36ca4/application) |
 | **Samsara** | Enterprise Implementation Consultant | UK | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8074109?gh_jid=8074109) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26358 current opportunities from 871 companies**
+**🎯 26365 current opportunities from 871 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
