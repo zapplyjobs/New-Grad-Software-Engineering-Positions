@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-28080-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25239-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-28082-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25241-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-868-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **SpaceX** | Full Stack Software Engineer (Applica... | Memphis, TN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) |
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
 | **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
@@ -157,7 +158,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Discord** | Software Engineer, Notifications | San Francisco Bay... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8642220002) |
 | **Zipline** | Software Engineer - Maps Routing | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7812206003) |
 | **ZoomInfo** | Software Engineer III | Waltham, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8634697002) |
-| **SpaceX** | Full Stack Software Engineer, Safety ... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8645132002?gh_jid=8645132002) |
 | **Wellmark, Inc.** | Platform Engineer | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000139105427) |
 | **Vultr** | Software Engineer (PHP) | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/5cd06a25-ab5c-427b-aadf-0639c73833a5/application) |
 | **AMD** | AI/ML Platform Engineer | Santa Clara, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87746/login) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 28080 current opportunities from 868 companies**
+**🎯 28082 current opportunities from 868 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
