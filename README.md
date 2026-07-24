@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-27840-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25034-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-867-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-28005-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-25177-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-868-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -104,6 +104,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Marketing Automation Platform Engineer | Mettawa, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014249816) |
 | **Cerebras Systems** | ML Software Engineer - Integration & ... | and Canada Offices | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application) |
 | **WHOOP** | Software Engineering Manager (AI Qual... | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/0f7aaef3-a22e-4051-8dc5-a334ad52536f/apply) |
+| **Anduril** | Software Engineer, Sensor Fusion | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007) |
+| **Anduril** | Software Engineer, C++ | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007) |
+| **Anduril** | Software Engineer, Air & Missile Defense | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5194551007?gh_jid=5194551007) |
 | **Blueprint Technologies** | Software Engineer – Cloud Capacity & ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bpcs/jobs/8081622) |
 | **Vultr** | Platform Engineer | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead/application) |
 | **SpaceX** | Software Engineer, Site Reliability E... | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002) |
@@ -163,9 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ZoomInfo** | Software Engineer III | Waltham, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8634697002) |
 | **Wellmark, Inc.** | Platform Engineer | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000139105427) |
 | **Vultr** | Software Engineer (PHP) | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Vultr/5cd06a25-ab5c-427b-aadf-0639c73833a5/application) |
-| **AMD** | AI/ML Platform Engineer | Santa Clara, CA, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87746/login) |
-| **AMD** | System Design Engineer - AI Cluster S... | Austin, TX, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadacareers-amd.icims.com/jobs/88536/login) |
-| **Accenture Federal Services** | Full Stack Software Engineering Manager | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698919006?gh_jid=4698919006) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -331,7 +331,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Captivation** | DevOps Engineer - Kubernetes/Terrafor... | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5367914008) |
 | **Trace3** | Platform Operations Engineer, DevOps ... | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8080293) |
 | **Microsoft** | Cloud Network Engineering IC3 | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556927669) |
+| **Anduril** | Electrical System Test Engineer | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5156719007?gh_jid=5156719007) |
 | **VAST** | Design Reliability Engineer | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4699081006?gh_jid=4699081006) |
+| **Anduril** | AV Systems Administrator | Washington, Distr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5190224007?gh_jid=5190224007) |
 | **Axon** | Network Engineer, Axon 911 | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7730601003) |
 | **OpenAI** | Simulation Infrastructure Engineer | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b/application) |
 | **Lynk** | IT/Network System Administrator | Chevy Chase, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/Lynk/e67f3b9f-021d-4c7b-b84b-20f4e8443e81/application) |
@@ -382,12 +384,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Scout Motors** | Systems Administrator | Charlotte, North ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scoutmotors/jobs/5190693007) |
 | **Skydio** | Flight Test Engineer - Wireless | San Mateo, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/9a2ea1b1-b3cc-4dfa-995b-b9da074247d5/application) |
 | **Snowflake** | Cloud Infrastructure Engineer | Dublin, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/4fe8d816-0453-4d63-ae0a-2085a5a49101/application) |
+| **Anduril** | Systems Administrator | Reston, Virginia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5190747007?gh_jid=5190747007) |
 | **ServiceNow** | Enterprise Account Exec, Cybersecurit... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000138648484) |
 | **Amazon.com Services LLC** | Sr Manager, Security Engineer, AWS Fo... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478759/sr-manager-security-engineer-aws-foundational-hardware-security) |
 | **Neuralink** | Quality Assurance Specialist | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7808639003?gh_jid=7808639003) |
-| **Discord** | QA/DevOps Engineer | San Francisco Bay... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8637648002) |
-| **Bellese** | QA Engineer II | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/bellese/104a1619-f855-414c-b885-0fe98e3949ca/apply) |
-| **Illumio** | Site Reliability Engineer II |  | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/illumio/c03fae33-a169-429e-81f0-15b9bcc1df56/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -460,6 +460,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Intermediate Electrical Engineer | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006872) |
 | **SpaceX** | Manager, Automation & Controls Engine... | Starbase, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8642058002?gh_jid=8642058002) |
 | **Anthropic** | IT Support Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5366138008) |
+| **Anduril** | Sustainment Electrical Engineer, Inte... | Santa Ana, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5186725007?gh_jid=5186725007) |
 | **Blueprint Technologies** | Data Center Systems & Liquid Cooling ... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bpcs/jobs/8078188) |
 | **Per Scholas** | Instructional Assistant (IT Support) | Houston, Texas, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4697574006) |
 | **Per Scholas** | Instructional Assistant (IT Support) | Kansas City, Miss... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4697589006) |
@@ -480,7 +481,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Electrical Engineer | Roseville, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138739709) |
 | **LVT** | CDL Driver | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5363371008) |
 | **LLNL** | High-Performance Computing (HPC) Data... | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014186766) |
+| **Anduril** | Firmware Engineer, Space Embedded Sys... | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191467007?gh_jid=5191467007) |
 | **Gimlet Labs** | Data Center Technician | Oklahoma City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gimlet/3e43d9c8-7e22-47a5-98c4-6e384e2e4ed8/application) |
+| **Anduril** | Firmware Engineer | Irvine, Californi... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5191296007?gh_jid=5191296007) |
 | **Cerebras Systems** | Deployment Manager – Global Data Cent... | Headquarters/Sunn... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/465e7d06-93c1-49e5-a2c9-7088d1bcda0a/application) |
 | **Microsoft** | Critical Environment Electrical Engineer | Abilene, Texas, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556928892) |
 | **Lila Sciences** | Controls Engineer II, Sustaining Engi... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4294210009) |
@@ -496,9 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CoreWeave** | Operations Enablement Analyst, Data C... | Livingston, NJ / ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4698084006&board=coreweave&gh_jid=4698084006) |
 | **SpaceX** | Electrical Hardware Engineer, AI Sate... | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8639247002?gh_jid=8639247002) |
 | **Relativity Space** | Robotics Engineer II | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8638781002?gh_jid=8638781002) |
-| **Trace3** | Systems Engineer SME | Colorado Springs, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/8072129) |
-| **WHOOP** | Electrical Engineer II | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/a892b3e2-944f-4a41-a6aa-662de62be02e/apply) |
-| **NVIDIA** | Firmware Engineer | China Beijing + 1... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/China-Beijing/Firmware-Engineer_JR2021042) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -519,6 +519,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Enterprise Product Manager - Unified ... | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939646) |
 | **Sandisk** | Technical Product Manager | Milpitas, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000139375579) |
 | **Eve** | Legal Implementation Consultant | US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eve/jobs/4330327009) |
+| **Anduril** | Technical Program Manager, Mathematic... | Broomfield, Color... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5195248007?gh_jid=5195248007) |
 | **QuEra Computing** | Technical Product Manager – Control S... | Boston, MA, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5369364008) |
 | **CapTech Consulting** | Contract Scaled Scrum Master | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000139370094) |
 | **CapTech Consulting** | Contract Scaled Scrum Master | Denver, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/CapTechConsulting/744000139370089) |
@@ -555,6 +556,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Software Quality Engineer, G&A Soluti... | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672967/software-quality-engineer-g-a-solutions-engineering-gse) |
 | **OpenAI** | Product Manager, IT | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/c3783e22-c6b6-41d6-b0d4-2b648912268f/application) |
 | **Imprint** | Product Manager, Consumer | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/imprint/18bffa72-b87a-400c-840d-80d5b0bfccac/application) |
+| **Anduril** | Technical Program Manager, Seabed Sentry | Quincy, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5193751007?gh_jid=5193751007) |
+| **Anduril** | Technical Program Manager, Seabed Sentry | Quincy, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5188716007?gh_jid=5188716007) |
 | **Benchling** | Product Manager, Scientific Developme... | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benchling/3b50ebb7-4e9e-4ede-aaf7-d5ce91ca7eb3/application) |
 | **Navan** | Director, Client Experience (Pre-Sale... | Remote (USA) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=8030520) |
 | **Samsara** | Field Sales Engineer - Public Sector ... | US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8068209?gh_jid=8068209) |
@@ -607,9 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | Product Manager, Fleet Management Tools | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8073643) |
 | **Gen Digital** | Solutions Engineer | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gen-digital/49094960-470c-4090-ab12-372f79c43ec1/application) |
 | **Commure** | Product Manager, EHR | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/commure/d0d9b238-3837-441a-b90f-1f47833e0d9d/application) |
-| **Apple** | Technical Program Manager - VPG | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671340/technical-program-manager-vpg) |
-| **Airbnb** | Product Manager, Identity | California, Orego... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8055637?gh_jid=8055637) |
-| **Zipline** | Technical Program Manager - Ground Sy... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7809121003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 27840 current opportunities from 867 companies**
+**🎯 28005 current opportunities from 868 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
