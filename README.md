@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-26259-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-23614-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-26260-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-23615-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-871-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Software Development Engineer Graduat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509266973236152583) |
 | **ByteDance** | AI/LLM Network Software Development E... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7509262740803930376) |
 | **ByteDance** | Software Development Engineer-AI/LLM ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629215845797218613) |
-| **Google** | Software Engineer III, AI/ML, Foundat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95693255462527686) |
-| **Google** | Software Engineer III, Infrastructure... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/79221717653693126) |
-| **Google** | Software Engineer III, Google Cloud C... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135721958779036358) |
+| **Google** | Software Engineer III, AI/ML GenAI, G... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/86751146437157574) |
+| **Google** | Software Engineer III, Embedded Syste... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113923054098096838) |
+| **Google** | Software Engineer III, Consensus, Goo... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80339340084814534) |
 | **Bot Auto** | Software Engineer, Generalist in Auto... | Houston, TX or Sa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/botauto/jobs/5370717008) |
 | **Bot Auto** | Software Engineer, VCU (Vehicle Contr... | Houston, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/botauto/jobs/5370716008) |
 | **Apple** | Swift Ecosystem and Education Engineer | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674174/swift-ecosystem-and-education-engineer) |
@@ -180,9 +180,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Research Scientist in AI Foundation M... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623552015124154629) |
-| **Google** | Product Engineer, Machine Learning Ac... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111573776780403398) |
 | **Google** | Material Science Research Engineer, D... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141132699489182406) |
 | **Google** | Research Engineer, DeepMind | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113676455329571526) |
+| **Google** | Research Engineer, Humanoids, DeepMind | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105870811830592198) |
 | **Microsoft** | Data Scientist | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556941429) |
 | **OpenAI** | Applied AI Engineer, GTM Growth Engin... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/38e3c4bf-a632-405e-9619-b87382ca2472/application) |
 | **Anthropic** | Research Scientist, Takeoff Intel | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5370669008) |
@@ -291,9 +291,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Security Engineering Project Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
 | **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
 | **ByteDance** | Site Reliability Engineer Intern (Dat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535646140345272584) |
-| **Google** | EMC Test Engineer, Google Cloud | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Google** | Security Engineer, GKE | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103434534581609158) |
 | **Google** | Network Automation Engineer, AI and I... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95301754161111750) |
+| **Google** | Security Engineer, Enterprise Detecti... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/142714037728092870) |
 | **SpaceX** | Security Engineer (Detection Engineer... | Redmond, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650242002?gh_jid=8650242002) |
 | **SpaceX** | Security Analyst (Threat Detection) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650241002?gh_jid=8650241002) |
 | **SpaceX** | Security Analyst (SOC) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650239002?gh_jid=8650239002) |
@@ -402,9 +402,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
 | **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665469197580831029) |
 | **ByteDance** | LLM AIOps Development Engineer Gradua... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538114876280817927) |
-| **Google** | Technical Program Manager II, Supplie... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91604193193665222) |
-| **Google** | Program Manager III, Data Management,... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103721195731329734) |
-| **Google** | Program Manager III, Commercial Readi... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96346867880600262) |
+| **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
+| **Google** | Platforms and Devices Silicon Enginee... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113832041593610950) |
+| **Google** | Firmware Engineer, Modem Access Strat... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135387947728806598) |
 | **Olsson** | Licensed Traffic Engineer – Data Center | Baton Rouge, LA; ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5370711008) |
 | **Olsson** | Licensed Traffic Engineer – Data Center | Remote; Arkansas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5370710008) |
 | **Olsson** | Traffic Engineer (EIT) - Data Center | Baton Rouge, LA; ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5370708008) |
@@ -510,9 +510,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Technical Program Manager, Model Laun... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123058506445005510) |
-| **Google** | Product Manager II, Camera and Photos... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/81654962655765190) |
-| **Google** | Technical Program Manager III, Memory... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/90518021734310598) |
+| **Google** | Technical Program Manager III, Sensor... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
+| **Google** | Technical Program Manager III, AI Age... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/102695351382614726) |
+| **Google** | Technical Program Manager III, Softwa... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103163291290739398) |
 | **Mercor** | Product Manager, Model Gateway | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/3248265b-821b-48d0-9ab7-0d07205f7176/application) |
 | **Mercor** | Product Manager, Mobile | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/7df910e9-9f22-4479-8945-83ca7660ab18/application) |
 | **Mercor** | Deployment Strategist | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3/application) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 26259 current opportunities from 871 companies**
+**🎯 26260 current opportunities from 871 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
