@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-25434-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-22874-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-25461-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-22898-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-870-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -543,6 +543,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Horace Mann** | Associate Product Manager | Madison | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6123745004) |
 | **Supabase** | Product Manager - Marketplace | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441/application) |
 | **Abnormal Security** | Specialist Sales Engineer, Identity T... | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7814041003?gh_jid=7814041003) |
+| **Netflix** | Technical Program Manager 6 - Ads Dem... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790317355521) |
 | **Fortinet** | Sales Engineer | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23652) |
 | **Fortinet** | Regional Sales Engineer | Indianapolis, IN,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23657) |
 | **JPMorgan Chase** | Wealth Management - KYC Data Product ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210746814) |
@@ -609,7 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | Scrum Master | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698794006?gh_jid=4698794006) |
 | **Attio** | Solutions Engineer [Pre and Post-Sale... | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/d48617ff-be9b-41cd-aff7-3ad2f826ca74/application) |
 | **Attio** | Solutions Engineer [Pre and Post-Sale... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/attio/eef50b66-c092-4018-bff5-08b81889a4f4/application) |
-| **ALTEN Technology** | Project Coordinator | Westminster, Colo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5192562007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 25434 current opportunities from 870 companies**
+**🎯 25461 current opportunities from 870 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
