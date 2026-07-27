@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-22437-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-20104-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-867-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-31433-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-27807-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-889-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -75,6 +75,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Software Development Engineer, Amazon... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484190/software-development-engineer-amazon-workspaces-applications) |
 | **Amazon.com Services LLC** | Software Development Engineer, Amazon... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484188/software-development-engineer-amazon-workspaces-applications) |
 | **Amazon.com Services LLC** | Software Development Engineer, Amazon... | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484189/software-development-engineer-amazon-workspaces-applications) |
+| **Amazon Development Center U.S., Inc.** | Software Development Engineer II, Ama... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10484191/software-development-engineer-ii-amazon-workspaces-applications) |
+| **JPMorgan Chase** | Software Engineer III - AI Developer | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768816) |
+| **JP Morgan Chase** | Software Engineer III - AI Developer | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768816) |
 | **SpaceX** | Full Stack Software Engineer, Manufac... | Starbase, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650988002?gh_jid=8650988002) |
 | **D2L** | Software Developer | Kitchener, Toront... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466) |
 | **TikTok** | Solution Backend Software Engineer - ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7553768729650743560) |
@@ -139,7 +142,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **QuEra Computing** | Scientific Software Engineer - Develo... | Boston, MA, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008) |
 | **SpaceX** | Full Stack Software Engineer (Applica... | Memphis, TN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) |
 | **Annapurna Labs (U.S.) Inc.** | Software Development Engineer - Silic... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483953/software-development-engineer-silicon-development-infrastructure) |
-| **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483782/software-development-engineer-ii-aws-managed-services) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Alexa ... | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483630/software-development-engineer-alexa-connections) |
 | **Amazon Advertising Canada Inc.** | Software Development Engineer - II, S... | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483646/software-development-engineer-ii-sales-technology-amazon-advertising) |
 | **Annapurna Labs (U.S.) Inc.** | Software Engineer, Graviton Software,... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483895/software-engineer-graviton-software-annapurna-labs) |
@@ -149,11 +151,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Advanced Application Engineer | Miami, FL, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153101) |
 | **JPMorgan Chase** | Java AWS Software Engineer III | New York, NY, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210721027) |
 | **JPMorgan Chase** | Software Engineer III Java | OH, United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210743573) |
-| **JPMorgan Chase** | Software Engineer III - Java | OH, United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210746847) |
 | **Oracle** | Manager, Application Software Enginee... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340954) |
 | **JP Morgan Chase** | Java AWS Software Engineer III | New York, NY, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721027) |
 | **JP Morgan Chase** | Software Engineer III Java | OH, United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743573) |
-| **JP Morgan Chase** | Software Engineer III - Java | OH, United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746847) |
+| **Amazon Web Services, Inc.** | Software Development Engineer II, AWS... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483782/software-development-engineer-ii-aws-managed-services) |
 | **Verkada** | Embedded Software Engineer, Access Co... | San Mateo, CA Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5194716007) |
 | **Benchling** | Software Engineer, Backend (Release E... | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benchling/70e672e0-b80b-4232-84cb-27406abfa689/application) |
 | **iCapital Network** | UI Frontend Engineer - Associate | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8645574002) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ZoomInfo** | Software Engineer III - PA085 | Waltham, Massachu... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8604692002) |
 | **Synergy ECP** | Mid-Level Full Stack Developer | Suitland, MD | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/synergyecp/31d5c998-18cd-46bf-9e3a-037d58906dfe/apply) |
 | **OpenAI** | Software Engineer, Privacy Engineerin... | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3/application) |
-| **Appian** | Software Engineering Intern | McLean, Virginia | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 22437 current opportunities from 867 companies**
+**🎯 31433 current opportunities from 889 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
