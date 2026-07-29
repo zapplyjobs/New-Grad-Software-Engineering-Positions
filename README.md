@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-36161-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32052-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-885-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-36094-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31989-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-886-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -97,12 +97,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lucid Motors** | Service Advisor - Roswell , GA | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5193555007) |
 | **Applied Intuition** | Robotic Software Engineer (Drone Stack) | Poway, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/3af70bc2-bcf1-4dc8-ac7b-6e796ccb1175/application) |
 | **D2L** | Software Developer | Kitchener, Toront... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466) |
-| **TikTok** | Backend Software Engineer, Asset Serv... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7476341885049637128) |
-| **TikTok** | Solution Backend Software Engineer - ... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7553768729650743560) |
-| **TikTok** | Software Engineer, TikTok AIGC Agenti... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7613184212766607621) |
 | **D. E. Shaw** | Software Developer | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-2646) |
 | **D. E. Shaw** | Software Developer: Developer Experience | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-developer-experience-5866) |
 | **D. E. Shaw** | Cross Platform Software Engineer | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/cross-platform-software-engineer-5850) |
+| **TikTok** | Backend Software Engineer, Asset Serv... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7476341885049637128) |
+| **TikTok** | Solution Backend Software Engineer - ... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7553768729650743560) |
+| **TikTok** | Software Engineer, TikTok AIGC Agenti... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7613184212766607621) |
 | **OpenAI** | Software Engineer, Enterprise Verticals | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8/application) |
 | **Sift** | Software Engineer, Security Infrastru... | Marina Del Rey, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/ecc6c4af-7c80-4389-a879-5b65ff7e32bf/application) |
 | **Sift** | Software Engineer, Infrastructure | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/a58c387f-d08e-4609-8ce3-eed5c624e61b/application) |
@@ -189,11 +189,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Research Engineer | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103660095526576838) |
 | **DRW** | Data Analyst - Global Markets and Equ... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8094311) |
 | **Applied Intuition** | Machine Learning Engineer - Behavior ... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/129325ce-77e6-4d2a-a24a-6726acb53749/application) |
+| **D. E. Shaw** | Applied AI Engineer | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
+| **D. E. Shaw** | Machine Learning Researcher | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
 | **TikTok** | (General Hire) Machine Learning Engin... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7652731061008992517) |
 | **TikTok** | Machine Learning Engineer, TikTok BRI... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7636708340480641285) |
 | **TikTok** | Machine Learning Engineer,  Ads Creative | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7650428332778948869) |
-| **D. E. Shaw** | Applied AI Engineer | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
-| **D. E. Shaw** | Machine Learning Researcher | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
 | **Apple** | Machine Learning/ Search Engineer - S... | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674796/machine-learning-search-engineer-services-special-projects) |
 | **Apple** | AIML - Director, Data Science and Ins... | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664287/aiml-director-data-science-and-insights) |
 | **Bosch Group** | Autonomous Driving – Internship in Ma... | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) |
@@ -302,10 +302,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | EMC Test Engineer, Google Cloud | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110906807014040262) |
 | **Apple** | Site Reliability Engineer, Apple Data... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674345/site-reliability-engineer-apple-data-platform) |
 | **Trace3** | DevOps | United States | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trace3/jobs/596239) |
+| **D. E. Shaw** | Systems Administrator Intern (New York) | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
 | **TikTok** | Site Reliability Engineer, TikTok Gen... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7599929157435509045) |
 | **TikTok** | Cybersecurity Resilience Specialist (... | New York, New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7626370717710928133) |
 | **TikTok** | Network Engineer, Global BackBone | Seattle, Washington | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605339679789844789) |
-| **D. E. Shaw** | Systems Administrator Intern (New York) | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
 | **Relay** | Finance Systems Administrator | Raleigh, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/relaypro/jobs/8087901) |
 | **Relativity Space** | Manufacturing Integration and Test En... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8656529002?gh_jid=8656529002) |
 | **US Conec** | Automation Engineering Support Techni... | Fort Worth, Texas... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/usconec/jobs/4337838009) |
@@ -416,10 +416,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Per Scholas** | IT Support Technical Instructor | Detroit, Michigan... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4696845006) |
 | **ASM** | Engineer II, Systems Engineering | > Arizona > Phoenix | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4935729101) |
 | **Apple** | ASIC Design Engineer - Cache Controller | Santa Clara | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200624401/asic-design-engineer-cache-controller) |
+| **D. E. Shaw** | Systems Engineering Intern (New York)... | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | **TikTok** | LLM AIOps Development Engineer - Data... | Seattle, Washington | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333525314685237) |
 | **TikTok** | Data Center Site Acquisition Manager ... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7340394754125465906) |
 | **TikTok** | LLM AIOps Development Engineer - Data... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333093151885621) |
-| **D. E. Shaw** | Systems Engineering Intern (New York)... | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | **Northwood Space** | Electrical Engineer- Fleet Operations... | Torrance, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/81f90857-199e-4848-a21a-d5770fb0be6d/application) |
 | **SpaceX** | IT Support Technician | Canandaigua, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650222002?gh_jid=8650222002) |
 | **Relativity Space** | Avionics Test Systems Engineer, Groun... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8653031002?gh_jid=8653031002) |
@@ -451,6 +451,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030150) |
 | **Amazon Data Services, Inc.** | Data Center Chief Engineer, DCEO, DCEO | Hilliard, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487204/data-center-chief-engineer-dceo-dceo) |
 | **Amazon Data Services, Inc.** | Data Center Structural Engineer, DC D... | Herndon, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487259/data-center-structural-engineer-dc-design-engineering) |
+| **Amazon Kuiper Infrastructure LLC** | Phased Array Systems Engineer, Payloa... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487831/phased-array-systems-engineer-payload-antennas-amazon-leo) |
 | **Amazon Web Services, Inc.** | Sr Systems Development Engineer, AWS ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487651/sr-systems-development-engineer-aws-hardware-engineering-services-ai-ultraservers) |
 | **Cummins** | Controls Engineer | Maxton, NC, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431937) |
 | **Honeywell** | Sr Advanced Electrical Engineer | Fort Washington, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153544) |
@@ -498,7 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Data Center Hardware Engineering - Ha... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674138/data-center-hardware-engineering-hardware-system-integration-engineer) |
 | **Microsoft** | Data Center Operation Construction Ma... | Phoenix, Arizona,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924233) |
 | **Microsoft** | Electrical Engineering Project Manage... | Cheyenne, Wyoming... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556873899) |
-| **Apple** | ASIC Design Engineer — IP Integration... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673851/asic-design-engineer-ip-integration-implementation) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -522,12 +522,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Product Manager II, Google Workspace,... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137778519009567430) |
 | **Google** | Group Product Manager, Generative AI,... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120573951616131782) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/9323dc71-74a8-4ae3-8d30-d2fb3271b106/apply) |
-| **TikTok** | TikTok Shop - Global Risk Strategy Pr... | Seattle, Washington | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7660183699381635333) |
-| **TikTok** | Product Manager, Data Management Plat... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7659528582805932293) |
-| **TikTok** | Product Manager Project Intern (TikTo... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663349357178620165) |
 | **D. E. Shaw** | Product Manager — AI Vendor Tools | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/product-manager-ai-vendor-tools-5910) |
 | **D. E. Shaw** | Technical Product Manager - Macro | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/technical-product-manager-macro-5937) |
 | **D. E. Shaw** | Product Manager — Legal Technology In... | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/product-manager-legal-technology-infrastructure-5880) |
+| **TikTok** | TikTok Shop - Global Risk Strategy Pr... | Seattle, Washington | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7660183699381635333) |
+| **TikTok** | Product Manager, Data Management Plat... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7659528582805932293) |
+| **TikTok** | Product Manager Project Intern (TikTo... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663349357178620165) |
 | **Plaid** | Technical Program Manager | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/plaid/3aa943a7-5982-4449-9fc4-397540043fd2/application) |
 | **NBCUniversal** | Product Manager, Platforms | New York, NEW YORK | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140498640) |
 | **Remote** | Product Manager, Contractor Management | EMEA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/remotecom/jobs/7817061003) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 36161 current opportunities from 885 companies**
+**🎯 36094 current opportunities from 886 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
