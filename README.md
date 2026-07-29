@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-36287-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32169-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-36290-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32171-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-885-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -201,6 +201,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NVIDIA** | Applied AI Engineer | US, CA + 5 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Applied-AI-Engineer_JR2018179-3) |
 | **Biogen** | Associate Director, AI/Data Science | Cambridge, MA + 1... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Associate-Director--AI-Data-Science_REQ23662) |
 | **Centene** | Data Analyst IV Healthcare Analytics | FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-IV-Healthcare-Analytics_1643595-1) |
+| **Whatnot** | Data Engineer, CX | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/7f6ab23f-9c17-434b-8ff7-712a9c395b6b) |
 | **Amazon.com Services LLC** | Data Engineer, Data Platform Manageme... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech) |
 | **Amazon.com Services LLC** | Data Engineer, PV Prime Video TV - Tech | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) |
 | **Amazon.com Services LLC** | Data Engineer, Associate Experience, ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487503/data-engineer-associate-experience-amazon-customer-service) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Web Services, Inc.** | Data Engineer, Specialist Technology ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485912/data-engineer-specialist-technology-team-stt-centralized-data-analytics) |
 | **Annapurna Labs (U.S.) Inc.** | SDE, MLA hardware/software co-design,... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486046/sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration) |
 | **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768711) |
-| **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768820) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 36287 current opportunities from 885 companies**
+**🎯 36290 current opportunities from 885 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
