@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-35945-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31901-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-35865-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31830-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-879-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -433,6 +433,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sierra Nevada Corporation** | Systems Engineer II | Lone Tree, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-II_R0030150) |
 | **JPMorgan Chase** | Part Time (30 Hours) Associate Banker... | Tempe, AZ, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774628) |
 | **Sherwin-Williams** | Delivery Driver | Middletown, RI, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618893) |
+| **Sherwin-Williams** | Customer Service Delivery Driver | Saint Marys, PA, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2619186) |
 | **JP Morgan Chase** | Part Time (30 Hours) Associate Banker... | Tempe, AZ, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774628) |
 | **Generac** | National Account Manager II - Data Ce... | Pacific Palisades... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Pacific-Palisades-CA---USA/National-Account-Manager-II---Data-Centers_JR15515) |
 | **CoreWeave** | Data Center Commissioning/Quality Man... | Livingston, NJ / ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coreweave.com/careers/job?4700651006&board=coreweave&gh_jid=4700651006) |
@@ -498,7 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, Deploy... | Fredericksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485598/data-center-controls-engineer-deployment) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, Deploy... | Fredericksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485582/data-center-controls-engineer-deployment) |
 | **Amazon Data Services, Inc.** | Data Center Controls Engineer, Deploy... | Fredericksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10485595/data-center-controls-engineer-deployment) |
-| **Amazon.com Services LLC** | Robotics Systems Engineer I, Tech Dep... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486586/robotics-systems-engineer-i-tech-deployment) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 35945 current opportunities from 879 companies**
+**🎯 35865 current opportunities from 879 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
