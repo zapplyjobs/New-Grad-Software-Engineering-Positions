@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-36054-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32009-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-36038-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31994-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-883-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -197,7 +197,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Centene** | Data Analyst IV Healthcare Analytics | FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Analyst-IV-Healthcare-Analytics_1643595-1) |
 | **Amazon.com Services LLC** | Data Engineer, Data Platform Manageme... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech) |
 | **Amazon.com Services LLC** | Data Engineer, PV Prime Video TV - Tech | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) |
-| **Amazon.com Services LLC** | Sr Applied Scientist, Product Detail ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487371/sr-applied-scientist-product-detail-page) |
+| **Amazon.com Services LLC** | Data Engineer, Associate Experience, ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487503/data-engineer-associate-experience-amazon-customer-service) |
 | **JPMorgan Chase** | Data Engineer III - Python / AWS / SQL | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210727002) |
 | **JP Morgan Chase** | Data Engineer III - Python / AWS / SQL | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002) |
 | **Adobe** | Director of Engineering – Machine Lea... | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director-of-Engineering---Machine-Learning---AI-Products_R170847) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 36054 current opportunities from 883 companies**
+**🎯 36038 current opportunities from 883 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
