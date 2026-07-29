@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-36284-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32167-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-36161-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-32052-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-885-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,13 +66,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Varda Space** | Space Flight Software Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821037003) |
+| **Sift** | Application Software Engineer | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/be082df3-225c-4269-a159-bdb362b21c8e/application) |
+| **Varda Space** | Space Ground Systems Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821048003) |
+| **Varda Space** | Space Mission Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821046003) |
+| **Varda Space** | Space Embedded Linux Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821039003) |
 | **Esri** | Application Developer - JavaScript | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197151007?gh_jid=5197151007) |
 | **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
 | **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Aurora Innovation** | Software Engineer II, Vehicle Platfor... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8627496002?gh_jid=8627496002) |
-| **Varda Space** | Space Firmware Software Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7820983003) |
-| **Varda Space** | Space Embedded Software Engineer, C++ | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7820981003) |
 | **Anduril** | Software Engineer, Quality Integration | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007) |
 | **Anduril** | Software Engineer, Quality Integration | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199074007?gh_jid=5199074007) |
 | **Virtu Financial** | 2027 Internship - Frontend & User Exp... | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
@@ -105,7 +106,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Software Engineer, Enterprise Verticals | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8/application) |
 | **Sift** | Software Engineer, Security Infrastru... | Marina Del Rey, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/ecc6c4af-7c80-4389-a879-5b65ff7e32bf/application) |
 | **Sift** | Software Engineer, Infrastructure | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/a58c387f-d08e-4609-8ce3-eed5c624e61b/application) |
-| **Sift** | Software Engineer, Infrastructure | Marina Del Rey, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/1533f249-ce07-48b0-920a-dd44dd33390a/application) |
 | **SpaceX** | Software Engineer, CDN (Starlink) | Palo Alto, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002) |
 | **SpaceX** | Software Engineer, CDN (Starlink) | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002) |
 | **Apple** | Full-Stack UI Software Engineer - Wal... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671410/full-stack-ui-software-engineer-wallet-payments-commerce-wpc) |
@@ -288,6 +288,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ClickHouse** | Product Security Engineer | Netherlands (remote) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6130151004) |
+| **ClickHouse** | Product Security Engineer | United States (re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6130149004) |
 | **Sezzle** | VP Engineering - Infrastructure & SRE | United States, Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sezzle/jobs/7820867003) |
 | **Capco** | Business Analyst - Dallas - Cyber Sec... | Dallas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8095004) |
 | **ServiceNow** | Sr Enterprise Account Exec (Cybersecu... | Minneapolis, Minn... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000140547869) |
@@ -328,6 +330,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Moderna** | Network Engineer | Norwood, Massachu... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Network-Engineer_R19497) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Power Avionics Hardware Test Engineer... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487344/power-avionics-hardware-test-engineer-amazon-leo) |
 | **Amazon.com Services LLC** | Mechatronics Test Engineer, Hardware ... | N.reading, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487483/mechatronics-test-engineer-hardware-verification-and-validation) |
+| **Amazon Development Center U.S., Inc.** | Security Engineer, Correlation and Re... | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487822/security-engineer-correlation-and-response-aws-security-hub) |
+| **Amazon Development Center U.S., Inc.** | Security Engineer, Correlation and Re... | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487821/security-engineer-correlation-and-response-aws-security-hub) |
 | **JPMorgan Chase** | Site Reliability Engineer II | Chicago, IL, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747513) |
 | **JPMorgan Chase** | Global Security - Technical Security ... | Columbus, OH, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771010) |
 | **JPMorgan Chase** | Infrastructure Engineer [Multiple Pos... | Columbus, OH, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773411) |
@@ -384,10 +388,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Linux Systems Administrator TS/SCI POLY | VA, Centreville, ... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Linux-Systems-Administrator-TS-SCI-POLY_R180037-1) |
 | **Blackstone** | 2024 Blackstone Technology and Innova... | Miami | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/Miami/XMLNAME-2024-Blackstone-Technology-and-Innovations---Cybersecurity-Operations-Analyst_29111) |
 | **Zoom** | Security Engineer | Remote | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Security-Engineer_R18184-1) |
-| **Zoom** | AI Governance Security Engineer | Remote | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/AI-Governance-Security-Engineer_R19432-2) |
-| **Zoom** | Software QA Engineer | San Jose | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-QA-Engineer_R19214) |
-| **SS&C Technologies** | Site Reliability Engineer/L3 Support | New York US + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---New-York-US/Site-Reliability-Engineer-L3-Support_R45226) |
-| **SS&C Technologies** | Site Reliability Engineer/L3 Support | New York US + 3 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---New-York-US/Site-Reliability-Engineer-L3-Support_R45217) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -510,6 +510,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Sift** | Deployment Strategist | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/ac98cdea-f881-4e5d-aab2-b38f9c4f6f0b/application) |
+| **Sift** | Deployment Strategist | Marina Del Rey, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be/application) |
 | **AMD** | AI Cluster Technical Program Manager ... | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/88752/login) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Kansas City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/f522d80f-0d29-4285-82fa-035cf919a458/apply) |
 | **Applied Intuition** | Product Manager - Platform | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/82523b1a-d267-412d-8f46-ac5dc29b2210/application) |
@@ -608,8 +610,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Project Coordinator | Westerville, OH, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276465) |
 | **Stantec** | Project Coordinator | Waterloo, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006951) |
 | **Waymo** | Product Manager, Driving Performance ... | Mountain View, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8085209) |
-| **T. Rowe Price** | Product Analyst | Owings Mills, MD | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Product-Analyst_82749) |
-| **Trimble** | Product Manager | GA Atlanta + 3 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---GA-Atlanta/Sr-Product-Manager_R56473) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 36284 current opportunities from 885 companies**
+**🎯 36161 current opportunities from 885 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
