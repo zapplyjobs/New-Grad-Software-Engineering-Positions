@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-35060-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31033-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-35059-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31031-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-886-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -151,7 +151,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487728/software-development-engineer-amazon-workspaces) |
 | **Amazon.com Services LLC** | Software Development Engineer, Alexa Ads | Irvine, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487575/software-development-engineer-alexa-ads) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, Amazon... | Santa Monica, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk) |
-| **Amazon Data Services, Inc.** | Software Development Engineer, Fulfil... | Arlington, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487617/software-development-engineer-fulfillment-planning-and-execution) |
 | **Amazon Canada Fulfillment Services, ULC** | Software Development Engineer, Amazon... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487480/software-development-engineer-amazon-customer-service) |
 | **JPMorgan Chase** | Associate, Automation Testing Java De... | Wilmington, DE, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210698366) |
 | **JPMorgan Chase** | Software Engineer III- Python, Databr... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210754682) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Blue Origin** | Embedded Software Engineer II, Strata... | Greater Seattle A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-II--Strata-Common-Platform-Team_R68715) |
 | **Blue Origin** | Embedded Software Engineer III, Strat... | Greater Seattle A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Embedded-Software-Engineer-III--Strata-Common-Platform-Team_R68690) |
 | **Blue Origin** | Software Development Engineer Sr | Greater Seattle Area | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-Sr_R57396) |
+| **Vanguard** | Manager, Platform Engineering | Malvern, PA + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Manager--Platform-Engineering_178869-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -399,6 +399,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Baseten** | IT Support/Operations Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/baseten/c07eb44f-b5fa-4808-90b7-03b265d97836/application) |
+| **SpaceX** | Power Systems Engineer (Starlink) | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649976002?gh_jid=8649976002) |
+| **SpaceX** | Electrical Engineer, Facilities (Star... | Redmond, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002) |
 | **VAST** | Driver, Inventory Control | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4697805006?gh_jid=4697805006) |
 | **SpaceX** | IT Support Technician (Logistics) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650224002?gh_jid=8650224002) |
 | **Verkada** | Embedded Engineer - Streaming | San Mateo, CA Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5195862007) |
@@ -422,7 +425,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | LLM AIOps Development Engineer - Data... | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7605333093151885621) |
 | **D. E. Shaw** | Systems Engineering Intern (New York)... | New York | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916) |
 | **Northwood Space** | Electrical Engineer- Fleet Operations... | Torrance, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/81f90857-199e-4848-a21a-d5770fb0be6d/application) |
-| **SpaceX** | IT Support Technician | Canandaigua, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8650222002?gh_jid=8650222002) |
 | **Relativity Space** | Avionics Test Systems Engineer, Groun... | Long Beach, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8653031002?gh_jid=8653031002) |
 | **Redwood Materials** | Class A Driver | McCarran, NV | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6128076004?gh_jid=6128076004) |
 | **Intuitive** | Systems Engineer | Blacksburg, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000140467679) |
@@ -497,8 +499,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Manufacturing Controls Engineer - Stu... | Michigan | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Michigan---Sturgis/Manufacturing-Controls-Engineer---Sturgis--MI-Plant_31154055-1) |
 | **Magna** | IoT Systems Engineer - Co-op (4 month... | Milton, Ontario, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
 | **ALTEN Technology** | Electrical Engineer | Broomfield, Colorado | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197985007) |
-| **Apple** | Data Center Hardware Engineering - Ha... | Sunnyvale | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674138/data-center-hardware-engineering-hardware-system-integration-engineer) |
-| **Microsoft** | Data Center Operation Construction Ma... | Phoenix, Arizona,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924233) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 35060 current opportunities from 886 companies**
+**🎯 35059 current opportunities from 886 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
