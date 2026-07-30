@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-35052-brightgreen?style=flat&logo=briefcase)
-![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31023-informational?style=flat&logo=briefcase)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-35056-brightgreen?style=flat&logo=briefcase)
+![Top: Software Engineering](https://img.shields.io/badge/Software_Engineering-31026-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-886-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -74,8 +74,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Varda Space** | Space Mission Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821046003) |
 | **Varda Space** | Space Embedded Linux Software Engineer | El Segundo, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7821039003) |
 | **Esri** | Application Developer - JavaScript | Vienna, Virginia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197151007?gh_jid=5197151007) |
-| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Esri** | Application Developer - JavaScript | St. Louis, MO - G... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197148007?gh_jid=5197148007) |
+| **Esri** | Application Developer - JavaScript | San Antonio, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5197146007?gh_jid=5197146007) |
 | **Aurora Innovation** | Software Engineer II, Vehicle Platfor... | Pittsburgh, Penns... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aurora.tech/jobs/8627496002?gh_jid=8627496002) |
 | **Anduril** | Software Engineer, Quality Integration | Boston, Massachus... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007) |
 | **Anduril** | Software Engineer, Quality Integration | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5199074007?gh_jid=5199074007) |
@@ -670,7 +670,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 35052 current opportunities from 886 companies**
+**🎯 35056 current opportunities from 886 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
