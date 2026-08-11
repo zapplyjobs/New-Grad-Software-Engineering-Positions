@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Software Jobs](https://img.shields.io/badge/Software_Jobs-29035-brightgreen?style=flat&logo=briefcase)
-![Top: Other Software Roles](https://img.shields.io/badge/Other_Software_Roles-24011-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-854-blue?style=flat&logo=building)
+![Software Jobs](https://img.shields.io/badge/Software_Jobs-29602-brightgreen?style=flat&logo=briefcase)
+![Top: Other Software Roles](https://img.shields.io/badge/Other_Software_Roles-24391-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-855-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027?style=flat&logo=calendar)
 
 </div>
@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Backend Engineer Gra... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669791940490168629) |
-| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
-| **ByteDance** | Network Software Development Engineer... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670778018960542005) |
-| **Google** | Software Engineer, GDC Networking, Go... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104375121682014918) |
-| **Google** | Software Engineer III, Infrastructure... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80928836794884806) |
-| **Google** | Software Engineer III, AI/ML, Google Ads | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74366338629280454) |
+| **ByteDance** | Machine Learning Backend Engineer Gra... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669791940490168629) |
+| **ByteDance** | Multi-Cloud CDN Scheduling Platform E... | Seattle, Washington | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670359288608114949) |
+| **ByteDance** | Network Software Development Engineer... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670778018960542005) |
+| **Google** | Software Engineer, GDC Networking, Go... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104375121682014918) |
+| **Google** | Software Engineer III, Infrastructure... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80928836794884806) |
+| **Google** | Software Engineer III, AI/ML, Google Ads | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74366338629280454) |
 | **GDIT** | Software Developer (COBOL) | USA NY Albany | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Software-Developer--COBOL-_RQ225402) |
 | **GDIT** | Principle Software Engineer | USA FL MacDill AFB | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Principle-Software-Engineer_RQ225700-1) |
 | **GDIT** | Software Engineer | USA FL MacDill AFB | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Software-Engineer_RQ225701-1) |
@@ -153,19 +153,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Chime** | Software Engineer, Communication Plat... | San Francisco, CA, USA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8681191002?gh_jid=8681191002) |
 | **Microsoft** | Software Engineering - Microsoft Comm... | Redmond, Washington, U... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556926920) |
 | **Zipline** | Embedded Software Engineer, Validation | South San Francisco, C... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7848909003) |
-| **Lucid Motors** | Software Engineer, Data Infrastructure | Southfield, MI | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007) |
+| **Lucid Motors** | Software Engineer, Data Infrastructure | Southfield, MI | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007) |
 | **Commvault** | Software Engineer - AI/ML | United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/commvault/jobs/5233623008) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineer II - Streaming | Palo Alto, California | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/9a3114b1-4e3f-461c-91fc-2e1ea028f7b9) |
 | **Accenture Federal Services** | SCON Java Developer | Columbia, MD | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4703025006?gh_jid=4703025006) |
 | **Bosch Group** | Technical Support Mechanic (Hotline) ... | Alcobendas, MD | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000142605839) |
 | **Varda Space** | Ground Systems Software Engineer | El Segundo, California... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7846480003) |
 | **Varda Space** | Mission Software Engineer | El Segundo, California... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7846478003) |
+| **Anduril** | Software Engineer, Target Tracking | Broomfield, Colorado, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007) |
+| **Anduril** | Software Engineer, C++ | Broomfield, Colorado, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007) |
+| **Anduril** | Software Engineer, Battlespace Awareness | Broomfield, Colorado, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007) |
 | **Amazon.com Services LLC** | Software Development Engineer, Ring | North Reading, MA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497258/software-development-engineer-ring) |
 | **Amazon.com Services LLC** | Software Development Engineer, Custom... | Austin, TX | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497914/software-development-engineer-customer-service) |
 | **Amazon Development Center U.S., Inc.** | Software Development Engineer, S3 Buc... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497189/software-development-engineer-s3-buckets) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS - ... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497270/software-development-engineer-aws-amazon-eks) |
-| **Amazon Development Center U.S., Inc.** | Software Development Engineer, AWS Op... | Austin, TX | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497075/software-development-engineer-aws-opensearch-service) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer, Ordering | Vancouver, BC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496603/software-development-engineer-ordering) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,12 +177,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Engineer Graduate (A... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671141679848933685) |
-| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
-| **ByteDance** | Research Scientist Graduate (ML Recom... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670850283815160069) |
-| **Google** | Research Engineer | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103660095526576838) |
-| **Google** | Material Science Research Engineer, D... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141132699489182406) |
-| **Google** | Research Engineer, Humanoids, DeepMind | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105870811830592198) |
+| **ByteDance** | Machine Learning Engineer Graduate (A... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671141679848933685) |
+| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
+| **ByteDance** | Research Scientist Graduate (ML Recom... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670850283815160069) |
+| **Google** | Research Engineer | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103660095526576838) |
+| **Google** | Material Science Research Engineer, D... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/141132699489182406) |
+| **Google** | Research Engineer, Humanoids, DeepMind | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105870811830592198) |
 | **GDIT** | Summer 2027 AI/Machine Learning Inter... | USA VA Falls Church | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
 | **GDIT** | Data Scientist-Mid | USA FL Tampa | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist-Mid_RQ225731-1) |
 | **Manulife** | Data Engineer | California Full Time | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/USA-California---Full-Time-Remote/Data-Engineer_JR26080130) |
@@ -221,6 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Waymo** | ML Engineer, Foundation Model Recipes | Mountain View, CA, USA | 12h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8109035) |
 | **Motional** | Machine Learning Systems Engineer | Boston, Massachusetts,... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://motional.com/open-positions/?gh_jid=7848484003#/7848484003) |
 | **LG Electronics** | Korean Bilingual Procurement Data Ana... | Huntsville, AL | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5384303008) |
+| **Anduril** | Research Scientist, Battlespace Aware... | Broomfield, Colorado, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007) |
 | **Amazon Data Services, Inc.** | Data Engineer, Data Center Engineerin... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496943/data-engineer-data-center-engineering-dce-design-tech) |
 | **Amazon Web Services, Inc.** | Data Engineer, Data : Science Enginee... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497200/data-engineer-data-science-engineering-aws-marketing-data-science-engineering-aws-marketing-taa-data-science-engineering) |
 | **Amazon.com Services LLC** | Machine Learning Engineer, AppStar Da... | New York, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498023/machine-learning-engineer-appstar-data-analytics-engineering) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Elanco** | Research Scientist - Protein Sciences | Indianapolis, IN | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Research-Scientist---Protein-Sciences_R0026649-1) |
 | **Elanco** | Research Scientist - Computational Bi... | Indianapolis, IN | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Research-Scientist---Computational-Biologist_R0026647-1) |
 | **Leidos** | Data Analyst | Fort Worth, TX | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Data-Analyst_R-00188862) |
-| **Entegris** | Specialist, AI Engineer | Bedford, MA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Specialist--AI-Engineer_REQ-13744) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,12 +288,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
-| **ByteDance** | Network Engineer Graduate (Physical N... | Seattle, Washington | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670285492619266309) |
-| **ByteDance** | Production System Engineer Project In... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7662449816279419141) |
-| **Google** | Network Test Engineer | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
-| **Google** | Security Engineer III, Incident Response | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139992044222194374) |
-| **Google** | Network Automation Engineer, AI and I... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95301754161111750) |
+| **ByteDance** | AI Infrastructure Engineer Intern (Co... | Seattle, Washington | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668802157205965109) |
+| **ByteDance** | Network Engineer Graduate (Physical N... | Seattle, Washington | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670285492619266309) |
+| **ByteDance** | Production System Engineer Project In... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7662449816279419141) |
+| **Google** | Network Test Engineer | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/108335218967880390) |
+| **Google** | Security Engineer III, Incident Response | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139992044222194374) |
+| **Google** | Network Automation Engineer, AI and I... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95301754161111750) |
 | **GDIT** | Network Engineer SME | USA HI Camp Smith | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Network-Engineer-SME_RQ223057) |
 | **GDIT** | Security Analyst II -  TS/SCI w/Poly | USA VA Chantilly | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Security-Analyst-II----TS-SCI-w-Poly_RQ226109-1) |
 | **GDIT** | National Assistance Center Quality As... | Any Location / Remote | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/National-Assistance-Center-Quality-Assurance-Specialist_RQ226092) |
@@ -335,22 +335,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cisco** | Site Reliability Engineer | RTP, North Carolina, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2021550-1) |
 | **Cisco** | Site Reliability Engineer | RTP, North Carolina, US | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2021549) |
 | **Backblaze** | Site Reliability Engineer II | Bangalore | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/backblaze/jobs/5372264008) |
-| **Backblaze** | Site Reliability Engineer I | Bangalore | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/backblaze/jobs/5369418008) |
+| **Backblaze** | Site Reliability Engineer I | Bangalore | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/backblaze/jobs/5369418008) |
 | **S&P Global** | DevOps Engineer | Toronto CAN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Toronto-CAN/DevOps-Engineer_324637-2) |
 | **JLL** | Automation Engineer | Weston, WI | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Weston-WI/Automation-Engineer_REQ506652) |
 | **JLL** | Automation Engineer | Sarasota, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sarasota-FL/Automation-Engineer_REQ514352) |
 | **JLL** | Automation Engineer | Apopka, FL | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Apopka-FL/Automation-Engineer_REQ524640) |
-| **Rocket Lab** | Avionics Automation Test Engineer II | Long Beach, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7850474003) |
+| **Rocket Lab** | Avionics Automation Test Engineer II | Long Beach, CA | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7850474003) |
 | **Schweitzer Engineering Laboratories** | Integration & Automation Engineer | King of Prussia | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Integration---Automation-Engineer_2026-22621) |
 | **Captivation** | DevOps Engineer (On-Call/Hybrid) - Li... | Annapolis Junction, MD | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385268008) |
 | **Captivation** | Automated Test Engineer (Hybrid) - Cy... | Annapolis Junction, MD | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385262008) |
 | **RE/SPEC Inc.** | QA Engineer Automated 2 (Contractor) ... | Austin, TX | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RESPECInc/744000142730430) |
-| **Captivation** | Network Engineer 2 (Travel Required) ... | Annapolis Junction, MD | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385208008) |
+| **Captivation** | Network Engineer 2 (Travel Required) ... | Annapolis Junction, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385208008) |
 | **Schweitzer Engineering Laboratories** | Test Engineer | Pullman | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Test-Engineer_2026-21952) |
 | **LLNL** | International Security Analyst | Livermore, CA | 9h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014519966) |
 | **Zipline** | Mechanical / Mechatronics Test Engine... | South San Francisco, C... | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7849130003) |
 | **Zipline** | HW Test Engineer, Battery and Power E... | South San Francisco, C... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7848978003) |
-| **Varda Space** | Automation Engineer - Controls & Python | El Segundo, California... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7846483003) |
+| **Varda Space** | Automation Engineer - Controls & Python | El Segundo, California... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7846483003) |
 | **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
 | **Amazon.com Services LLC** | Application Security Engineer, AppSec... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498030/application-security-engineer-appsec-asset) |
 | **Amazon Kuiper Manufacturing Enterprises LLC** | Power Test Engineer, Satellite Power ... | Redmond, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498000/power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo) |
@@ -399,12 +399,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
-| **ByteDance** | Network Acquisition Specialist Gradua... | San Jose, California | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667258493428271365) |
-| **ByteDance** | Data Center Site Acquisition Speciali... | San Jose, California | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667259987255560453) |
-| **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
-| **Google** | Hardware Engineer | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130730071802421958) |
-| **Google** | Modem Power Firmware Engineer, Pixel | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
+| **ByteDance** | Datacenter Procurement Project Intern... | Seattle, Washington | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665474124261853445) |
+| **ByteDance** | Network Acquisition Specialist Gradua... | San Jose, California | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667258493428271365) |
+| **ByteDance** | Data Center Site Acquisition Speciali... | San Jose, California | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667259987255560453) |
+| **Google** | Silicon Engineer- P and D- (gCPU), De... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/97988079037358790) |
+| **Google** | Hardware Engineer | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130730071802421958) |
+| **Google** | Modem Power Firmware Engineer, Pixel | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91555030850511558) |
 | **Motorola Solutions** | Systems Engineer - Toronto, Ontario, ... | Toronto, Canada (ONT40... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Toronto-Canada-ONT40/Systems-Engineer---Toronto--Ontario--Canada_R66098) |
 | **Motorola Solutions** | Systems Engineer - Ontario OR Quebec,... | Ontario,Canada Offsite... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/OntarioCanada-Offsite/Systems-Engineer---Ontario-OR-Quebec--Canada_R66772) |
 | **Air Liquide** | Pick-up & Delivery Driver/Inside Sale... | Timmins, ON - Riversid... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Timmins-ON---Riverside-Dr/Pick-up---Delivery-Driver-Inside-Sales-Representative_R10096697) |
@@ -439,8 +439,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | ATS Hardware Engineer | Altus, OK, USA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Altus-OK-USA/ATS-Hardware-Engineer_122981) |
 | **Apple** | Systems Engineer - Input Systems | San Jose | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200675575/systems-engineer-input-systems) |
 | **LLNL** | Workforce Operations Administrator - ... | Livermore, CA | 3h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014529496) |
-| **Apple** | Logistics Technician, Data Center Ope... | Santa Clara | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200677140/logistics-technician-data-center-operations) |
-| **Apple** | Logistics Technician, Data Center Ope... | Mesa | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200677134/logistics-technician-data-center-operations) |
+| **Apple** | Logistics Technician, Data Center Ope... | Santa Clara | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200677140/logistics-technician-data-center-operations) |
+| **Apple** | Logistics Technician, Data Center Ope... | Mesa | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200677134/logistics-technician-data-center-operations) |
 | **Rocket Lab** | Driver II | Long Beach, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7849335003) |
 | **Captivation** | Systems Engineer 3 - Linux/PKI/Crypto... | Annapolis Junction, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385198008) |
 | **Captivation** | Systems Engineer 4 | Annapolis Junction, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5385167008) |
@@ -510,9 +510,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Technical Program Manager III, Sensor... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
-| **Google** | Technical Program Manager III, AI Age... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/102695351382614726) |
-| **Google** | Technical Program Manager, Capacity a... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114050166876447430) |
+| **Google** | Technical Program Manager III, Sensor... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80068898879087302) |
+| **Google** | Technical Program Manager III, AI Age... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/102695351382614726) |
+| **Google** | Technical Program Manager, Capacity a... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/114050166876447430) |
 | **T-Mobile** | Product Manager, Technical | Herndon Virginia | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Product-Manager--Technical_REQ361459) |
 | **Danaher** | Technical Project Manager (Onsite in ... | 4 Locations | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Shrewsbury-Massachusetts-United-States/Project-Manager--Onsite-in-Shrewsbury--MA-_R1311648) |
 | **Danaher** | Commercial Product Manager – Custom O... | Coralville Iowa United... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Coralville-Iowa-United-States/Commercial-Product-Manager---Custom-Oligos_R1312960) |
@@ -541,11 +541,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | Implementation Consultant | Omaha Nebraska | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Technical-Implementation-Specialist_R-10388374) |
 | **Fiserv** | Solutions Engineer | Pennsylvania | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Pennsylvania/Solutions-Engineer_R-10388989) |
 | **Fiserv** | Product Manager – Treasury Banking So... | Berkeley Heights, New ... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Product-Manager---Treasury-Banking-Solution_R-10397250) |
-| **Sierra** | Enterprise Sales Engineer (Spanish sp... | San Francisco, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/adaa6543-00df-4e5f-8e40-e4327ccb764c) |
-| **Sierra** | Enterprise Sales Engineer (Brazilian ... | San Francisco, CA | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/102b597d-876d-458f-bf11-58924df4b73d) |
+| **Sierra** | Enterprise Sales Engineer (Spanish sp... | San Francisco, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/adaa6543-00df-4e5f-8e40-e4327ccb764c) |
+| **Sierra** | Enterprise Sales Engineer (Brazilian ... | San Francisco, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/102b597d-876d-458f-bf11-58924df4b73d) |
 | **Apple** | Solutions AI Product Manager | Cupertino | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200677040/solutions-ai-product-manager) |
 | **Wiz** | Solutions Engineer, Growth - East | USA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.wiz.io/careers/job/4703831006/:title?gh_jid=4703831006) |
-| **Pure Storage** | Product Manager, UX | Santa Clara, California | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/8096749) |
+| **Pure Storage** | Product Manager, UX | Santa Clara, California | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/purestorage/jobs/8096749) |
 | **Microsoft** | Technical Program Manager | Redmond, Washington, U... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556942072) |
 | **Lovable** | Deployment Strategist | Boston | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lovable/fb1e1c16-b5e8-4c9e-81f1-4fe69ac157d1) |
 | **Rubrik** | Inside Sales Engineer (Remote) | Austin, TX | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.8114370?gh_jid=8114370) |
@@ -621,21 +621,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SpaceX** | Technical Recruiter (Bastrop) | Bastrop, TX | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002) |
-| **SpaceX** | Technical Recruiter (Redmond) | Redmond, WA | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8694882002?gh_jid=8694882002) |
-| **SpaceX** | Technical Recruiter (Palo Alto) | Palo Alto, CA | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8695154002?gh_jid=8695154002) |
-| **ByteDance** | Student Researcher (AI Foundation Mod... | Seattle, Washington | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670330161462364421) |
-| **ByteDance** | Hardware UX Designer Graduate (PICO-E... | San Jose, California | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668487570285496581) |
-| **ByteDance** | Backend Inference Framework Engineer ... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669670735275526453) |
-| **Google** | NPI Engineer, Embedded Firmware and S... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105397472074834630) |
-| **Google** | Manager, AI for Large Scale Systems | United States | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131267526829974214) |
-| **Google** | Forward Deployed Engineer III, Google... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131670671787729606) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
-| **Apple** | US - Specialist: Seasonal, Part-time | United States | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438158/us-specialist-seasonal-part-time) |
-| **Base Power** | Technical Talent Partner | Austin, TX | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/67ca61f8-8651-4941-8f6e-e0f57076b4fb) |
-| **Eurofins** | Assistant Scientist | Easton, MD | 30m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
-| **Zipline** | Global Supply Manager, Hardware & Con... | South San Francisco, C... | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7851438003) |
-| **Anthropic** | Personnel Security Management Specialist | New York City, NY | 48m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5383702008) |
+| **SpaceX** | Technical Recruiter (Bastrop) | Bastrop, TX | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002) |
+| **SpaceX** | Technical Recruiter (Redmond) | Redmond, WA | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8694882002?gh_jid=8694882002) |
+| **SpaceX** | Technical Recruiter (Palo Alto) | Palo Alto, CA | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8695154002?gh_jid=8695154002) |
+| **ByteDance** | Student Researcher (AI Foundation Mod... | Seattle, Washington | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670330161462364421) |
+| **ByteDance** | Hardware UX Designer Graduate (PICO-E... | San Jose, California | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7668487570285496581) |
+| **ByteDance** | Backend Inference Framework Engineer ... | San Jose, California | 25m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669670735275526453) |
+| **Google** | NPI Engineer, Embedded Firmware and S... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/105397472074834630) |
+| **Google** | Manager, AI for Large Scale Systems | United States | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131267526829974214) |
+| **Google** | Forward Deployed Engineer III, Google... | United States | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131670671787729606) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Apple** | US - Specialist: Seasonal, Part-time | United States | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438158/us-specialist-seasonal-part-time) |
+| **Base Power** | Technical Talent Partner | Austin, TX | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/67ca61f8-8651-4941-8f6e-e0f57076b4fb) |
+| **Eurofins** | Assistant Scientist | Easton, MD | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000142779949) |
+| **Zipline** | Global Supply Manager, Hardware & Con... | South San Francisco, C... | 40m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7851438003) |
+| **Anthropic** | Personnel Security Management Specialist | New York City, NY | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5383702008) |
 | **GDIT** | Provider Relations Representative | USA VA Falls Church | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Provider-Relations-Representative_RQ226006) |
 | **GDIT** | WMD Counterproliferation Expert (remo... | Any Location / Remote | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/WMD-Counterproliferation-Expert--remote-part-time-role-_RQ226198) |
 | **GDIT** | Provider Data Supervisor | USA VA Falls Church | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Provider-Data-Supervisor_RQ226041-1) |
@@ -776,7 +776,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 29035 current opportunities from 854 companies**
+**🎯 29602 current opportunities from 855 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
